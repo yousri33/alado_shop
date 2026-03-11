@@ -1,0 +1,1543 @@
+Source,ID/Code,Name,Wilaya ID,Wilaya Name,Code Postal,Has Stop Desk
+dhd,1000,Adrar,1,Adrar,1000,1
+dhd,1044,Akabli,1,Adrar,1044,0
+dhd,1003,Aoulef,1,Adrar,1003,0
+dhd,1026,Bouda,1,Adrar,1026,0
+dhd,1008,Fenoughil,1,Adrar,1008,0
+dhd,1049,In Zghmir,1,Adrar,1049,0
+dhd,1025,Ouled Ahmed Timmi,1,Adrar,1025,0
+dhd,1004,Reggane,1,Adrar,1004,0
+dhd,1009,Sali,1,Adrar,1009,0
+dhd,1022,Sebaa,1,Adrar,1022,0
+dhd,1029,Tamantit,1,Adrar,1029,0
+dhd,1024,Tamest,1,Adrar,1024,0
+dhd,1043,Timekten,1,Adrar,1043,0
+dhd,1031,Tit,1,Adrar,1031,0
+dhd,1011,Tsabit,1,Adrar,1011,0
+dhd,1007,Zaouiet Kounta,1,Adrar,1007,0
+dhd,2018,Abou El Hassan,2,Chlef,2018,0
+dhd,2004,Ain Merane,2,Chlef,2004,0
+dhd,2039,Benairia,2,Chlef,2039,0
+dhd,2071,Beni Bouattab,2,Chlef,2071,0
+dhd,2017,Beni Haoua,2,Chlef,2017,0
+dhd,2035,Beni Rached,2,Chlef,2035,0
+dhd,2002,Boukadir,2,Chlef,2002,0
+dhd,2021,Bouzeghaia,2,Chlef,2021,0
+dhd,2070,Breira,2,Chlef,2070,0
+dhd,2020,Chettia,2,Chlef,2020,0
+dhd,2000,Chlef,2,Chlef,2000,1
+dhd,2036,Dahra,2,Chlef,2036,0
+dhd,2050,El Hadjadj,2,Chlef,2050,0
+dhd,2008,El Karimia,2,Chlef,2008,0
+dhd,2015,El Marsa,2,Chlef,2015,0
+dhd,2031,Harchoun,2,Chlef,2031,0
+dhd,2038,Herenfa,2,Chlef,2038,0
+dhd,2049,Labiod Medjadja,2,Chlef,2049,0
+dhd,2060,Moussadek,2,Chlef,2060,0
+dhd,2003,Oued Fodda,2,Chlef,2003,0
+dhd,2061,Oued Goussine,2,Chlef,2061,0
+dhd,2011,Oued Sly,2,Chlef,2011,0
+dhd,2029,Ouled Abbes,2,Chlef,2029,0
+dhd,2037,Ouled Ben Abdelkader,2,Chlef,2037,0
+dhd,2010,Ouled Fares,2,Chlef,2010,0
+dhd,2024,Oum Drou,2,Chlef,2024,0
+dhd,2025,Sendjas,2,Chlef,2025,0
+dhd,2066,Sidi Abderrahmane,2,Chlef,2066,0
+dhd,2009,Sidi Akkacha,2,Chlef,2009,0
+dhd,2033,Sobha,2,Chlef,2033,0
+dhd,2043,Tadjena,2,Chlef,2043,0
+dhd,2065,Talassa,2,Chlef,2065,0
+dhd,2012,Taougrite,2,Chlef,2012,0
+dhd,2006,Tenes,2,Chlef,2006,0
+dhd,2014,Zeboudja,2,Chlef,2014,0
+dhd,3001,Aflou,3,Laghouat,3001,0
+dhd,3012,Ain Madhi,3,Laghouat,3012,0
+dhd,3028,Ain Sidi Ali,3,Laghouat,3028,0
+dhd,3013,Beidha,3,Laghouat,3013,0
+dhd,3033,Benacer Benchohra,3,Laghouat,3033,0
+dhd,3005,Brida,3,Laghouat,3005,0
+dhd,3014,El Assafia,3,Laghouat,3014,0
+dhd,3023,El Ghicha,3,Laghouat,3023,0
+dhd,3040,El Haouaita,3,Laghouat,3040,0
+dhd,3025,Gueltat Sidi Saad,3,Laghouat,3025,0
+dhd,3038,Hadj Mechri,3,Laghouat,3038,0
+dhd,3022,Hassi Delaa,3,Laghouat,3022,0
+dhd,3004,Hassi R'mel,3,Laghouat,3004,0
+dhd,3010,Kheneg,3,Laghouat,3010,0
+dhd,3003,Ksar El Hirane,3,Laghouat,3003,0
+dhd,3000,Laghouat,3,Laghouat,3000,1
+dhd,3041,Oued M'zi,3,Laghouat,3041,0
+dhd,3027,Oued Morra,3,Laghouat,3027,0
+dhd,3034,Sebgag,3,Laghouat,3034,0
+dhd,3024,Sidi Bouzid,3,Laghouat,3024,0
+dhd,3019,Sidi Makhlouf,3,Laghouat,3019,0
+dhd,3007,Tadjemout,3,Laghouat,3007,0
+dhd,3011,Tadjrouna,3,Laghouat,3011,0
+dhd,3026,Taouiala,3,Laghouat,3026,0
+dhd,4020,Ain Babouche,4,Oum El Bouaghi,4020,0
+dhd,4001,Ain Beida,4,Oum El Bouaghi,4001,0
+dhd,4025,Ain Diss,4,Oum El Bouaghi,4025,0
+dhd,4005,Ain Fekroune,4,Oum El Bouaghi,4005,1
+dhd,4006,Ain Kercha,4,Oum El Bouaghi,4006,0
+dhd,4002,Ain M'lila,4,Oum El Bouaghi,4002,0
+dhd,4023,Ain Zitoun,4,Oum El Bouaghi,4023,0
+dhd,4026,Behir Chergui,4,Oum El Bouaghi,4026,0
+dhd,4015,Berriche,4,Oum El Bouaghi,4015,0
+dhd,4021,Bir Chouhada,4,Oum El Bouaghi,4021,0
+dhd,4008,Dhala,4,Oum El Bouaghi,4008,0
+dhd,4038,El Amiria,4,Oum El Bouaghi,4038,0
+dhd,4044,El Belala,4,Oum El Bouaghi,4044,0
+dhd,4040,El Djazia,4,Oum El Bouaghi,4040,0
+dhd,4042,El Fedjoudj Boughrara Sa,4,Oum El Bouaghi,4042,0
+dhd,4032,El Harmilia,4,Oum El Bouaghi,4032,0
+dhd,4013,Fkirina,4,Oum El Bouaghi,4013,0
+dhd,4012,Hanchir Toumghani,4,Oum El Bouaghi,4012,0
+dhd,4018,Ksar Sbahi,4,Oum El Bouaghi,4018,0
+dhd,4004,Meskiana,4,Oum El Bouaghi,4004,0
+dhd,4047,Oued Nini,4,Oum El Bouaghi,4047,0
+dhd,4041,Ouled Gacem,4,Oum El Bouaghi,4041,0
+dhd,4019,Ouled Hamla,4,Oum El Bouaghi,4019,0
+dhd,4036,Ouled Zouai,4,Oum El Bouaghi,4036,0
+dhd,4000,Oum El Bouaghi,4,Oum El Bouaghi,4000,1
+dhd,4045,Rahia,4,Oum El Bouaghi,4045,0
+dhd,4011,Sigus,4,Oum El Bouaghi,4011,0
+dhd,4010,Souk Naamane,4,Oum El Bouaghi,4010,0
+dhd,4024,Zorg,4,Oum El Bouaghi,4024,0
+dhd,5032,Ain Djasser,5,Batna,5032,0
+dhd,5002,Ain Touta,5,Batna,5002,0
+dhd,5031,Ain Yagout,5,Batna,5031,0
+dhd,5007,Arris,5,Batna,5007,0
+dhd,5017,Azil Abedelkader,5,Batna,5017,0
+dhd,5001,Barika,5,Batna,5001,1
+dhd,5000,Batna,5,Batna,5000,1
+dhd,5141,Beni Foudhala El Hakania,5,Batna,5141,0
+dhd,5045,Bitam,5,Batna,5045,0
+dhd,5062,Boulhilat,5,Batna,5062,0
+dhd,5057,Boumagueur,5,Batna,5057,0
+dhd,5104,Boumia,5,Batna,5104,0
+dhd,5041,Bouzina,5,Batna,5041,0
+dhd,5039,Chemora,5,Batna,5039,0
+dhd,5108,Chir,5,Batna,5108,0
+dhd,5105,Djerma,5,Batna,5105,0
+dhd,5046,Djezzar,5,Batna,5046,0
+dhd,5116,El Hassi,5,Batna,5116,0
+dhd,5015,El Madher,5,Batna,5015,0
+dhd,5078,Fesdis,5,Batna,5078,0
+dhd,5049,Foum Toub,5,Batna,5049,0
+dhd,5043,Ghassira,5,Batna,5043,0
+dhd,5068,Gosbat,5,Batna,5068,0
+dhd,5067,Guigba,5,Batna,5067,0
+dhd,5033,Hidoussa,5,Batna,5033,0
+dhd,5026,Ichmoul,5,Batna,5026,0
+dhd,5083,Inoughissen,5,Batna,5083,0
+dhd,5079,Kimmel,5,Batna,5079,0
+dhd,5047,Ksar Bellezma,5,Batna,5047,0
+dhd,5042,Larbaa,5,Batna,5042,0
+dhd,5117,Lazrou,5,Batna,5117,0
+dhd,5088,Lemsane,5,Batna,5088,0
+dhd,5037,M Doukal,5,Batna,5037,0
+dhd,5123,Maafa,5,Batna,5123,0
+dhd,5012,Menaa,5,Batna,5012,0
+dhd,5013,Merouana,5,Batna,5013,0
+dhd,5004,N Gaous,5,Batna,5004,0
+dhd,5054,Oued Chaaba,5,Batna,5054,0
+dhd,5016,Oued El Ma,5,Batna,5016,0
+dhd,5036,Oued Taga,5,Batna,5036,0
+dhd,5121,Ouled Ammar,5,Batna,5121,0
+dhd,5011,Ouled Aouf,5,Batna,5011,0
+dhd,5065,Ouled Fadel,5,Batna,5065,0
+dhd,5044,Ouled Sellem,5,Batna,5044,0
+dhd,5066,Ouled Si Slimane,5,Batna,5066,0
+dhd,5076,Ouyoun El Assafir,5,Batna,5076,0
+dhd,5091,Rahbat,5,Batna,5091,0
+dhd,5009,Ras El Aioun,5,Batna,5009,0
+dhd,5064,Sefiane,5,Batna,5064,0
+dhd,5027,Seggana,5,Batna,5027,0
+dhd,5025,Seriana,5,Batna,5025,0
+dhd,5020,T Kout,5,Batna,5020,0
+dhd,5051,Talkhamt,5,Batna,5051,0
+dhd,5055,Taxlent,5,Batna,5055,0
+dhd,5142,Tazoult,5,Batna,5142,0
+dhd,5035,Teniet El Abed,5,Batna,5035,0
+dhd,5060,Tighanimine,5,Batna,5060,0
+dhd,5107,Tigharghar,5,Batna,5107,0
+dhd,5027,Tilatou,5,Batna,5027,0
+dhd,5023,Timgad,5,Batna,5023,0
+dhd,5071,Zanet El Beida,5,Batna,5071,0
+dhd,6021,Adekar,6,Béjaïa,6021,0
+dhd,6013,Ait R'zine,6,Béjaïa,6013,0
+dhd,6044,Ait Smail,6,Béjaïa,6044,0
+dhd,6001,Akbou,6,Béjaïa,6001,0
+dhd,6142,Akfadou,6,Béjaïa,6142,0
+dhd,6034,Amalou,6,Béjaïa,6034,0
+dhd,6008,Amizour,6,Béjaïa,6008,0
+dhd,6007,Aokas,6,Béjaïa,6007,0
+dhd,6009,Barbacha,6,Béjaïa,6009,0
+dhd,6000,Bejaia,6,Béjaïa,6000,1
+dhd,6082,Beni Dejllil,6,Béjaïa,6082,0
+dhd,6106,Beni K'sila,6,Béjaïa,6106,0
+dhd,6039,Beni Mallikeche,6,Béjaïa,6039,0
+dhd,6024,Benimaouche,6,Béjaïa,6024,0
+dhd,6018,Boudjellil,6,Béjaïa,6018,0
+dhd,6031,Bouhamza,6,Béjaïa,6031,0
+dhd,6059,Boukhelifa,6,Béjaïa,6059,0
+dhd,6052,Chellata,6,Béjaïa,6052,0
+dhd,6022,Chemini,6,Béjaïa,6022,0
+dhd,6016,Darghina,6,Béjaïa,6016,0
+dhd,6074,Dra El Caid,6,Béjaïa,6074,0
+dhd,6003,El Kseur,6,Béjaïa,6003,0
+dhd,6041,Fenaia Il Maten,6,Béjaïa,6041,0
+dhd,6033,Feraoun,6,Béjaïa,6033,0
+dhd,6014,Ighil Ali,6,Béjaïa,6014,0
+dhd,6057,Ighram,6,Béjaïa,6057,0
+dhd,6032,Kendira,6,Béjaïa,6032,0
+dhd,6004,Kherrata,6,Béjaïa,6004,0
+dhd,6043,Leflaye,6,Béjaïa,6043,0
+dhd,6038,M'cisna,6,Béjaïa,6038,0
+dhd,6076,Melbou,6,Béjaïa,6076,0
+dhd,6017,Oued Ghir,6,Béjaïa,6017,0
+dhd,6010,Ouzellaguene,6,Béjaïa,6010,0
+dhd,6011,Seddouk,6,Béjaïa,6011,0
+dhd,6005,Sidi Aich,6,Béjaïa,6005,0
+dhd,6085,Sidi Ayad,6,Béjaïa,6085,0
+dhd,6020,Smaoun,6,Béjaïa,6020,0
+dhd,6012,Souk El Tenine,6,Béjaïa,6012,0
+dhd,6042,Souk Oufella,6,Béjaïa,6042,0
+dhd,6066,Tala Hamza,6,Béjaïa,6066,0
+dhd,6109,Tamokra,6,Béjaïa,6109,0
+dhd,6090,Tamridjet,6,Béjaïa,6090,0
+dhd,6035,Taourit Ighil,6,Béjaïa,6035,0
+dhd,6015,Taskriout,6,Béjaïa,6015,0
+dhd,6006,Tazmalt,6,Béjaïa,6006,0
+dhd,6087,Tibane,6,Béjaïa,6087,0
+dhd,6023,Tichy,6,Béjaïa,6023,0
+dhd,6028,Tifra,6,Béjaïa,6028,0
+dhd,6019,Timezrit,6,Béjaïa,6019,0
+dhd,6037,Tinebdar,6,Béjaïa,6037,0
+dhd,6060,Tizi N'berber,6,Béjaïa,6060,0
+dhd,6030,Toudja,6,Béjaïa,6030,0
+dhd,7039,Ain Naga,7,Biskra,7039,0
+dhd,7013,Ain Zaatout,7,Biskra,7013,0
+dhd,7000,Biskra,7,Biskra,7000,1
+dhd,7021,Bordj Ben Azzouz,7,Biskra,7021,0
+dhd,7022,Bouchagroun,7,Biskra,7022,0
+dhd,7023,Branis,7,Biskra,7023,0
+dhd,7024,Chetma,7,Biskra,7024,0
+dhd,7025,Djemorah,7,Biskra,7025,0
+dhd,7026,El Feidh,7,Biskra,7026,0
+dhd,7027,El Ghrous,7,Biskra,7027,0
+dhd,7066,El Hadjab,7,Biskra,7066,0
+dhd,7028,El Haouch,7,Biskra,7028,0
+dhd,7008,El Kantara,7,Biskra,7008,0
+dhd,7030,El Outaya,7,Biskra,7030,0
+dhd,7031,Foughala,7,Biskra,7031,0
+dhd,7032,Khenguet Sidi Nadji,7,Biskra,7032,0
+dhd,7009,Lichana,7,Biskra,7009,0
+dhd,7033,Lioua,7,Biskra,7033,0
+dhd,7010,M'chouneche,7,Biskra,7010,0
+dhd,7068,M'lili,7,Biskra,7068,0
+dhd,7034,Mekhadma,7,Biskra,7034,0
+dhd,7067,Meziraa,7,Biskra,7067,0
+dhd,7035,Oumache,7,Biskra,7035,0
+dhd,7011,Ourlal,7,Biskra,7011,0
+dhd,7005,Sidi Okba,7,Biskra,7005,0
+dhd,7003,Tolga,7,Biskra,7003,0
+dhd,7012,Zeribet El Oued,7,Biskra,7012,0
+dhd,8003,Abadla,8,Béchar,8003,0
+dhd,8000,Bechar,8,Béchar,8000,1
+dhd,8010,Beni Ounif,8,Béchar,8010,0
+dhd,8034,Boukais,8,Béchar,8034,0
+dhd,8023,Erg Ferradj,8,Béchar,8023,0
+dhd,8011,Kenadsa,8,Béchar,8011,0
+dhd,8026,Lahmar,8,Béchar,8026,0
+dhd,8027,Mechraa H.boumediene,8,Béchar,8027,0
+dhd,8041,Meridja,8,Béchar,8041,0
+dhd,8042,Mogheul,8,Béchar,8042,0
+dhd,8030,Taghit,8,Béchar,8030,0
+dhd,9023,Ain Romana,9,Blida,9023,0
+dhd,9003,Beni Mered,9,Blida,9003,1
+dhd,9024,Beni Tamou,9,Blida,9024,0
+dhd,9025,Benkhelil,9,Blida,9025,0
+dhd,9000,Blida,9,Blida,9000,0
+dhd,9019,Bouarfa,9,Blida,9019,0
+dhd,9001,Boufarik,9,Blida,9001,1
+dhd,9008,Bougara,9,Blida,9008,0
+dhd,9020,Bouinan,9,Blida,9020,0
+dhd,9009,Chebli,9,Blida,9009,0
+dhd,9010,Chiffa,9,Blida,9010,0
+dhd,9027,Chrea,9,Blida,9027,0
+dhd,9028,Djebabra,9,Blida,9028,0
+dhd,9011,El Affroun,9,Blida,9011,0
+dhd,9029,Guerrouaou,9,Blida,9029,0
+dhd,9030,Hammam Melouane,9,Blida,9030,0
+dhd,9002,Larbaa,9,Blida,9002,0
+dhd,9012,Meftah,9,Blida,9012,0
+dhd,9013,Mouzaia,9,Blida,9013,0
+dhd,9032,Oued Djer,9,Blida,9032,0
+dhd,9014,Oued El Alleug,9,Blida,9014,0
+dhd,9033,Ouled Slama,9,Blida,9033,0
+dhd,9015,Ouled Yaich,9,Blida,9015,1
+dhd,9034,Souhane,9,Blida,9034,0
+dhd,9022,Souma,9,Blida,9022,0
+dhd,10007,Aghbalou,10,Bouira,10007,0
+dhd,10008,Ahl El Ksar,10,Bouira,10008,0
+dhd,10005,Ain Bessem,10,Bouira,10005,0
+dhd,10031,Ain El Hadjar,10,Bouira,10031,0
+dhd,10032,Ain Laloui,10,Bouira,10032,0
+dhd,10033,Ain Turk,10,Bouira,10033,0
+dhd,10034,Ait Laaziz,10,Bouira,10034,0
+dhd,10010,Aomar,10,Bouira,10010,0
+dhd,10012,Bechloul,10,Bouira,10012,0
+dhd,10013,Bir Ghbalou,10,Bouira,10013,0
+dhd,10014,Bordj Okhriss,10,Bouira,10014,0
+dhd,10016,Bouderbala,10,Bouira,10016,0
+dhd,10000,Bouira,10,Bouira,10000,1
+dhd,10054,Boukram,10,Bouira,10054,0
+dhd,10019,Chorfa,10,Bouira,10019,0
+dhd,10057,Dechmia,10,Bouira,10057,0
+dhd,10020,Dirah,10,Bouira,10020,0
+dhd,10036,Djebahia,10,Bouira,10036,0
+dhd,10021,El Adjiba,10,Bouira,10021,0
+dhd,10022,El Asnam,10,Bouira,10022,0
+dhd,10023,El Hachimia,10,Bouira,10023,0
+dhd,10058,El Hakimia,10,Bouira,10058,0
+dhd,10038,El Khabouzia,10,Bouira,10038,0
+dhd,10060,El Mokrani,10,Bouira,10060,0
+dhd,10037,Guerrouma,10,Bouira,10037,0
+dhd,10065,Hadjera Zerga,10,Bouira,10065,0
+dhd,10024,Haizer,10,Bouira,10024,0
+dhd,10030,Hanif,10,Bouira,10030,0
+dhd,10006,Kadiria,10,Bouira,10006,0
+dhd,10002,Lakhdaria,10,Bouira,10002,0
+dhd,10003,M Chedallah,10,Bouira,10003,0
+dhd,10039,Maala,10,Bouira,10039,0
+dhd,10071,Mamora,10,Bouira,10071,0
+dhd,10040,Mezdour,10,Bouira,10040,0
+dhd,10075,Oued El Berdi,10,Bouira,10075,0
+dhd,10081,Ouled Rached,10,Bouira,10081,0
+dhd,10042,Raouraoua,10,Bouira,10042,0
+dhd,10083,Ridane,10,Bouira,10083,0
+dhd,10043,Saharidj,10,Bouira,10043,0
+dhd,10044,Souk El Khemis,10,Bouira,10044,0
+dhd,10004,Sour El Ghozlane,10,Bouira,10004,0
+dhd,10089,Taghzout,10,Bouira,10089,0
+dhd,10045,Taguedite,10,Bouira,10045,0
+dhd,10011,Taourirt,10,Bouira,10011,0
+dhd,10072,Z'barbar,10,Bouira,10072,0
+dhd,11012,Abalessa,11,Tamanrasset,11012,0
+dhd,11003,Ain Amguel,11,Tamanrasset,11003,0
+dhd,11020,Idles,11,Tamanrasset,11020,0
+dhd,11000,Tamanrasset,11,Tamanrasset,11000,1
+dhd,11010,Tazrouk,11,Tamanrasset,11010,0
+dhd,12008,Ain Zerga,12,Tébessa,12008,0
+dhd,12035,Bedjene,12,Tébessa,12035,0
+dhd,12019,Bekkaria,12,Tébessa,12019,0
+dhd,12036,Bir Dheheb,12,Tébessa,12036,0
+dhd,12001,Bir El Ater,12,Tébessa,12001,0
+dhd,12011,Bir Mokkadem,12,Tébessa,12011,0
+dhd,12012,Boukhadra,12,Tébessa,12012,0
+dhd,12039,Boulhaf Dyr,12,Tébessa,12039,0
+dhd,12002,Cheria,12,Tébessa,12002,0
+dhd,12005,El Aouinet,12,Tébessa,12005,0
+dhd,12041,El Houidjbet,12,Tébessa,12041,0
+dhd,12006,El Kouif,12,Tébessa,12006,0
+dhd,12014,El Malabiod,12,Tébessa,12014,0
+dhd,12023,El Meridj,12,Tébessa,12023,0
+dhd,12042,El Mezeraa,12,Tébessa,12042,0
+dhd,12015,El Ogla,12,Tébessa,12015,0
+dhd,12043,El Ogla El Malha,12,Tébessa,12043,0
+dhd,12044,Ferkane,12,Tébessa,12044,0
+dhd,12046,Guorriguer,12,Tébessa,12046,0
+dhd,12016,Hammamet,12,Tébessa,12016,0
+dhd,12017,Morssot,12,Tébessa,12017,0
+dhd,12024,Negrine,12,Tébessa,12024,0
+dhd,12003,Ouenza,12,Tébessa,12003,0
+dhd,12027,Oum Ali,12,Tébessa,12027,0
+dhd,12037,Saf Saf El Ouesra,12,Tébessa,12037,0
+dhd,12047,Stah Guentis,12,Tébessa,12047,0
+dhd,12000,Tebessa,12,Tébessa,12000,1
+dhd,12053,Telidjen,12,Tébessa,12053,0
+dhd,13028,Ain Fettah,13,Tlemcen,13028,0
+dhd,13022,Ain Fezza,13,Tlemcen,13022,0
+dhd,13023,Ain Ghoraba,13,Tlemcen,13023,0
+dhd,13053,Ain Kebira,13,Tlemcen,13053,0
+dhd,13054,Ain Nehala,13,Tlemcen,13054,0
+dhd,13012,Ain Tallout,13,Tlemcen,13012,0
+dhd,13013,Ain Youcef,13,Tlemcen,13013,0
+dhd,13058,Amieur,13,Tlemcen,13058,0
+dhd,13080,Azails,13,Tlemcen,13080,0
+dhd,13014,Bab El Assa,13,Tlemcen,13014,0
+dhd,13060,Beni Bahdel,13,Tlemcen,13060,0
+dhd,13049,Beni Boussaid,13,Tlemcen,13049,0
+dhd,13077,Beni Khaled,13,Tlemcen,13077,0
+dhd,13061,Beni Mester,13,Tlemcen,13061,0
+dhd,13025,Beni Ouarsous,13,Tlemcen,13025,0
+dhd,13083,Beni Smiel,13,Tlemcen,13083,0
+dhd,13037,Beni Snous,13,Tlemcen,13037,0
+dhd,13008,Bensekrane,13,Tlemcen,13008,0
+dhd,13026,Bouhlou,13,Tlemcen,13026,0
+dhd,13066,Bouihi,13,Tlemcen,13066,0
+dhd,13048,Chetouane,13,Tlemcen,13048,0
+dhd,13063,Dar Yaghmouracene,13,Tlemcen,13063,0
+dhd,13029,Djebala,13,Tlemcen,13029,0
+dhd,13031,El Aricha,13,Tlemcen,13031,0
+dhd,13033,El Fehoul,13,Tlemcen,13033,0
+dhd,13034,El Gor,13,Tlemcen,13034,0
+dhd,13035,Fellaoucene,13,Tlemcen,13035,0
+dhd,13002,Ghazaouet,13,Tlemcen,13002,0
+dhd,13036,Hammam Boughrara,13,Tlemcen,13036,0
+dhd,13009,Hennaya,13,Tlemcen,13009,0
+dhd,13015,Honaine,13,Tlemcen,13015,0
+dhd,13001,Maghnia,13,Tlemcen,13001,0
+dhd,13106,Mansourah,13,Tlemcen,13106,0
+dhd,13017,Marsa Ben M'hidi,13,Tlemcen,13017,0
+dhd,13024,Msirda Fouaga,13,Tlemcen,13024,0
+dhd,13004,Nedroma,13,Tlemcen,13004,0
+dhd,13068,Oued Chouly,13,Tlemcen,13068,0
+dhd,13010,Ouled Mimoun,13,Tlemcen,13010,0
+dhd,13070,Ouled Riyah,13,Tlemcen,13070,0
+dhd,13005,Remchi,13,Tlemcen,13005,0
+dhd,13011,Sabra,13,Tlemcen,13011,0
+dhd,13042,Sebbaa Chioukh,13,Tlemcen,13042,0
+dhd,13006,Sebdou,13,Tlemcen,13006,1
+dhd,13019,Sidi Abdelli,13,Tlemcen,13019,0
+dhd,13043,Sidi Djilali,13,Tlemcen,13043,0
+dhd,13044,Sidi Medjahed,13,Tlemcen,13044,0
+dhd,13020,Souahlia,13,Tlemcen,13020,0
+dhd,13046,Souani,13,Tlemcen,13046,0
+dhd,13078,Souk Tleta,13,Tlemcen,13078,0
+dhd,13079,Terny Beni Hediel,13,Tlemcen,13079,0
+dhd,13047,Tianet,13,Tlemcen,13047,0
+dhd,13000,Tlemcen,13,Tlemcen,13000,1
+dhd,13051,Zenata,13,Tlemcen,13051,0
+dhd,14040,Ain Bouchekif,14,Tiaret,14040,0
+dhd,14007,Ain Deheb,14,Tiaret,14007,0
+dhd,14008,Ain El Hadid,14,Tiaret,14008,0
+dhd,14009,Ain Kermes,14,Tiaret,14009,0
+dhd,14017,Ain Zarit,14,Tiaret,14017,0
+dhd,14018,Bougara,14,Tiaret,14018,0
+dhd,14046,Chehaima,14,Tiaret,14046,0
+dhd,14010,Dahmouni,14,Tiaret,14010,0
+dhd,14061,Djebilet Rosfa,14,Tiaret,14061,0
+dhd,14048,Djillali Ben Amar,14,Tiaret,14048,0
+dhd,14049,Faidja,14,Tiaret,14049,0
+dhd,14001,Frenda,14,Tiaret,14001,0
+dhd,14019,Guertoufa,14,Tiaret,14019,0
+dhd,14020,Hamadia,14,Tiaret,14020,0
+dhd,14002,Ksar Chellala,14,Tiaret,14002,1
+dhd,14055,Madna,14,Tiaret,14055,0
+dhd,14004,Mahdia,14,Tiaret,14004,0
+dhd,14012,Mechraa Safa,14,Tiaret,14012,0
+dhd,14013,Medrissa,14,Tiaret,14013,0
+dhd,14023,Medroussa,14,Tiaret,14023,0
+dhd,14024,Meghila,14,Tiaret,14024,0
+dhd,14025,Mellakou,14,Tiaret,14025,0
+dhd,14058,Nadorah,14,Tiaret,14058,0
+dhd,14060,Naima,14,Tiaret,14060,0
+dhd,14014,Oued Lilli,14,Tiaret,14014,0
+dhd,14005,Rahouia,14,Tiaret,14005,0
+dhd,14026,Rechaiga,14,Tiaret,14026,0
+dhd,14043,Sebaine,14,Tiaret,14043,0
+dhd,14062,Sebt,14,Tiaret,14062,0
+dhd,14063,Serghine,14,Tiaret,14063,0
+dhd,14027,Si Abdelghani,14,Tiaret,14027,0
+dhd,14028,Sidi Abderrahmane,14,Tiaret,14028,0
+dhd,14064,Sidi Ali Mellal,14,Tiaret,14064,0
+dhd,14065,Sidi Bakhti,14,Tiaret,14065,0
+dhd,14029,Sidi Hosni,14,Tiaret,14029,0
+dhd,14003,Sougueur,14,Tiaret,14003,0
+dhd,14068,Tagdemt,14,Tiaret,14068,0
+dhd,14015,Takhemaret,14,Tiaret,14015,0
+dhd,14000,Tiaret,14,Tiaret,14000,1
+dhd,14071,Tidda,14,Tiaret,14071,0
+dhd,14037,Tousnina,14,Tiaret,14037,0
+dhd,14038,Zmalet El Emir Abdelkade,14,Tiaret,14038,0
+dhd,15002,Abi Youcef,15,Tizi Ouzou,15002,0
+dhd,15022,Aghribs,15,Tizi Ouzou,15022,0
+dhd,15023,Agouni Gueghrane,15,Tizi Ouzou,15023,0
+dhd,15164,Ain El Hammam,15,Tizi Ouzou,15164,0
+dhd,15055,Ain Zaouia,15,Tizi Ouzou,15055,0
+dhd,15059,Ait Aggouacha,15,Tizi Ouzou,15059,0
+dhd,15025,Ait Bouaddou,15,Tizi Ouzou,15025,0
+dhd,15085,Ait Boumehdi,15,Tizi Ouzou,15085,0
+dhd,15060,Ait Chafaa,15,Tizi Ouzou,15060,0
+dhd,15028,Ait Khellili,15,Tizi Ouzou,15028,0
+dhd,15045,Ait Mahmoud,15,Tizi Ouzou,15045,0
+dhd,15056,Ait Oumalou,15,Tizi Ouzou,15056,0
+dhd,15063,Ait Toudert,15,Tizi Ouzou,15063,0
+dhd,15088,Ait Yahia,15,Tizi Ouzou,15088,0
+dhd,15026,Ait Yahia Moussa,15,Tizi Ouzou,15026,0
+dhd,15098,Akbil,15,Tizi Ouzou,15098,0
+dhd,15027,Akerrou,15,Tizi Ouzou,15027,0
+dhd,15064,Assi Youcef,15,Tizi Ouzou,15064,0
+dhd,15001,Azazga,15,Tizi Ouzou,15001,0
+dhd,15010,Azeffoun,15,Tizi Ouzou,15010,0
+dhd,15070,Beni Aissi,15,Tizi Ouzou,15070,0
+dhd,15011,Beni Douala,15,Tizi Ouzou,15011,0
+dhd,15029,Beni Yenni,15,Tizi Ouzou,15029,0
+dhd,15119,Beni Zikki,15,Tizi Ouzou,15119,0
+dhd,15028,Beni Zmenzer,15,Tizi Ouzou,15028,0
+dhd,15003,Boghni,15,Tizi Ouzou,15003,0
+dhd,15030,Boudjima,15,Tizi Ouzou,15030,0
+dhd,15031,Bounouh,15,Tizi Ouzou,15031,0
+dhd,15009,Bouzeguene,15,Tizi Ouzou,15009,0
+dhd,15032,Djebel Aissa Mimoun,15,Tizi Ouzou,15032,0
+dhd,15004,Draa Ben Khedda,15,Tizi Ouzou,15004,0
+dhd,15005,Draa El Mizan,15,Tizi Ouzou,15005,0
+dhd,15012,Freha,15,Tizi Ouzou,15012,0
+dhd,15067,Frikat,15,Tizi Ouzou,15067,0
+dhd,15115,Iboudrarene,15,Tizi Ouzou,15115,0
+dhd,15035,Idjeur,15,Tizi Ouzou,15035,0
+dhd,15013,Iferhounene,15,Tizi Ouzou,15013,0
+dhd,15034,Ifigha,15,Tizi Ouzou,15034,0
+dhd,15068,Iflissen,15,Tizi Ouzou,15068,0
+dhd,15036,Illilten,15,Tizi Ouzou,15036,0
+dhd,15037,Illoula Oumalou,15,Tizi Ouzou,15037,0
+dhd,15024,Imsouhal,15,Tizi Ouzou,15024,0
+dhd,15038,Irdjen,15,Tizi Ouzou,15038,0
+dhd,15006,Larba Nath Irathen,15,Tizi Ouzou,15006,0
+dhd,15006,Larbaa Nath Irathen,15,Tizi Ouzou,15006,0
+dhd,15046,M'kira,15,Tizi Ouzou,15046,0
+dhd,15017,Maatkas,15,Tizi Ouzou,15017,0
+dhd,15040,Makouda,15,Tizi Ouzou,15040,0
+dhd,15041,Mechtras,15,Tizi Ouzou,15041,0
+dhd,15014,Mekla,15,Tizi Ouzou,15014,0
+dhd,15062,Mizrana,15,Tizi Ouzou,15062,0
+dhd,15015,Ouacif,15,Tizi Ouzou,15015,0
+dhd,15016,Ouadhias,15,Tizi Ouzou,15016,0
+dhd,15047,Ouaguenoune,15,Tizi Ouzou,15047,0
+dhd,15042,Sidi Naamane,15,Tizi Ouzou,15042,0
+dhd,15044,Souamaa,15,Tizi Ouzou,15044,0
+dhd,15071,Souk El Thenine,15,Tizi Ouzou,15071,0
+dhd,15018,Tadmait,15,Tizi Ouzou,15018,0
+dhd,15019,Tigzirt,15,Tizi Ouzou,15019,0
+dhd,15151,Timizart,15,Tizi Ouzou,15151,0
+dhd,15048,Tirmitine,15,Tizi Ouzou,15048,0
+dhd,15020,Tizi Ghenif,15,Tizi Ouzou,15020,0
+dhd,15049,Tizi N'tleta,15,Tizi Ouzou,15049,0
+dhd,15000,Tizi Ouzou,15,Tizi Ouzou,15000,1
+dhd,15050,Tizi Rached,15,Tizi Ouzou,15050,0
+dhd,15051,Yakourene,15,Tizi Ouzou,15051,0
+dhd,15052,Yatafene,15,Tizi Ouzou,15052,0
+dhd,15076,Zekri,15,Tizi Ouzou,15076,0
+dhd,16018,Ain Benian,16,Alger,16018,0
+dhd,16019,Ain Taya,16,Alger,16019,0
+dhd,16000,Alger Centre,16,Alger,16000,0
+dhd,16008,Bab El Oued,16,Alger,16008,1
+dhd,16024,Bab Ezzouar,16,Alger,16024,1
+dhd,16081,Baba Hesen,16,Alger,16081,0
+dhd,16026,Bachedjerah,16,Alger,16026,0
+dhd,16082,Bains Romains,16,Alger,16082,0
+dhd,16027,Baraki,16,Alger,16027,0
+dhd,16028,Ben Aknoun,16,Alger,16028,0
+dhd,16044,Beni Messous,16,Alger,16044,0
+dhd,16013,Bir Mourad Rais,16,Alger,16013,0
+dhd,16045,Bir Touta,16,Alger,16045,1
+dhd,16029,Birkhadem,16,Alger,16029,0
+dhd,16030,Bologhine Ibnou Ziri,16,Alger,16030,0
+dhd,16046,Bordj El Bahri,16,Alger,16046,0
+dhd,16031,Bordj El Kiffan,16,Alger,16031,0
+dhd,16162,Bourouba,16,Alger,16162,0
+dhd,16032,Bouzareah,16,Alger,16032,0
+dhd,16022,Casbah,16,Alger,16022,0
+dhd,16014,Cheraga,16,Alger,16014,1
+dhd,16033,Dar El Beida,16,Alger,16033,0
+dhd,16047,Dely Ibrahim,16,Alger,16047,0
+dhd,16048,Djasr Kasentina,16,Alger,16048,1
+dhd,16049,Douira,16,Alger,16049,0
+dhd,16050,Draria,16,Alger,16050,0
+dhd,16104,El Achour,16,Alger,16104,0
+dhd,16003,El Biar,16,Alger,16003,0
+dhd,16004,El Harrach,16,Alger,16004,0
+dhd,16015,El Madania,16,Alger,16015,0
+dhd,16005,El Magharia,16,Alger,16005,0
+dhd,16115,El Merssa,16,Alger,16115,0
+dhd,16035,El Mouradia,16,Alger,16035,0
+dhd,16116,Herraoua,16,Alger,16116,0
+dhd,16006,Hussein Dey,16,Alger,16006,0
+dhd,16016,Hydra,16,Alger,16016,0
+dhd,16091,Kheraisia,16,Alger,16091,0
+dhd,16055,Kouba,16,Alger,16055,1
+dhd,16057,Les Eucalyptus,16,Alger,16057,0
+dhd,16093,Maalma,16,Alger,16093,0
+dhd,16009,Mohamed Belouzdad,16,Alger,16009,0
+dhd,16058,Mohammadia,16,Alger,16058,0
+dhd,16041,Oued Koriche,16,Alger,16041,0
+dhd,16059,Oued Smar,16,Alger,16059,0
+dhd,16118,Ouled Chebel,16,Alger,16118,0
+dhd,16094,Ouled Fayet,16,Alger,16094,0
+dhd,16121,Rahmania,16,Alger,16121,0
+dhd,16060,Rais Hamidou,16,Alger,16060,0
+dhd,16036,Reghaia,16,Alger,16036,1
+dhd,16017,Rouiba,16,Alger,16017,0
+dhd,16095,Sehaoula,16,Alger,16095,0
+dhd,16062,Setaouali,16,Alger,16062,0
+dhd,16012,Sidi M'hamed,16,Alger,16012,0
+dhd,16061,Sidi Moussa,16,Alger,16061,0
+dhd,16097,Souidania,16,Alger,16097,0
+dhd,16099,Tessala El Merdja,16,Alger,16099,0
+dhd,16063,Zeralda,16,Alger,16063,0
+dhd,17039,Ain Chouhada,17,Djelfa,17039,0
+dhd,17011,Ain El Ibel,17,Djelfa,17011,0
+dhd,17040,Ain Fekka,17,Djelfa,17040,0
+dhd,17025,Ain Maabed,17,Djelfa,17025,0
+dhd,17001,Ain Oussera,17,Djelfa,17001,1
+dhd,17042,Amourah,17,Djelfa,17042,0
+dhd,17043,Benhar,17,Djelfa,17043,0
+dhd,17026,Benyagoub,17,Djelfa,17026,0
+dhd,17014,Birine,17,Djelfa,17014,0
+dhd,17044,Bouira Lahdab,17,Djelfa,17044,0
+dhd,17015,Charef,17,Djelfa,17015,0
+dhd,17006,Dar Chioukh,17,Djelfa,17006,0
+dhd,17046,Deldoul,17,Djelfa,17046,0
+dhd,17000,Djelfa,17,Djelfa,17000,1
+dhd,17030,Douis,17,Djelfa,17030,0
+dhd,17019,El Guedid,17,Djelfa,17019,0
+dhd,17020,El Idrissia,17,Djelfa,17020,0
+dhd,17051,El Khemis,17,Djelfa,17051,0
+dhd,17021,Faidh El Botma,17,Djelfa,17021,0
+dhd,17054,Guernini,17,Djelfa,17054,0
+dhd,17055,Guettara,17,Djelfa,17055,0
+dhd,17022,Had Sahary,17,Djelfa,17022,0
+dhd,17002,Hassi Bahbah,17,Djelfa,17002,0
+dhd,17032,Hassi El Euch,17,Djelfa,17032,0
+dhd,17056,Hassi Fedoul,17,Djelfa,17056,0
+dhd,17057,M Liliha,17,Djelfa,17057,0
+dhd,17003,Messaad,17,Djelfa,17003,0
+dhd,17058,Moudjebara,17,Djelfa,17058,0
+dhd,17061,Oum Laadham,17,Djelfa,17061,0
+dhd,17062,Sed Rahal,17,Djelfa,17062,0
+dhd,17063,Selmana,17,Djelfa,17063,0
+dhd,17064,Sidi Baizid,17,Djelfa,17064,0
+dhd,17024,Sidi Ladjel,17,Djelfa,17024,0
+dhd,17037,Tadmit,17,Djelfa,17037,0
+dhd,17038,Zaafrane,17,Djelfa,17038,0
+dhd,17065,Zaccar,17,Djelfa,17065,0
+dhd,18041,Bordj Tahar,18,Jijel,18041,0
+dhd,18025,Boudria Beniyadjis,18,Jijel,18025,0
+dhd,18023,Bouraoui Belhadef,18,Jijel,18023,0
+dhd,18036,Boussif Ouled Askeur,18,Jijel,18036,0
+dhd,18027,Chahna,18,Jijel,18027,0
+dhd,18003,Chekfa,18,Jijel,18003,0
+dhd,18029,Djemaa Beni Habibi,18,Jijel,18029,0
+dhd,18031,Djimla,18,Jijel,18031,0
+dhd,18004,El Ancer,18,Jijel,18004,0
+dhd,18005,El Aouana,18,Jijel,18005,0
+dhd,18030,El Kennar Nouchfi,18,Jijel,18030,0
+dhd,18001,El Milia,18,Jijel,18001,0
+dhd,18010,Emir Abdelkader,18,Jijel,18010,0
+dhd,18032,Erraguene,18,Jijel,18032,0
+dhd,18045,Ghebala,18,Jijel,18045,0
+dhd,18000,Jijel,18,Jijel,18000,1
+dhd,18024,Khiri Oued Adjoul,18,Jijel,18024,0
+dhd,18015,Kouas,18,Jijel,18015,0
+dhd,18047,Oudjana,18,Jijel,18047,0
+dhd,18046,Ouled Rabah,18,Jijel,18046,0
+dhd,18021,Ouled Yahia Khadrouch,18,Jijel,18021,0
+dhd,18049,Selma Benziada,18,Jijel,18049,0
+dhd,18016,Settara,18,Jijel,18016,0
+dhd,18017,Sidi Abdelaziz,18,Jijel,18017,0
+dhd,18018,Sidi Marouf,18,Jijel,18018,0
+dhd,18002,Taher,18,Jijel,18002,0
+dhd,18006,Texena,18,Jijel,18006,0
+dhd,18007,Ziama Mansouria,18,Jijel,18007,0
+dhd,19016,Ain Abessa,19,Sétif,19016,0
+dhd,19017,Ain Arnat,19,Sétif,19017,0
+dhd,19007,Ain Azel,19,Sétif,19007,0
+dhd,19008,Ain El Kebira,19,Sétif,19008,0
+dhd,19230,Ain Lahdjar,19,Sétif,19230,0
+dhd,19082,Ain Legradj,19,Sétif,19082,0
+dhd,19002,Ain Oulmane,19,Sétif,19002,0
+dhd,19019,Ain Roua,19,Sétif,19019,0
+dhd,19033,Ain Sebt,19,Sétif,19033,0
+dhd,19076,Ait Naoual Mezada,19,Sétif,19076,0
+dhd,19077,Ait Tizi,19,Sétif,19077,0
+dhd,19009,Amoucha,19,Sétif,19009,0
+dhd,19020,Babor,19,Sétif,19020,0
+dhd,19036,Bazer Sakra,19,Sétif,19036,0
+dhd,19640,Beidha Bordj,19,Sétif,19640,0
+dhd,19022,Bellaa,19,Sétif,19022,0
+dhd,19010,Beni Aziz,19,Sétif,19010,0
+dhd,19710,Beni Chebana,19,Sétif,19710,0
+dhd,19023,Beni Fouda,19,Sétif,19023,0
+dhd,19038,Beni Mouhli,19,Sétif,19038,0
+dhd,19011,Beni Ouartilane,19,Sétif,19011,0
+dhd,19037,Beni Oussine,19,Sétif,19037,0
+dhd,19024,Bir El Arch,19,Sétif,19024,0
+dhd,19039,Bir Haddada,19,Sétif,19039,0
+dhd,19012,Bouandas,19,Sétif,19012,0
+dhd,19003,Bougaa,19,Sétif,19003,0
+dhd,19124,Bousselam,19,Sétif,19124,0
+dhd,19092,Boutaleb,19,Sétif,19092,0
+dhd,19041,Dehamcha,19,Sétif,19041,0
+dhd,19025,Djemila,19,Sétif,19025,0
+dhd,19029,Draa Kebila,19,Sétif,19029,0
+dhd,19004,El Eulma,19,Sétif,19004,1
+dhd,19046,El Ouldja,19,Sétif,19046,0
+dhd,19047,El Ouricia,19,Sétif,19047,0
+dhd,19050,Guellal,19,Sétif,19050,0
+dhd,19001,Guelta Zerka,19,Sétif,19001,0
+dhd,19026,Guenzet,19,Sétif,19026,0
+dhd,19027,Guidjel,19,Sétif,19027,0
+dhd,19066,Hamam Soukhna,19,Sétif,19066,0
+dhd,19106,Hamma,19,Sétif,19106,0
+dhd,19051,Hammam Guergour,19,Sétif,19051,0
+dhd,19032,Harbil,19,Sétif,19032,0
+dhd,19054,Ksar El Abtal,19,Sétif,19054,0
+dhd,19055,Maaouia,19,Sétif,19055,0
+dhd,19028,Maouaklane,19,Sétif,19028,0
+dhd,19056,Mezloug,19,Sétif,19056,0
+dhd,19115,Oued El Barad,19,Sétif,19115,0
+dhd,19058,Ouled Addouane,19,Sétif,19058,0
+dhd,19120,Ouled Sabor,19,Sétif,19120,0
+dhd,19121,Ouled Si Ahmed,19,Sétif,19121,0
+dhd,19030,Ouled Tebben,19,Sétif,19030,0
+dhd,19060,Rosfa,19,Sétif,19060,0
+dhd,19013,Salah Bey,19,Sétif,19013,0
+dhd,19035,Serdj El Ghoul,19,Sétif,19035,0
+dhd,19000,Setif,19,Sétif,19000,1
+dhd,19125,Tachouda,19,Sétif,19125,0
+dhd,19069,Tala Ifacene,19,Sétif,19069,0
+dhd,19067,Taya,19,Sétif,19067,0
+dhd,19021,Tella,19,Sétif,19021,0
+dhd,19068,Tizi N'bechar,19,Sétif,19068,0
+dhd,20001,Ain El Hadjar,20,Saïda,20001,0
+dhd,20009,Ain Sekhouna,20,Saïda,20009,0
+dhd,20029,Ain Soltane,20,Saïda,20029,0
+dhd,20023,Doui Thabet,20,Saïda,20023,0
+dhd,20003,El Hassasna,20,Saïda,20003,0
+dhd,20025,Hounet,20,Saïda,20025,0
+dhd,20013,Maamora,20,Saïda,20013,0
+dhd,20014,Moulay Larbi,20,Saïda,20014,0
+dhd,20002,Ouled Brahim,20,Saïda,20002,0
+dhd,20004,Ouled Khaled,20,Saïda,20004,0
+dhd,20000,Saida,20,Saïda,20000,1
+dhd,20040,Sidi Ahmed,20,Saïda,20040,0
+dhd,20019,Sidi Amar,20,Saïda,20019,0
+dhd,20007,Sidi Boubekeur,20,Saïda,20007,0
+dhd,20035,Tircine,20,Saïda,20035,0
+dhd,20008,Youb,20,Saïda,20008,0
+dhd,21031,Ain Bouziane,21,Skikda,21031,0
+dhd,21006,Ain Charchar,21,Skikda,21006,0
+dhd,21007,Ain Kechera,21,Skikda,21007,0
+dhd,21051,Ain Zouit,21,Skikda,21051,0
+dhd,21001,Azzaba,21,Skikda,21001,0
+dhd,21009,Bekkouche Lakhdar,21,Skikda,21009,0
+dhd,21010,Ben Azzouz,21,Skikda,21010,0
+dhd,21033,Beni Bechir,21,Skikda,21033,0
+dhd,21011,Beni Oulbane,21,Skikda,21011,0
+dhd,21016,Beni Zid,21,Skikda,21016,0
+dhd,21052,Bin El Ouiden,21,Skikda,21052,0
+dhd,21053,Bouchetata,21,Skikda,21053,0
+dhd,21036,Cheraia,21,Skikda,21036,0
+dhd,21002,Collo,21,Skikda,21002,0
+dhd,21037,Djendel Saadi Mohamed,21,Skikda,21037,0
+dhd,21003,El Arrouch,21,Skikda,21003,1
+dhd,21057,El Ghedir,21,Skikda,21057,0
+dhd,21015,El Hadaiek,21,Skikda,21015,0
+dhd,21058,El Marsa,21,Skikda,21058,0
+dhd,21017,Emjez Edchich,21,Skikda,21017,0
+dhd,21018,Es Sebt,21,Skikda,21018,0
+dhd,21042,Filfila,21,Skikda,21042,0
+dhd,21038,Hamadi Krouma,21,Skikda,21038,0
+dhd,21062,Kanoua,21,Skikda,21062,0
+dhd,21019,Kerkera,21,Skikda,21019,0
+dhd,21063,Khenag Mayoum,21,Skikda,21063,0
+dhd,21040,Oued Zhour,21,Skikda,21040,0
+dhd,21059,Ouldja Boulbalout,21,Skikda,21059,0
+dhd,21012,Ouled Attia,21,Skikda,21012,0
+dhd,21043,Ouled Habbeba,21,Skikda,21043,0
+dhd,21020,Oum Toub,21,Skikda,21020,0
+dhd,21004,Ramdane Djamel,21,Skikda,21004,0
+dhd,21022,Salah Bouchaour,21,Skikda,21022,0
+dhd,21023,Sidi Mezghiche,21,Skikda,21023,0
+dhd,21000,Skikda,21,Skikda,21000,1
+dhd,21005,Tamalous,21,Skikda,21005,0
+dhd,21047,Zerdezas,21,Skikda,21047,0
+dhd,21028,Zitouna,21,Skikda,21028,0
+dhd,22034,Ain Adden,22,Sidi Bel Abbès,22034,0
+dhd,22022,Ain El Berd,22,Sidi Bel Abbès,22022,0
+dhd,22035,Ain Kada,22,Sidi Bel Abbès,22035,0
+dhd,22037,Ain Thrid,22,Sidi Bel Abbès,22037,0
+dhd,22036,Ain Tindamine,22,Sidi Bel Abbès,22036,0
+dhd,22042,Amarnas,22,Sidi Bel Abbès,22042,0
+dhd,22038,Badredine El Mokrani,22,Sidi Bel Abbès,22038,0
+dhd,22023,Belarbi,22,Sidi Bel Abbès,22023,0
+dhd,22004,Ben Badis,22,Sidi Bel Abbès,22004,0
+dhd,22040,Benachiba Chelia,22,Sidi Bel Abbès,22040,0
+dhd,22041,Bir El Hammam,22,Sidi Bel Abbès,22041,0
+dhd,22043,Boudjebaa El Bordj,22,Sidi Bel Abbès,22043,0
+dhd,22008,Boukhanafis,22,Sidi Bel Abbès,22008,0
+dhd,22045,Chetouane Belaila,22,Sidi Bel Abbès,22045,0
+dhd,22009,Dhaya,22,Sidi Bel Abbès,22009,0
+dhd,22047,El Hacaiba,22,Sidi Bel Abbès,22047,0
+dhd,22049,Hassi Dahou,22,Sidi Bel Abbès,22049,0
+dhd,22010,Hassi Zahana,22,Sidi Bel Abbès,22010,0
+dhd,22024,Lamtar,22,Sidi Bel Abbès,22024,0
+dhd,22052,M'cid,22,Sidi Bel Abbès,22052,0
+dhd,22051,Makedra,22,Sidi Bel Abbès,22051,0
+dhd,22011,Marhoum,22,Sidi Bel Abbès,22011,0
+dhd,22012,Merine,22,Sidi Bel Abbès,22012,0
+dhd,22025,Mezaourou,22,Sidi Bel Abbès,22025,0
+dhd,22013,Mostefa Ben Brahim,22,Sidi Bel Abbès,22013,0
+dhd,22026,Moulay Slissen,22,Sidi Bel Abbès,22026,0
+dhd,22054,Oued Sebaa,22,Sidi Bel Abbès,22054,0
+dhd,22055,Oued Sefioun,22,Sidi Bel Abbès,22055,0
+dhd,22056,Oued Taourira,22,Sidi Bel Abbès,22056,0
+dhd,22005,Ras El Ma,22,Sidi Bel Abbès,22005,0
+dhd,22058,Redjem Demouche,22,Sidi Bel Abbès,22058,0
+dhd,22060,Sehala Thaoura,22,Sidi Bel Abbès,22060,0
+dhd,22001,Sfissef,22,Sidi Bel Abbès,22001,0
+dhd,22028,Sidi Ali Benyoub,22,Sidi Bel Abbès,22028,0
+dhd,22014,Sidi Ali Boussidi,22,Sidi Bel Abbès,22014,0
+dhd,22000,Sidi Bel Abbes,22,Sidi Bel Abbès,22000,1
+dhd,22029,Sidi Brahim,22,Sidi Bel Abbès,22029,0
+dhd,22061,Sidi Chaib,22,Sidi Bel Abbès,22061,0
+dhd,22062,Sidi Dahou Zairs,22,Sidi Bel Abbès,22062,0
+dhd,22019,Sidi Hamadouche,22,Sidi Bel Abbès,22019,0
+dhd,22031,Sidi Khaled,22,Sidi Bel Abbès,22031,0
+dhd,22020,Sidi Lahcene,22,Sidi Bel Abbès,22020,0
+dhd,22063,Sidi Yacoub,22,Sidi Bel Abbès,22063,0
+dhd,22032,Tabia,22,Sidi Bel Abbès,22032,0
+dhd,22065,Tafissour,22,Sidi Bel Abbès,22065,0
+dhd,22064,Taoudmout,22,Sidi Bel Abbès,22064,0
+dhd,22066,Teghalimet,22,Sidi Bel Abbès,22066,0
+dhd,22007,Telagh,22,Sidi Bel Abbès,22007,0
+dhd,22021,Tenira,22,Sidi Bel Abbès,22021,0
+dhd,22033,Tessala,22,Sidi Bel Abbès,22033,0
+dhd,22044,Tilmouni,22,Sidi Bel Abbès,22044,0
+dhd,22068,Zerouala,22,Sidi Bel Abbès,22068,0
+dhd,23006,Ain Berda,23,Annaba,23006,0
+dhd,23000,Annaba,23,Annaba,23000,1
+dhd,23009,Berrahel,23,Annaba,23009,0
+dhd,23014,Chetaibi,23,Annaba,23014,0
+dhd,23018,Cheurfa,23,Annaba,23018,0
+dhd,23010,El Bouni,23,Annaba,23010,1
+dhd,23004,El Hadjar,23,Annaba,23004,0
+dhd,23036,Eulma,23,Annaba,23036,0
+dhd,23021,Oued El Aneb,23,Annaba,23021,0
+dhd,23015,Seraidi,23,Annaba,23015,0
+dhd,23005,Sidi Amar,23,Annaba,23005,0
+dhd,23022,Treat,23,Annaba,23022,0
+dhd,24011,Ain Ben Beida,24,Guelma,24011,0
+dhd,24025,Ain Hessania,24,Guelma,24025,0
+dhd,24012,Ain Larbi,24,Guelma,24012,0
+dhd,24013,Ain Makhlouf,24,Guelma,24013,0
+dhd,24014,Ain Reggada,24,Guelma,24014,0
+dhd,24015,Belkheir,24,Guelma,24015,0
+dhd,24034,Ben Djarah,24,Guelma,24034,0
+dhd,24041,Beni Mezline,24,Guelma,24041,0
+dhd,24017,Bordj Sabat,24,Guelma,24017,0
+dhd,24037,Bou Hachana,24,Guelma,24037,0
+dhd,24050,Bou Hamdane,24,Guelma,24050,0
+dhd,24018,Bouati Mahmoud,24,Guelma,24018,0
+dhd,24002,Bouchegouf,24,Guelma,24002,0
+dhd,24005,Bouhamra Ahmed,24,Guelma,24005,0
+dhd,24031,Dahouara,24,Guelma,24031,0
+dhd,24039,Djeballah Khemissi,24,Guelma,24039,0
+dhd,24019,El Fedjoudj,24,Guelma,24019,0
+dhd,24020,Guelaat Bou Sbaa,24,Guelma,24020,0
+dhd,24000,Guelma,24,Guelma,24000,1
+dhd,24007,Hamam Debagh,24,Guelma,24007,0
+dhd,24024,Hammam N'bail,24,Guelma,24024,0
+dhd,24008,Heliopolis,24,Guelma,24008,0
+dhd,24240,Khezara,24,Guelma,24240,0
+dhd,24043,Medjez Amar,24,Guelma,24043,0
+dhd,24026,Medjez Sfa,24,Guelma,24026,0
+dhd,24027,Nechmaya,24,Guelma,24027,0
+dhd,24009,Oued Cheham,24,Guelma,24009,0
+dhd,24047,Oued Fragha,24,Guelma,24047,0
+dhd,24001,Oued Zenati,24,Guelma,24001,0
+dhd,24049,Ras El Agba,24,Guelma,24049,0
+dhd,24028,Roknia,24,Guelma,24028,0
+dhd,24029,Sellaoua Announa,24,Guelma,24029,0
+dhd,24032,Sidi Sandel,24,Guelma,24032,0
+dhd,24010,Tamlouka,24,Guelma,24010,0
+dhd,25015,Ain Abid,25,Constantine,25015,0
+dhd,25006,Ain Smara,25,Constantine,25006,0
+dhd,25030,Ben Badis,25,Constantine,25030,0
+dhd,25035,Beni Hamidene,25,Constantine,25035,0
+dhd,25000,Constantine,25,Constantine,25000,1
+dhd,25024,Didouche Mourad,25,Constantine,25024,0
+dhd,25005,El Khroub,25,Constantine,25005,1
+dhd,25013,Hamma Bouziane,25,Constantine,25013,0
+dhd,25027,Ibn Ziad,25,Constantine,25027,0
+dhd,25032,Messaoud Boujeriou,25,Constantine,25032,0
+dhd,25028,Ouled Rahmouni,25,Constantine,25028,0
+dhd,25014,Zighoud Youcef,25,Constantine,25014,0
+dhd,26005,Ain Boucif,26,Médéa,26005,0
+dhd,26048,Ain Ouksir,26,Médéa,26048,0
+dhd,26022,Aissaouia,26,Médéa,26022,0
+dhd,26040,Aziz,26,Médéa,26040,0
+dhd,26050,Baata,26,Médéa,26050,0
+dhd,26012,Ben Chicao,26,Médéa,26012,0
+dhd,26001,Beni Slimane,26,Médéa,26001,0
+dhd,26002,Berrouaghia,26,Médéa,26002,0
+dhd,26053,Bir Ben Laabed,26,Médéa,26053,0
+dhd,26013,Boghar,26,Médéa,26013,0
+dhd,26054,Bouaiche,26,Médéa,26054,0
+dhd,26055,Bouaichoune,26,Médéa,26055,0
+dhd,26014,Bouchrahil,26,Médéa,26014,0
+dhd,26023,Boughzoul,26,Médéa,26023,0
+dhd,26025,Bouskene,26,Médéa,26025,0
+dhd,26026,Chabounia,26,Médéa,26026,0
+dhd,26007,Chelalet El Adhaoura,26,Médéa,26007,0
+dhd,26057,Cheniguel,26,Médéa,26057,0
+dhd,26076,Damiat,26,Médéa,26076,0
+dhd,26015,Derrag,26,Médéa,26015,0
+dhd,26058,Deux Bassins,26,Médéa,26058,0
+dhd,26016,Djouab,26,Médéa,26016,0
+dhd,26017,Draa Essamar,26,Médéa,26017,0
+dhd,26018,El Azizia,26,Médéa,26018,0
+dhd,26030,El Guelbelkebir,26,Médéa,26030,0
+dhd,26060,El Hamdania,26,Médéa,26060,0
+dhd,26008,El Omaria,26,Médéa,26008,0
+dhd,26595,El Ouinet,26,Médéa,26595,0
+dhd,26027,Hannacha,26,Médéa,26027,0
+dhd,26521,Kef Lakhdar,26,Médéa,26521,0
+dhd,26062,Khams Djouamaa,26,Médéa,26062,0
+dhd,26003,Ksar El Boukhari,26,Médéa,26003,0
+dhd,26063,Maghraoua,26,Médéa,26063,0
+dhd,26000,Medea,26,Médéa,26000,1
+dhd,26325,Medjebar,26,Médéa,26325,0
+dhd,26049,Meftaha,26,Médéa,26049,0
+dhd,26042,Mezerana,26,Médéa,26042,0
+dhd,26032,Mihoub,26,Médéa,26032,0
+dhd,26034,Ouamri,26,Médéa,26034,0
+dhd,26061,Oued Harbil,26,Médéa,26061,0
+dhd,26035,Ouled Antar,26,Médéa,26035,0
+dhd,26064,Ouled Bouachra,26,Médéa,26064,0
+dhd,26036,Ouled Brahim,26,Médéa,26036,0
+dhd,26059,Ouled Deid,26,Médéa,26059,0
+dhd,26037,Ouled Hellal,26,Médéa,26037,0
+dhd,26038,Ouled Maaref,26,Médéa,26038,0
+dhd,26065,Oum El Djellil,26,Médéa,26065,0
+dhd,26019,Ouzera,26,Médéa,26019,0
+dhd,26039,Rebaia,26,Médéa,26039,0
+dhd,26067,Saneg,26,Médéa,26067,0
+dhd,26068,Sedraya,26,Médéa,26068,0
+dhd,26041,Seghouane,26,Médéa,26041,0
+dhd,26045,Si Mahdjoub,26,Médéa,26045,0
+dhd,26069,Sidi Demed,26,Médéa,26069,0
+dhd,26043,Sidi Naamane,26,Médéa,26043,0
+dhd,26070,Sidi Rabie,26,Médéa,26070,0
+dhd,26072,Sidi Zahar,26,Médéa,26072,0
+dhd,26073,Sidi Ziane,26,Médéa,26073,0
+dhd,26020,Souagui,26,Médéa,26020,0
+dhd,26004,Tablat,26,Médéa,26004,0
+dhd,26074,Tafraout,26,Médéa,26074,0
+dhd,26075,Tamesguida,26,Médéa,26075,0
+dhd,26046,Tletat Ed Douair,26,Médéa,26046,0
+dhd,26021,Zoubiria,26,Médéa,26021,0
+dhd,27009,Achaacha,27,Mostaganem,27009,0
+dhd,27031,Ain Boudinar,27,Mostaganem,27031,0
+dhd,27010,Ain Nouissy,27,Mostaganem,27010,0
+dhd,27024,Ain Sidi Cherif,27,Mostaganem,27024,0
+dhd,27001,Ain Tedles,27,Mostaganem,27001,0
+dhd,27008,Benabdelmalek Ramdane,27,Mostaganem,27008,0
+dhd,27003,Bouguirat,27,Mostaganem,27003,0
+dhd,27014,Fornaka,27,Mostaganem,27014,0
+dhd,27015,Hadjadj,27,Mostaganem,27015,0
+dhd,27004,Hassi Mameche,27,Mostaganem,27004,0
+dhd,27035,Hassiane,27,Mostaganem,27035,0
+dhd,27005,Khadra,27,Mostaganem,27005,0
+dhd,27016,Kheir Eddine,27,Mostaganem,27016,0
+dhd,27036,Mansourah,27,Mostaganem,27036,0
+dhd,27017,Mazagran,27,Mostaganem,27017,0
+dhd,27018,Mesra,27,Mostaganem,27018,0
+dhd,27000,Mostaganem,27,Mostaganem,27000,1
+dhd,27026,Nekmaria,27,Mostaganem,27026,0
+dhd,27020,Oued El Kheir,27,Mostaganem,27020,0
+dhd,27027,Ouled Boughalem,27,Mostaganem,27027,0
+dhd,27028,Ouled Maalah,27,Mostaganem,27028,0
+dhd,27044,Safsaf,27,Mostaganem,27044,0
+dhd,27045,Sayada,27,Mostaganem,27045,0
+dhd,27002,Sidi Ali,27,Mostaganem,27002,0
+dhd,27029,Sidi Belaattar,27,Mostaganem,27029,0
+dhd,27007,Sidi Lakhdar,27,Mostaganem,27007,0
+dhd,27021,Sirat,27,Mostaganem,27021,0
+dhd,27046,Souaflia,27,Mostaganem,27046,0
+dhd,27022,Sour,27,Mostaganem,27022,0
+dhd,27023,Stidia,27,Mostaganem,27023,0
+dhd,27047,Tazgait,27,Mostaganem,27047,0
+dhd,27013,Touahria,27,Mostaganem,27013,0
+dhd,28003,Ain El Hadjel,28,M'Sila,28003,0
+dhd,28004,Ain El Melh,28,M'Sila,28004,0
+dhd,28023,Ain Fares,28,M'Sila,28023,0
+dhd,28008,Ain Khadra,28,M'Sila,28008,0
+dhd,28025,Ain Rich,28,M'Sila,28025,0
+dhd,28026,Belaiba,28,M'Sila,28026,0
+dhd,28009,Ben Srour,28,M'Sila,28009,0
+dhd,28027,Beni Ilmane,28,M'Sila,28027,0
+dhd,28028,Benzouh,28,M'Sila,28028,0
+dhd,28010,Berhoum,28,M'Sila,28010,0
+dhd,28043,Bir Foda,28,M'Sila,28043,0
+dhd,28001,Bou Saada,28,M'Sila,28001,1
+dhd,28042,Bouti Sayeh,28,M'Sila,28042,0
+dhd,28014,Chellal,28,M'Sila,28014,0
+dhd,28048,Dehahna,28,M'Sila,28048,0
+dhd,28024,Djebel Messaad,28,M'Sila,28024,0
+dhd,28015,El Hamel,28,M'Sila,28015,0
+dhd,28063,El Houamed,28,M'Sila,28063,0
+dhd,28005,Hammam Dalaa,28,M'Sila,28005,0
+dhd,28056,Khettouti Sed El Jir,28,M'Sila,28056,0
+dhd,28050,Khoubana,28,M'Sila,28050,0
+dhd,28029,M'cif,28,M'Sila,28029,0
+dhd,28000,M'sila,28,M'Sila,28000,1
+dhd,28058,M'tarfa,28,M'Sila,28058,0
+dhd,28011,Maadid,28,M'Sila,28011,0
+dhd,28051,Maarif,28,M'Sila,28051,0
+dhd,28006,Magra,28,M'Sila,28006,0
+dhd,28016,Medjedel,28,M'Sila,28016,0
+dhd,28070,Menaa,28,M'Sila,28070,0
+dhd,28033,Mohamed Boudiaf,28,M'Sila,28033,0
+dhd,28017,Ouanougha,28,M'Sila,28017,0
+dhd,28021,Ouled Addi Guebala,28,M'Sila,28021,0
+dhd,28022,Ouled Derradj,28,M'Sila,28022,0
+dhd,28047,Ouled Madhi,28,M'Sila,28047,0
+dhd,28060,Ouled Mansour,28,M'Sila,28060,0
+dhd,28032,Ouled Sidi Brahim,28,M'Sila,28032,0
+dhd,28009,Ouled Slimane,28,M'Sila,28009,0
+dhd,28061,Oulteme,28,M'Sila,28061,0
+dhd,28002,Sidi Aissa,28,M'Sila,28002,0
+dhd,28035,Sidi Ameur,28,M'Sila,28035,0
+dhd,28036,Sidi Hadjeres,28,M'Sila,28036,0
+dhd,28066,Sidi M'hamed,28,M'Sila,28066,0
+dhd,28037,Slim,28,M'Sila,28037,0
+dhd,28064,Souamaa,28,M'Sila,28064,0
+dhd,28065,Tamsa,28,M'Sila,28065,0
+dhd,28038,Tarmount,28,M'Sila,28038,0
+dhd,28067,Zarzour,28,M'Sila,28067,1
+dhd,29020,Ain Fares,29,Mascara,29020,0
+dhd,29011,Ain Fekan,29,Mascara,29011,0
+dhd,29033,Ain Ferah,29,Mascara,29033,0
+dhd,29034,Ain Frass,29,Mascara,29034,0
+dhd,29036,Alaimia,29,Mascara,29036,0
+dhd,29021,Aouf,29,Mascara,29021,0
+dhd,29038,Benian,29,Mascara,29038,0
+dhd,29022,Bou Henni,29,Mascara,29022,0
+dhd,29005,Bouhanifia,29,Mascara,29005,0
+dhd,29039,Chorfa,29,Mascara,29039,0
+dhd,29012,El Bordj,29,Mascara,29012,0
+dhd,29041,El Gaada,29,Mascara,29041,0
+dhd,29023,El Ghomri,29,Mascara,29023,0
+dhd,29042,El Gueitena,29,Mascara,29042,0
+dhd,29013,El Hachem,29,Mascara,29013,0
+dhd,29043,El Keurt,29,Mascara,29043,0
+dhd,29056,El Mamounia,29,Mascara,29056,0
+dhd,29044,El Menaouer,29,Mascara,29044,0
+dhd,29046,Ferraguig,29,Mascara,29046,0
+dhd,29024,Froha,29,Mascara,29024,0
+dhd,29047,Gharrous,29,Mascara,29047,0
+dhd,29006,Ghriss,29,Mascara,29006,0
+dhd,29050,Guerdjoum,29,Mascara,29050,0
+dhd,29014,Hacine,29,Mascara,29014,0
+dhd,29025,Khalouia,29,Mascara,29025,0
+dhd,29055,Makhda,29,Mascara,29055,0
+dhd,29015,Maoussa,29,Mascara,29015,0
+dhd,29000,Mascara,29,Mascara,29000,1
+dhd,29026,Matemore,29,Mascara,29026,0
+dhd,29027,Mocta Douz,29,Mascara,29027,0
+dhd,29002,Mohammadia,29,Mascara,29002,0
+dhd,29058,Nesmot,29,Mascara,29058,0
+dhd,29029,Oggaz,29,Mascara,29029,0
+dhd,29016,Oued El Abtal,29,Mascara,29016,0
+dhd,29017,Oued Taria,29,Mascara,29017,0
+dhd,29060,Ras El Ain Amirouche,29,Mascara,29060,0
+dhd,29062,Sedjerara,29,Mascara,29062,0
+dhd,29063,Sehailia,29,Mascara,29063,0
+dhd,29065,Sidi Abdeldjebar,29,Mascara,29065,0
+dhd,29066,Sidi Abdelmoumene,29,Mascara,29066,0
+dhd,29069,Sidi Boussaid,29,Mascara,29069,0
+dhd,29030,Sidi Kada,29,Mascara,29030,0
+dhd,29001,Sig,29,Mascara,29001,0
+dhd,29004,Tighennif,29,Mascara,29004,0
+dhd,29018,Tizi,29,Mascara,29018,0
+dhd,29019,Zahana,29,Mascara,29019,0
+dhd,29057,Zelamta,29,Mascara,29057,0
+dhd,30019,Ain Beida,30,Ouargla,30019,0
+dhd,30025,El Borma,30,Ouargla,30025,0
+dhd,30052,Hassi Ben Abdellah,30,Ouargla,30052,0
+dhd,30001,Hassi Messaoud,30,Ouargla,30001,0
+dhd,30031,N'goussa,30,Ouargla,30031,0
+dhd,30000,Ouargla,30,Ouargla,30000,1
+dhd,30013,Rouissat,30,Ouargla,30013,0
+dhd,30035,Sidi Khouiled,30,Ouargla,30035,0
+dhd,31040,Ain Biya,31,Oran,31040,0
+dhd,31059,Ain Kerma,31,Oran,31059,0
+dhd,31014,Ain Turk,31,Oran,31014,0
+dhd,31004,Arzew,31,Oran,31004,0
+dhd,31063,Ben Freha,31,Oran,31063,0
+dhd,31015,Bethioua,31,Oran,31015,0
+dhd,31023,Bir El Djir,31,Oran,31023,1
+dhd,31024,Boufatis,31,Oran,31024,0
+dhd,31025,Bousfer,31,Oran,31025,0
+dhd,31016,Boutlelis,31,Oran,31016,0
+dhd,31043,El Ancar,31,Oran,31043,0
+dhd,31070,El Braya,31,Oran,31070,0
+dhd,31026,El Kerma,31,Oran,31026,0
+dhd,31005,Es Senia,31,Oran,31005,0
+dhd,31017,Gdyel,31,Oran,31017,0
+dhd,31049,Hassi Ben Okba,31,Oran,31049,0
+dhd,31028,Hassi Bounif,31,Oran,31028,0
+dhd,31050,Hassi Mefsoukh,31,Oran,31050,0
+dhd,31030,Marsat El Hadjadj,31,Oran,31030,0
+dhd,31019,Mers El Kebir,31,Oran,31019,0
+dhd,31031,Messerghin,31,Oran,31031,0
+dhd,31000,Oran,31,Oran,31000,1
+dhd,31037,Oued Tlelat,31,Oran,31037,0
+dhd,31058,Sidi Ben Yebka,31,Oran,31058,0
+dhd,31038,Sidi Chami,31,Oran,31038,1
+dhd,31084,Tafraoui,31,Oran,31084,0
+dhd,32019,Ain El Orak,32,El Bayadh,32019,0
+dhd,32005,Arbaouat,32,El Bayadh,32005,0
+dhd,32006,Boualem,32,El Bayadh,32006,0
+dhd,32001,Bougtoub,32,El Bayadh,32001,0
+dhd,32014,Boussemghoun,32,El Bayadh,32014,0
+dhd,32002,Brezina,32,El Bayadh,32002,0
+dhd,32022,Cheguig,32,El Bayadh,32022,0
+dhd,32015,Chellala,32,El Bayadh,32015,0
+dhd,32000,El Bayadh,32,El Bayadh,32000,1
+dhd,32003,El Biodh Sidi Cheikh,32,El Bayadh,32003,0
+dhd,32025,El Bnoud,32,El Bayadh,32025,0
+dhd,32011,El Kheither,32,El Bayadh,32011,0
+dhd,32026,El Mehara,32,El Bayadh,32026,0
+dhd,32017,Ghassoul,32,El Bayadh,32017,0
+dhd,32013,Kef El Ahmar,32,El Bayadh,32013,0
+dhd,32027,Krakda,32,El Bayadh,32027,0
+dhd,32018,Rogassa,32,El Bayadh,32018,0
+dhd,32029,Sidi Ameur,32,El Bayadh,32029,0
+dhd,32130,Sidi Slimane,32,El Bayadh,32130,0
+dhd,32032,Sidi Tifour,32,El Bayadh,32032,0
+dhd,32033,Stitten,32,El Bayadh,32033,0
+dhd,32034,Tousmouline,32,El Bayadh,32034,0
+dhd,33003,Bordj Omar Driss,33,Illizi,33003,0
+dhd,33004,Debdeb,33,Illizi,33004,0
+dhd,33000,Illizi,33,Illizi,33000,1
+dhd,33001,In Amenas,33,Illizi,33001,0
+dhd,34010,Ain Taghrout,34,Bordj Bou Arreridj,34010,0
+dhd,34037,Ain Tesra,34,Bordj Bou Arreridj,34037,0
+dhd,34025,Belimour,34,Bordj Bou Arreridj,34025,0
+dhd,34039,Ben Daoud,34,Bordj Bou Arreridj,34039,0
+dhd,34011,Bir Kasdali,34,Bordj Bou Arreridj,34011,0
+dhd,34000,Bordj Bou Arreridj,34,Bordj Bou Arreridj,34000,1
+dhd,34004,Bordj Ghdir,34,Bordj Bou Arreridj,34004,0
+dhd,34005,Bordj Zemora,34,Bordj Bou Arreridj,34005,0
+dhd,34015,Colla,34,Bordj Bou Arreridj,34015,0
+dhd,34016,Djaafra,34,Bordj Bou Arreridj,34016,0
+dhd,34029,El Ach,34,Bordj Bou Arreridj,34029,0
+dhd,34006,El Achir,34,Bordj Bou Arreridj,34006,0
+dhd,34030,El Anseur,34,Bordj Bou Arreridj,34030,0
+dhd,34017,El Hamadia,34,Bordj Bou Arreridj,34017,0
+dhd,34019,El M'hir,34,Bordj Bou Arreridj,34019,0
+dhd,34018,El Main,34,Bordj Bou Arreridj,34018,0
+dhd,34031,Ghilassa,34,Bordj Bou Arreridj,34031,0
+dhd,34047,Haraza,34,Bordj Bou Arreridj,34047,0
+dhd,34014,Hasnaoua,34,Bordj Bou Arreridj,34014,0
+dhd,34007,Khelil,34,Bordj Bou Arreridj,34007,0
+dhd,34048,Ksour,34,Bordj Bou Arreridj,34048,0
+dhd,34008,Mansoura,34,Bordj Bou Arreridj,34008,0
+dhd,34009,Medjana,34,Bordj Bou Arreridj,34009,0
+dhd,34032,Ouled Brahem,34,Bordj Bou Arreridj,34032,0
+dhd,34033,Ouled Dahmane,34,Bordj Bou Arreridj,34033,0
+dhd,34052,Ouled Sidi Brahim,34,Bordj Bou Arreridj,34052,0
+dhd,34035,Rabta,34,Bordj Bou Arreridj,34035,0
+dhd,34001,Ras El Oued,34,Bordj Bou Arreridj,34001,0
+dhd,36048,Sidi Embarek,34,Bordj Bou Arreridj,36048,0
+dhd,34061,Tafreg,34,Bordj Bou Arreridj,34061,0
+dhd,34059,Taglait,34,Bordj Bou Arreridj,34059,0
+dhd,34021,Teniet En Nasr,34,Bordj Bou Arreridj,34021,0
+dhd,34060,Tesmart,34,Bordj Bou Arreridj,34060,0
+dhd,34022,Tixter,34,Bordj Bou Arreridj,34022,0
+dhd,35022,Afir,35,Boumerdès,35022,0
+dhd,35031,Ammal,35,Boumerdès,35031,0
+dhd,35013,Baghlia,35,Boumerdès,35013,0
+dhd,35033,Ben Choud,35,Boumerdès,35033,0
+dhd,35006,Beni Amrane,35,Boumerdès,35006,0
+dhd,35001,Bordj Menaiel,35,Boumerdès,35001,1
+dhd,35003,Boudouaou,35,Boumerdès,35003,0
+dhd,35037,Boudouaou El Bahri,35,Boumerdès,35037,0
+dhd,35000,Boumerdes,35,Boumerdès,35000,1
+dhd,35038,Bouzegza Keddara,35,Boumerdès,35038,0
+dhd,35008,Chabet El Ameur,35,Boumerdès,35008,0
+dhd,35014,Corso,35,Boumerdès,35014,0
+dhd,35004,Dellys,35,Boumerdès,35004,0
+dhd,35024,Djinet,35,Boumerdès,35024,0
+dhd,35048,El Kharrouba,35,Boumerdès,35048,0
+dhd,35015,Hammedi,35,Boumerdès,35015,0
+dhd,35009,Isser,35,Boumerdès,35009,0
+dhd,35010,Khemis El Khechna,35,Boumerdès,35010,0
+dhd,35017,Larbatache,35,Boumerdès,35017,0
+dhd,35026,Leghata,35,Boumerdès,35026,0
+dhd,35018,Naciria,35,Boumerdès,35018,0
+dhd,35050,Ouled Aissa,35,Boumerdès,35050,0
+dhd,35052,Ouled Hedadj,35,Boumerdès,35052,0
+dhd,35011,Ouled Moussa,35,Boumerdès,35011,0
+dhd,35028,Si Mustapha,35,Boumerdès,35028,0
+dhd,35019,Sidi Daoud,35,Boumerdès,35019,0
+dhd,35020,Souk El Haad,35,Boumerdès,35020,0
+dhd,35029,Taourga,35,Boumerdès,35029,0
+dhd,35005,Thenia,35,Boumerdès,35005,0
+dhd,35021,Tidjelabine,35,Boumerdès,35021,0
+dhd,35027,Timezrit,35,Boumerdès,35027,0
+dhd,35012,Zemmouri,35,Boumerdès,35012,0
+dhd,36010,Ain El Assel,36,El Tarf,36010,0
+dhd,36011,Ain Kerma,36,El Tarf,36011,0
+dhd,36012,Asfour,36,El Tarf,36012,0
+dhd,36003,Ben M Hidi,36,El Tarf,36003,0
+dhd,36027,Berrihane,36,El Tarf,36027,0
+dhd,36004,Besbes,36,El Tarf,36004,0
+dhd,36029,Bougous,36,El Tarf,36029,0
+dhd,36005,Bouhadjar,36,El Tarf,36005,0
+dhd,36195,Bouteldja,36,El Tarf,36195,0
+dhd,36013,Chebaita Mokhtar,36,El Tarf,36013,0
+dhd,36032,Chefia,36,El Tarf,36032,0
+dhd,36014,Chihani,36,El Tarf,36014,0
+dhd,36001,Drean,36,El Tarf,36001,0
+dhd,36007,Echatt,36,El Tarf,36007,0
+dhd,36018,El Aioun,36,El Tarf,36018,0
+dhd,36002,El Kala,36,El Tarf,36002,0
+dhd,36000,El Tarf,36,El Tarf,36000,1
+dhd,36036,Hammam Beni Salah,36,El Tarf,36036,0
+dhd,36019,Lac Des Oiseaux,36,El Tarf,36019,0
+dhd,36310,Oued Zitoun,36,El Tarf,36310,0
+dhd,36021,Raml Souk,36,El Tarf,36021,0
+dhd,36111,Souarekh,36,El Tarf,36111,0
+dhd,36015,Zerizer,36,El Tarf,36015,0
+dhd,36023,Zitouna,36,El Tarf,36023,0
+dhd,37003,Oum El Assel,37,Tindouf,37003,0
+dhd,37000,Tindouf,37,Tindouf,37000,1
+dhd,38012,Ammari,38,Tissemsilt,38012,0
+dhd,38019,Beni Chaib,38,Tissemsilt,38019,0
+dhd,38020,Beni Lahcene,38,Tissemsilt,38020,0
+dhd,38001,Bordj Bounaama,38,Tissemsilt,38001,0
+dhd,38004,Bordj El Emir Abdelkader,38,Tissemsilt,38004,0
+dhd,38005,Bou Caid,38,Tissemsilt,38005,0
+dhd,38006,Khemisti,38,Tissemsilt,38006,0
+dhd,38022,Larbaa,38,Tissemsilt,38022,0
+dhd,38002,Lardjem,38,Tissemsilt,38002,0
+dhd,38007,Layoune,38,Tissemsilt,38007,0
+dhd,38008,Lazharia,38,Tissemsilt,38008,0
+dhd,38023,Maacem,38,Tissemsilt,38023,0
+dhd,38013,Melaab,38,Tissemsilt,38013,0
+dhd,38014,Ouled Bessem,38,Tissemsilt,38014,0
+dhd,38025,Sidi Abed,38,Tissemsilt,38025,0
+dhd,38026,Sidi Boutouchent,38,Tissemsilt,38026,0
+dhd,38027,Sidi Lantri,38,Tissemsilt,38027,0
+dhd,38028,Sidi Slimane,38,Tissemsilt,38028,0
+dhd,38029,Tamellalet,38,Tissemsilt,38029,0
+dhd,38003,Theniet El Had,38,Tissemsilt,38003,0
+dhd,38000,Tissemsilt,38,Tissemsilt,38000,1
+dhd,38031,Youssoufia,38,Tissemsilt,38031,0
+dhd,39007,Bayadha,39,El Oued,39007,0
+dhd,39048,Ben Guecha,39,El Oued,39048,0
+dhd,39003,Debila,39,El Oued,39003,0
+dhd,39024,Douar El Maa,39,El Oued,39024,0
+dhd,39070,El Ogla,39,El Oued,39070,0
+dhd,39000,El Oued,39,El Oued,39000,1
+dhd,39002,Guemar,39,El Oued,39002,0
+dhd,39061,Hamraia,39,El Oued,39061,0
+dhd,39029,Hassani Abdelkrim,39,El Oued,39029,0
+dhd,39013,Hassi Khalifa,39,El Oued,39013,0
+dhd,39014,Kouinine,39,El Oued,39014,0
+dhd,39015,Magrane,39,El Oued,39015,0
+dhd,39030,Mih Ouansa,39,El Oued,39030,0
+dhd,39031,Nakhla,39,El Oued,39031,0
+dhd,39085,Oued El Alenda,39,El Oued,39085,0
+dhd,39035,Ourmes,39,El Oued,39035,0
+dhd,39016,Reguiba,39,El Oued,39016,0
+dhd,39017,Robbah,39,El Oued,39017,0
+dhd,39037,Sidi Aoun,39,El Oued,39037,0
+dhd,39040,Taghzout,39,El Oued,39040,0
+dhd,39019,Taleb Larbi,39,El Oued,39019,0
+dhd,39044,Trifaoui,39,El Oued,39044,0
+dhd,40005,Ain Touila,40,Khenchela,40005,0
+dhd,40006,Babar,40,Khenchela,40006,0
+dhd,40014,Baghai,40,Khenchela,40014,0
+dhd,40007,Bouhmama,40,Khenchela,40007,0
+dhd,40030,Chelia,40,Khenchela,40030,0
+dhd,40008,Cherchar,40,Khenchela,40008,0
+dhd,40015,Djellal,40,Khenchela,40015,0
+dhd,40016,El Hamma,40,Khenchela,40016,0
+dhd,40012,El Mahmal,40,Khenchela,40012,0
+dhd,40032,El Oueldja,40,Khenchela,40032,0
+dhd,40043,Ensigha,40,Khenchela,40043,0
+dhd,40001,Kais,40,Khenchela,40001,0
+dhd,40000,Khenchela,40,Khenchela,40000,1
+dhd,40037,Khirane,40,Khenchela,40037,0
+dhd,40039,M'sara,40,Khenchela,40039,0
+dhd,40021,M'toussa,40,Khenchela,40021,0
+dhd,40013,Ouled Rechache,40,Khenchela,40013,0
+dhd,40041,Remila,40,Khenchela,40041,0
+dhd,40044,Tamza,40,Khenchela,40044,0
+dhd,40011,Taouzianat,40,Khenchela,40011,0
+dhd,40023,Yabous,40,Khenchela,40023,0
+dhd,41026,Ain Soltane,41,Souk Ahras,41026,0
+dhd,41027,Ain Zana,41,Souk Ahras,41027,0
+dhd,41011,Bir Bouhouche,41,Souk Ahras,41011,0
+dhd,41015,Drea,41,Souk Ahras,41015,0
+dhd,41012,Haddada,41,Souk Ahras,41012,0
+dhd,41016,Hanencha,41,Souk Ahras,41016,0
+dhd,41013,Khedara,41,Souk Ahras,41013,0
+dhd,41031,Khemissa,41,Souk Ahras,41031,0
+dhd,41001,M'daourouche,41,Souk Ahras,41001,0
+dhd,41017,Machroha,41,Souk Ahras,41017,0
+dhd,41004,Merahna,41,Souk Ahras,41004,0
+dhd,41018,Oued Kebrit,41,Souk Ahras,41018,0
+dhd,41005,Ouled Driss,41,Souk Ahras,41005,0
+dhd,41034,Ouled Moumen,41,Souk Ahras,41034,0
+dhd,41019,Oum El Adhaim,41,Souk Ahras,41019,0
+dhd,41032,Quillen,41,Souk Ahras,41032,0
+dhd,41033,Ragouba,41,Souk Ahras,41033,0
+dhd,41035,Safel El Ouiden,41,Souk Ahras,41035,0
+dhd,41002,Sedrata,41,Souk Ahras,41002,0
+dhd,41030,Sidi Fredj,41,Souk Ahras,41030,0
+dhd,41000,Souk Ahras,41,Souk Ahras,41000,1
+dhd,41009,Taoura,41,Souk Ahras,41009,0
+dhd,41037,Terraguelt,41,Souk Ahras,41037,0
+dhd,41038,Tiffech,41,Souk Ahras,41038,0
+dhd,41025,Zaarouria,41,Souk Ahras,41025,0
+dhd,41039,Zouabi,41,Souk Ahras,41039,0
+dhd,42035,Aghbal,42,Tipaza,42035,0
+dhd,42005,Ahmer El Ain,42,Tipaza,42005,0
+dhd,42023,Ain Tagourait,42,Tipaza,42023,0
+dhd,42008,Attatba,42,Tipaza,42008,0
+dhd,42024,Beni Mileuk,42,Tipaza,42024,0
+dhd,42009,Bou Haroun,42,Tipaza,42009,0
+dhd,42004,Bou Ismail,42,Tipaza,42004,0
+dhd,42011,Bourkika,42,Tipaza,42011,0
+dhd,42012,Chaiba,42,Tipaza,42012,0
+dhd,42002,Cherchell,42,Tipaza,42002,0
+dhd,42014,Damous,42,Tipaza,42014,0
+dhd,42015,Douaouda,42,Tipaza,42015,0
+dhd,42006,Fouka,42,Tipaza,42006,0
+dhd,42007,Gouraya,42,Tipaza,42007,0
+dhd,42001,Hadjout,42,Tipaza,42001,0
+dhd,42029,Hadjret Ennous,42,Tipaza,42029,0
+dhd,42033,Khemisti,42,Tipaza,42033,0
+dhd,42003,Kolea,42,Tipaza,42003,1
+dhd,42017,Larhat,42,Tipaza,42017,0
+dhd,42018,Menaceur,42,Tipaza,42018,0
+dhd,42019,Merad,42,Tipaza,42019,0
+dhd,42036,Messelmoun,42,Tipaza,42036,0
+dhd,42038,Nador,42,Tipaza,42038,0
+dhd,42020,Sidi Amar,42,Tipaza,42020,0
+dhd,42021,Sidi Ghiles,42,Tipaza,42021,0
+dhd,42040,Sidi Rached,42,Tipaza,42040,0
+dhd,42041,Sidi Semiane,42,Tipaza,42041,0
+dhd,42000,Tipaza,42,Tipaza,42000,1
+dhd,43013,Ahmed Rachedi,43,Mila,43013,0
+dhd,43014,Ain Beida Harriche,43,Mila,43014,0
+dhd,43015,Ain Mellouk,43,Mila,43015,0
+dhd,43016,Ain Tine,43,Mila,43016,0
+dhd,43017,Amira Arres,43,Mila,43017,0
+dhd,43020,Benyahia Abderrahmane,43,Mila,43020,0
+dhd,43022,Bouhatem,43,Mila,43022,0
+dhd,43001,Chelghoum Laid,43,Mila,43001,0
+dhd,43025,Chigara,43,Mila,43025,0
+dhd,43046,Derrahi Bousselah,43,Mila,43046,0
+dhd,43026,El Mechira,43,Mila,43026,0
+dhd,43050,Elayadi Barbes,43,Mila,43050,0
+dhd,43002,Ferdjioua,43,Mila,43002,0
+dhd,43004,Grarem Gouga,43,Mila,43004,0
+dhd,43052,Hamala,43,Mila,43052,0
+dhd,43000,Mila,43,Mila,43000,1
+dhd,43036,Minar Zarza,43,Mila,43036,0
+dhd,43005,Oued Athmenia,43,Mila,43005,0
+dhd,43006,Oued Endja,43,Mila,43006,0
+dhd,43031,Oued Seguen,43,Mila,43031,0
+dhd,43032,Ouled Khalouf,43,Mila,43032,0
+dhd,43009,Rouached,43,Mila,43009,0
+dhd,43060,Sidi Khelifa,43,Mila,43060,0
+dhd,43010,Sidi Merouane,43,Mila,43010,0
+dhd,43007,Tadjenanet,43,Mila,43007,0
+dhd,43033,Tassadane Haddada,43,Mila,43033,0
+dhd,43008,Teleghma,43,Mila,43008,0
+dhd,43018,Terrai Bainem,43,Mila,43018,0
+dhd,43034,Tessala,43,Mila,43034,0
+dhd,43035,Tiberguent,43,Mila,43035,0
+dhd,43019,Yahia Beniguecha,43,Mila,43019,0
+dhd,43012,Zeghaia,43,Mila,43012,0
+dhd,44035,Ain Benian,44,Aïn Defla,44035,0
+dhd,44032,Ain Bouyahia,44,Aïn Defla,44032,0
+dhd,44000,Ain Defla,44,Aïn Defla,44000,1
+dhd,44018,Ain Lechiakh,44,Aïn Defla,44018,0
+dhd,44019,Ain Soltane,44,Aïn Defla,44019,0
+dhd,44020,Ain Tork,44,Aïn Defla,44020,0
+dhd,44008,Arib,44,Aïn Defla,44008,0
+dhd,44042,Barbouche,44,Aïn Defla,44042,0
+dhd,44041,Bathia,44,Aïn Defla,44041,0
+dhd,44038,Belaas,44,Aïn Defla,44038,0
+dhd,44040,Ben Allal,44,Aïn Defla,44040,0
+dhd,44043,Bir Ould Khelifa,44,Aïn Defla,44043,0
+dhd,44021,Bordj Emir Khaled,44,Aïn Defla,44021,0
+dhd,44004,Boumedfaa,44,Aïn Defla,44004,0
+dhd,44044,Bourached,44,Aïn Defla,44044,0
+dhd,44009,Djelida,44,Aïn Defla,44009,0
+dhd,44047,Djemaa Ouled Cheikh,44,Aïn Defla,44047,0
+dhd,44005,Djendel,44,Aïn Defla,44005,0
+dhd,44006,El Abadia,44,Aïn Defla,44006,0
+dhd,44010,El Amra,44,Aïn Defla,44010,0
+dhd,44002,El Attaf,44,Aïn Defla,44002,0
+dhd,44051,El Maine,44,Aïn Defla,44051,0
+dhd,44023,Hammam Righa,44,Aïn Defla,44023,0
+dhd,44022,Hassania,44,Aïn Defla,44022,0
+dhd,44048,Hoceinia,44,Aïn Defla,44048,0
+dhd,44001,Khemis Miliana,44,Aïn Defla,44001,1
+dhd,44050,Mekhatria,44,Aïn Defla,44050,0
+dhd,44003,Miliana,44,Aïn Defla,44003,0
+dhd,44024,Oued Chorfa,44,Aïn Defla,44024,0
+dhd,44052,Oued Djemaa,44,Aïn Defla,44052,0
+dhd,44017,Rouina,44,Aïn Defla,44017,0
+dhd,44027,Sidi Lakhdar,44,Aïn Defla,44027,0
+dhd,44028,Tacheta Zegagha,44,Aïn Defla,44028,0
+dhd,44029,Tarik Ibn Ziad,44,Aïn Defla,44029,0
+dhd,44030,Tiberkanine,44,Aïn Defla,44030,0
+dhd,44031,Zeddine,44,Aïn Defla,44031,0
+dhd,45008,Ain Ben Khelil,45,Naâma,45008,0
+dhd,45001,Ain Safra,45,Naâma,45001,0
+dhd,45012,Assela,45,Naâma,45012,0
+dhd,45013,Djeniane Bourzeg,45,Naâma,45013,0
+dhd,45004,El Biod,45,Naâma,45004,0
+dhd,45024,Kasdir,45,Naâma,45024,0
+dhd,45005,Makman Ben Amer,45,Naâma,45005,0
+dhd,45002,Mecheria,45,Naâma,45002,1
+dhd,45019,Moghrar,45,Naâma,45019,0
+dhd,45000,Naama,45,Naâma,45000,0
+dhd,45021,Sfissifa,45,Naâma,45021,0
+dhd,45030,Tiout,45,Naâma,45030,0
+dhd,46016,Aghlal,46,Aïn Témouchent,46016,0
+dhd,46009,Ain El Arbaa,46,Aïn Témouchent,46009,0
+dhd,46008,Ain Kihal,46,Aïn Témouchent,46008,0
+dhd,46000,Ain Temouchent,46,Aïn Témouchent,46000,1
+dhd,46010,Ain Tolba,46,Aïn Témouchent,46010,0
+dhd,46017,Aoubellil,46,Aïn Témouchent,46017,0
+dhd,46001,Beni Saf,46,Aïn Témouchent,46001,0
+dhd,46033,Bouzedjar,46,Aïn Témouchent,46033,0
+dhd,46011,Chaabat El Ham,46,Aïn Témouchent,46011,0
+dhd,46020,Chentouf,46,Aïn Témouchent,46020,0
+dhd,46006,El Amria,46,Aïn Témouchent,46006,0
+dhd,46007,El Malah,46,Aïn Témouchent,46007,0
+dhd,46036,El Messaid,46,Aïn Témouchent,46036,0
+dhd,46037,Emir Abdelkader,46,Aïn Témouchent,46037,0
+dhd,46005,Hammam Bouhadjar,46,Aïn Témouchent,46005,0
+dhd,46021,Hassasna,46,Aïn Témouchent,46021,0
+dhd,46012,Hassi El Ghella,46,Aïn Témouchent,46012,0
+dhd,46022,Oued Berkeche,46,Aïn Témouchent,46022,0
+dhd,46023,Oued Sebbah,46,Aïn Témouchent,46023,0
+dhd,46043,Ouled Boudjemaa,46,Aïn Témouchent,46043,0
+dhd,46045,Ouled Kihal,46,Aïn Témouchent,46045,0
+dhd,46014,Oulhaca El Gheraba,46,Aïn Témouchent,46014,0
+dhd,46013,Sidi Ben Adda,46,Aïn Témouchent,46013,0
+dhd,46051,Sidi Boumediene,46,Aïn Témouchent,46051,0
+dhd,46024,Sidi Ouriache,46,Aïn Témouchent,46024,0
+dhd,46025,Sidi Safi,46,Aïn Témouchent,46025,0
+dhd,46026,Tamzoura,46,Aïn Témouchent,46026,0
+dhd,46015,Terga,46,Aïn Témouchent,46015,0
+dhd,47003,Berriane,47,Ghardaïa,47003,0
+dhd,47010,Bounoura,47,Ghardaïa,47010,0
+dhd,47011,Dhayet Bendhahoua,47,Ghardaïa,47011,0
+dhd,47012,El Atteuf,47,Ghardaïa,47012,0
+dhd,47004,El Guerrara,47,Ghardaïa,47004,0
+dhd,47000,Ghardaia,47,Ghardaïa,47000,1
+dhd,47023,Mansoura,47,Ghardaïa,47023,0
+dhd,47002,Metlili,47,Ghardaïa,47002,0
+dhd,47025,Sebseb,47,Ghardaïa,47025,0
+dhd,47007,Zelfana,47,Ghardaïa,47007,0
+dhd,48033,Ain Rahma,48,Relizane,48033,0
+dhd,48015,Ain Tarek,48,Relizane,48015,0
+dhd,48004,Ammi Moussa,48,Relizane,48004,0
+dhd,48036,Belaassel Bouzagza,48,Relizane,48036,0
+dhd,48037,Bendaoud,48,Relizane,48037,0
+dhd,48039,Beni Dergoun,48,Relizane,48039,0
+dhd,48041,Beni Zentis,48,Relizane,48041,0
+dhd,48044,Dar Ben Abdelah,48,Relizane,48044,0
+dhd,48005,Djidiouia,48,Relizane,48005,0
+dhd,48016,El Guettar,48,Relizane,48016,0
+dhd,48017,El H'madna,48,Relizane,48017,0
+dhd,48046,El Hassi,48,Relizane,48046,0
+dhd,48009,El Matmar,48,Relizane,48009,0
+dhd,48048,El Ouldja,48,Relizane,48048,0
+dhd,48050,Had Echkalla,48,Relizane,48050,0
+dhd,48051,Hamri,48,Relizane,48051,0
+dhd,48018,Kalaa,48,Relizane,48018,0
+dhd,48020,Lahlef,48,Relizane,48020,0
+dhd,48002,Mazouna,48,Relizane,48002,0
+dhd,48011,Mediouna,48,Relizane,48011,0
+dhd,48012,Mendes,48,Relizane,48012,0
+dhd,48056,Merdja Sidi Abed,48,Relizane,48056,0
+dhd,48013,Ouarizane,48,Relizane,48013,0
+dhd,48021,Oued El Djemaa,48,Relizane,48021,0
+dhd,48022,Oued Essalem,48,Relizane,48022,0
+dhd,48001,Oued Rhiou,48,Relizane,48001,0
+dhd,48350,Ouled Aiche,48,Relizane,48350,0
+dhd,48061,Ouled Sidi Mihoub,48,Relizane,48061,0
+dhd,48024,Ramka,48,Relizane,48024,0
+dhd,48000,Relizane,48,Relizane,48000,1
+dhd,48029,Sidi Khettab,48,Relizane,48029,0
+dhd,48065,Sidi Lazreg,48,Relizane,48065,0
+dhd,48003,Sidi M'hamed Benali,48,Relizane,48003,0
+dhd,48030,Sidi M'hamed Benaouda,48,Relizane,48030,0
+dhd,48067,Sidi Saada,48,Relizane,48067,0
+dhd,48068,Souk El Had,48,Relizane,48068,0
+dhd,48006,Yellel,48,Relizane,48006,0
+dhd,48008,Zemmoura,48,Relizane,48008,0
+dhd,1012,Aougrout,49,Timimoun,1012,0
+dhd,1014,Charouine,49,Timimoun,1014,0
+dhd,17046,Deldoul,49,Timimoun,17046,0
+dhd,1035,Ksar Kaddour,49,Timimoun,1035,0
+dhd,1038,Metarfa,49,Timimoun,1038,0
+dhd,1051,Ouled Aissa,49,Timimoun,1051,0
+dhd,1039,Ouled Said,49,Timimoun,1039,0
+dhd,1034,Talmine,49,Timimoun,1034,0
+dhd,1001,Timimoun,49,Timimoun,1001,1
+dhd,1061,Tinerkouk,49,Timimoun,1061,0
+dhd,1010,Bordj Badji Mokhtar,50,Bordj Badji Mokhtar,1010,0
+dhd,1042,Timiaouine,50,Bordj Badji Mokhtar,1042,0
+dhd,7044,Besbes,51,Ouled Djellal,7044,0
+dhd,7047,Chaiba,51,Ouled Djellal,7047,0
+dhd,7007,Doucen,51,Ouled Djellal,7007,0
+dhd,7002,Ouled Djellal,51,Ouled Djellal,7002,1
+dhd,7072,Ras El Miad,51,Ouled Djellal,7072,0
+dhd,7004,Sidi Khaled,51,Ouled Djellal,7004,0
+dhd,8002,Beni Abbes,52,Béni Abbès,8002,0
+dhd,8025,Beni Ikhlef,52,Béni Abbès,8025,0
+dhd,8020,El Ouata,52,Béni Abbès,8020,0
+dhd,8021,Igli,52,Béni Abbès,8021,0
+dhd,8022,Kerzaz,52,Béni Abbès,8022,0
+dhd,8039,Ksabi,52,Béni Abbès,8039,0
+dhd,8028,Ouled Khoudir,52,Béni Abbès,8028,0
+dhd,8029,Tabelbala,52,Béni Abbès,8029,0
+dhd,8046,Tamtert,52,Béni Abbès,8046,0
+dhd,8031,Timoudi,52,Béni Abbès,8031,0
+dhd,11016,Foggaret Azzaouia,53,In Salah,11016,0
+dhd,11004,In Ghar,53,In Salah,11004,0
+dhd,11001,In Salah,53,In Salah,11001,1
+dhd,11005,In Guezzam,54,In Guezzam,11005,0
+dhd,11011,Tin Zouatine,54,In Guezzam,11011,0
+dhd,30020,Benaceur,55,Touggourt,30020,0
+dhd,30005,Blidet Amor,55,Touggourt,30005,0
+dhd,30023,El Alia,55,Touggourt,30023,0
+dhd,30006,El Hadjira,55,Touggourt,30006,0
+dhd,30009,Megarine,55,Touggourt,30009,0
+dhd,30029,Mnaguer,55,Touggourt,30029,0
+dhd,30010,Nezla,55,Touggourt,30010,0
+dhd,30037,Sidi Slimane,55,Touggourt,30037,0
+dhd,30015,Taibet,55,Touggourt,30015,0
+dhd,30016,Tebesbest,55,Touggourt,30016,0
+dhd,30003,Temacine,55,Touggourt,30003,0
+dhd,30002,Touggourt,55,Touggourt,30002,1
+dhd,30039,Zaouia El Abidia,55,Touggourt,30039,0
+dhd,33008,Bordj El Haouasse,56,Djanet,33008,0
+dhd,33002,Djanet,56,Djanet,33002,0
+dhd,39004,Djamaa,57,El M'Ghair,39004,0
+dhd,39005,El M'ghair,57,El M'Ghair,39005,0
+dhd,39067,Mrara,57,El M'Ghair,39067,0
+dhd,39034,Oum Touyour,57,El M'Ghair,39034,0
+dhd,39018,Sidi Amrane,57,El M'Ghair,39018,0
+dhd,39038,Sidi Khelil,57,El M'Ghair,39038,0
+dhd,39039,Still,57,El M'Ghair,39039,0
+dhd,39042,Tenedla,57,El M'Ghair,39042,0
+dhd,47001,El Meniaa,58,El Meniaa,47001,1
+dhd,47021,Hassi Fehal,58,El Meniaa,47021,0
+dhd,47006,Hassi Gara,58,El Meniaa,47006,0

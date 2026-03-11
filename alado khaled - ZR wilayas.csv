@@ -1,0 +1,1001 @@
+id,code,name,postalCode,level,parentId,hasHomeDelivery,hasPickupPoint,Commune,,,,,,,,,
+6e978fc5-f20a-4b5f-9adf-61dd21a7672a,1,Adrar,1,wilaya,,TRUE,TRUE,Adrar,,,,,,,,,
+b9170873-bebd-40d2-98fb-96a5ace84aba,1,Adrar,1000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Akabli,,,,,,,,,
+981f136a-996f-463e-a536-8e643daab193,2,Chlef,2,wilaya,,TRUE,TRUE,Aougrout,,,,,,,,,
+bd9a789f-ea2b-40fd-9c79-ea9d6c62f264,2,Akabli,2000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Aoulef,,,,,,,,,
+3c53e80c-b8ca-47af-b76f-eb45ed6e6294,3,Aougrout,3000,commune,bcb30485-37b5-4135-a508-acad8a8a9cf8,TRUE,TRUE,Bouda,,,,,,,,,
+00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,3,Laghouat,3,wilaya,,TRUE,TRUE,Charouine,,,,,,,,,Quantity
+37c70742-df6b-4019-981a-a16a29a14748,4,Oum El Bouaghi,4,wilaya,,TRUE,TRUE,Deldoul,,,,,,,,,1
+cdb1b09b-d3cf-4c7a-979a-cb6a16ae0737,4,Aoulef,4000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Fenoughil,,,,,,,,,1
+a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,5,Batna,5,wilaya,,TRUE,TRUE,In Zghmir,,,,,,,,,1
+295585ad-4cf4-4b7e-b276-9bb62d019749,6,Bejaia,6,wilaya,,TRUE,TRUE,Ksar Kaddour,,,,,,,,,1
+b67de4b6-09f8-4fd6-a39b-6f117e006e33,6,Bouda,6000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Metarfa,,,,,,,,,1
+099a08c8-1d49-4beb-b3e3-06a040240a85,7,Charouine,7000,commune,bcb30485-37b5-4135-a508-acad8a8a9cf8,TRUE,TRUE,Ouled Ahmed Timmi,,,,,,,,,2
+796e70df-1102-44da-9582-2da66ead2ba6,7,Biskra,7,wilaya,,TRUE,TRUE,Ouled Aissa,,,,,,,,,1
+e740c188-2bbc-4206-8999-302b17dc0e4b,8,Bechar,8,wilaya,,TRUE,TRUE,Ouled Said,,,,,,,,,1
+8cd83a19-a896-4afa-8b7c-a33601371a0b,8,Deldoul,8000,commune,bcb30485-37b5-4135-a508-acad8a8a9cf8,TRUE,TRUE,Reggane,,,,,,,,,1
+a7e764cf-e9ca-4c1f-8232-89852d102aec,9,Blida,9,wilaya,,TRUE,TRUE,Sali,,,,,,,,,2
+4aa7999a-4b16-4f0b-8f13-8a0eeec1c344,9,Fenoughil,9000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Sebaa,,,,,,,,,1
+6d89d4e3-10ea-4a9d-90a5-be53b3a2b1cb,10,In Zghmir,10000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Talmine,,,,,,,,,2
+a1f0229c-4f34-40aa-9238-fadde6757cba,10,Bouira,10,wilaya,,TRUE,TRUE,Tamantit,,,,,,,,,2
+38560f06-e049-4fd2-9664-a655e552b517,11,Tamanrasset,11,wilaya,,TRUE,TRUE,Tamest,,,,,,,,,2
+7f6c89b5-2e84-4e6f-b32b-0024d0022c79,11,Ksar Kaddour,11000,commune,bcb30485-37b5-4135-a508-acad8a8a9cf8,TRUE,TRUE,Timekten,,,,,,,,,1
+5afdfab6-e505-4691-abc7-5e8bd79afad5,12,Tebessa,12,wilaya,,TRUE,TRUE,Timimoun,,,,,,,,,1
+1f4e2dfe-6f48-43b1-b3d8-7e46e1f37d18,12,Metarfa,12000,commune,bcb30485-37b5-4135-a508-acad8a8a9cf8,TRUE,TRUE,Tinerkouk,,,,,,,,,4
+53c9e062-9c4e-4c77-8b71-55eabf887f83,13,Tlemcen,13,wilaya,,TRUE,TRUE,Tit,,,,,,,,,3
+a55f84eb-c1a9-4970-bbcb-c1bf62c4d78d,13,Ouled Ahmed Timmi,13000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Tsabit,,,,,,,,,2
+ada5bb27-ffe5-4977-a917-3105c2b3d9c6,14,Tiaret,14,wilaya,,TRUE,TRUE,Zaouiet Kounta,,,,,,,,,1
+6c42e122-cc0b-445e-96c9-8a467ff3af65,14,Ouled Aissa,14000,commune,bcb30485-37b5-4135-a508-acad8a8a9cf8,TRUE,TRUE,Abou El Hassane,,,,,,,,,2
+d1dae286-661e-4153-89b1-9c972a2f80f4,15,Ouled Said,15000,commune,bcb30485-37b5-4135-a508-acad8a8a9cf8,TRUE,TRUE,Ain Merane,,,,,,,,,1
+5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,15,Tizi Ouzou,15,wilaya,,TRUE,TRUE,Benairia,,,,,,,,,1
+d134c182-7dac-4655-9d9b-bbdb62aa2ec4,16,Alger,16,wilaya,,TRUE,TRUE,Beni  Bouattab,,,,,,,,,1
+6616ee32-c281-4e7e-954a-ec295e97b888,16,Reggane,16000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Beni Haoua,,,,,,,,,1
+9ee8eac2-77e5-4d70-ac49-bde455d06bee,17,Djelfa,17,wilaya,,TRUE,TRUE,Beni Rached,,,,,,,,,2
+97629e30-cb74-483c-a773-b4f6a0022448,17,Sali,17000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Boukadir,,,,,,,,,1
+5f95be30-bd1c-41fd-b631-937846cd7efc,18,Sebaa,18000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Bouzeghaia,,,,,,,,,1
+dc851e52-55b2-4beb-a7f1-79d4e73e9458,18,Jijel,18,wilaya,,TRUE,TRUE,Breira,,,,,,,,,1
+f1b09257-66a2-4d34-afe9-86f9f9c6acf1,19,Talmine,19000,commune,bcb30485-37b5-4135-a508-acad8a8a9cf8,TRUE,TRUE,Chettia,,,,,,,,,2
+56ee938d-7887-408e-8731-364d07ad3594,19,Setif,19,wilaya,,TRUE,TRUE,Chlef,,,,,,,,,4
+3175242c-720d-4487-99e1-579d87f0e9ea,20,Tamantit,20000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Dahra,,,,,,,,,3
+27b2042a-77f8-4c91-b62d-60934fa0daca,20,Saida,20,wilaya,,TRUE,TRUE,El Hadjadj,,,,,,,,,3
+cf9be3f1-0377-40bc-9b10-0826c61d8a61,21,Tamest,21000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,El Karimia,,,,,,,,,1
+a9df7e26-1086-4319-8a93-19969c99c89b,21,Skikda,21,wilaya,,TRUE,TRUE,El Marsa,,,,,,,,,1
+2cec2b2a-cc37-480a-9183-59fdfdb65cd4,22,Sidi Bel Abbes,22,wilaya,,TRUE,TRUE,Harchoun,,,,,,,,,1
+6c6149d5-b34c-4e0f-af57-4b56b6179082,22,Timekten,22000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Herenfa,,,,,,,,,1
+3fd318e8-7c24-480c-a106-21f6c842583d,23,Annaba,23,wilaya,,TRUE,TRUE,Labiod Medjadja,,,,,,,,,2
+2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,24,Guelma,24,wilaya,,TRUE,TRUE,Moussadek,,,,,,,,,3
+b6f63f60-e149-42c6-a04a-418889adfbeb,24,Timimoun,24000,commune,bcb30485-37b5-4135-a508-acad8a8a9cf8,TRUE,TRUE,Oued Fodda,,,,,,,,,3
+e9a1e9cf-8475-4768-94cc-0888d094ff47,25,Constantine,25,wilaya,,TRUE,TRUE,Oued Goussine,,,,,,,,,1
+10786d8c-d70b-446d-b6ce-1d41d99d64ce,25,Tinerkouk,25000,commune,bcb30485-37b5-4135-a508-acad8a8a9cf8,TRUE,TRUE,Oued Sly,,,,,,,,,1
+0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,26,Medea,26,wilaya,,TRUE,TRUE,Ouled Abbes,,,,,,,,,2
+0cd63e5b-3055-45a8-81c9-df07b0128540,26,Tit,26000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Ouled Ben Abdelkader,,,,,,,,,1
+669d3f83-601b-4521-99a5-e03d2d4b8404,27,Tsabit,27000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Ouled Fares,,,,,,,,,2
+d7175ca6-6dd7-4dfb-a399-d388e782473a,27,Mostaganem,27,wilaya,,TRUE,TRUE,Oum Drou,,,,,,,,,1
+09f82491-7fda-489d-88e8-f5c07386ca8d,28,Zaouiet Kounta,28000,commune,6e978fc5-f20a-4b5f-9adf-61dd21a7672a,TRUE,TRUE,Sendjas,,,,,,,,,1
+75ca308d-ab36-44e2-9702-2e2300a57b8c,28,MSila,28,wilaya,,TRUE,TRUE,Sidi Abderrahmane,,,,,,,,,1
+a17a6482-3f48-4948-aaf2-8a653c4c1110,29,Mascara,29,wilaya,,TRUE,TRUE,Sidi Akkacha,,,,,,,,,1
+3e3e67ed-63a8-42e4-8ab0-b9f4f5c4e046,29,Abou El Hassane,29000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Sobha,,,,,,,,,1
+ada333a0-708d-476e-a97d-fd70fe661b09,30,Ouargla,30,wilaya,,TRUE,TRUE,Tadjena,,,,,,,,,1
+11919c5f-d73d-459b-a01f-75818d49814f,30,Ain Merane,30000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Talassa,,,,,,,,,1
+e772eb46-276a-4f41-bae7-3b67e1bdc616,31,Oran,31,wilaya,,TRUE,TRUE,Taougrit,,,,,,,,,1
+6a3435f2-b577-4fed-acc5-524c598ebb80,31,Benairia,31000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Tenes,,,,,,,,,1
+dca8b699-ce8b-4ad7-b8f2-560e63911383,32,El Bayadh,32,wilaya,,TRUE,TRUE,Zeboudja,,,,,,,,,1
+6b142d38-22f9-4e4a-a0d3-be7491ccc63d,32,Beni  Bouattab,32000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Aflou,,,,,,,,,1
+32660d04-6a57-4524-aff3-baf43ee6bc31,33,Beni Haoua,33000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Ain Madhi,,,,,,,,,1
+80d1b557-03b2-4073-a8c2-89a8712a7fc8,34,Bordj Bou Arreridj,34,wilaya,,TRUE,TRUE,Ain Sidi Ali,,,,,,,,,1
+3dc54b12-c898-4b61-8acc-bc3c6e5d7d26,34,Beni Rached,34000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,El Beidha,,,,,,,,,2
+f823492c-f79d-4c2d-befe-933bf9917a65,35,Boumerdes,35,wilaya,,TRUE,TRUE,Benacer Benchohra,,,,,,,,,2
+622a68f1-473b-406f-9268-2456dd9b7671,35,Boukadir,35000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Brida,,,,,,,,,1
+d4b26a15-0f6c-4cba-b0dd-bd434db51526,36,Bouzeghaia,36000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,El Assafia,,,,,,,,,1
+e6f4b09c-f63e-42af-92bc-dab9b422c34d,36,El Tarf,36,wilaya,,TRUE,TRUE,El Ghicha,,,,,,,,,1
+359c4465-4608-4c04-b3a7-ca3193c2b3f2,37,Breira,37000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,El Haouaita,,,,,,,,,1
+fb1a9f7a-81a2-4825-af92-79f9d187637f,38,Tissemsilt,38,wilaya,,TRUE,TRUE,Gueltat Sidi Saad,,,,,,,,,1
+dc44eb7c-2ace-4b63-b15a-34f493bde8d8,38,Chettia,38000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Hadj Mechri,,,,,,,,,1
+cd82549a-b1f7-48c1-9a25-2f3f05b80b1d,39,El Oued,39,wilaya,,TRUE,TRUE,Hassi Delaa,,,,,,,,,1
+fc22bf39-a1f5-44bf-ac5e-b25280768926,39,Chlef,39000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Hassi R'mel,,,,,,,,,1
+d4549528-8327-4a3f-9732-5a5462c84b8d,40,Khenchela,40,wilaya,,TRUE,TRUE,Kheneg,,,,,,,,,1
+df5bb079-a2b8-41b5-80fa-e621bfe61690,40,Dahra,40000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Ksar El Hirane,,,,,,,,,1
+6de43d4d-338a-4cb0-a68e-e2d635d8f0ab,41,El Hadjadj,41000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Laghouat,,,,,,,,,1
+56d30b7a-465a-462c-bc2a-3e132c89be63,41,Souk Ahras,41,wilaya,,TRUE,TRUE,Oued Morra,,,,,,,,,1
+c405f087-4eb6-409a-9977-ef43a6219a4c,42,El Karimia,42000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Oued M'zi,,,,,,,,,2
+1435179a-6dbb-4d9c-a186-c521b2a57319,42,Tipaza,42,wilaya,,TRUE,TRUE,Sebgag,,,,,,,,,3
+c0d06b1b-1bfc-47ac-83e1-315b18d0fe2f,43,El Marsa,43000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Sidi Bouzid,,,,,,,,,1
+0c8476c5-bbe4-46e4-80e5-67d3501195cc,43,Mila,43,wilaya,,TRUE,TRUE,Sidi Makhlouf,,,,,,,,,1
+8d2d130f-460c-4867-85ef-641341a4d586,44,Ain Defla,44,wilaya,,TRUE,TRUE,Tadjemout,,,,,,,,,1
+3a824969-9ffb-49ac-9722-bfb325073c19,44,Harchoun,44000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Tadjrouna,,,,,,,,,1
+ecdf0888-0470-4b2f-beb8-24c99b6fc9cb,45,Naama,45,wilaya,,TRUE,TRUE,Taouiala,,,,,,,,,1
+0d056318-f761-482c-938c-0c3326c63e80,45,Herenfa,45000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Ain Babouche,,,,,,,,,1
+320dd6a2-d8ae-49a1-9832-82b03505d687,46,Labiod Medjadja,46000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Ain Beida,,,,,,,,,1
+fc460ec5-3e71-489c-b95b-e5301ea68341,46,Ain Temouchent,46,wilaya,,TRUE,TRUE,Ain Diss,,,,,,,,,2
+0693b196-8177-4b0a-b6cf-0951f7531177,47,Moussadek,47000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Ain Fekroun,,,,,,,,,2
+e7b51620-74f4-4748-85c5-216fb9b01b03,47,Ghardaia,47,wilaya,,TRUE,TRUE,Ain Kercha,,,,,,,,,1
+adec6ba3-0e4a-4ff4-b90a-335f94cbb85e,48,Oued Fodda,48000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Ain M'lila,,,,,,,,,2
+ad58c5ee-868d-4acb-8f03-409f97a10370,48,Relizane,48,wilaya,,TRUE,TRUE,Ain Zitoun,,,,,,,,,3
+fc12e8bb-399c-4fde-b82a-21467e3a4abf,49,Oued Goussine,49000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Behir Chergui,,,,,,,,,2
+bcb30485-37b5-4135-a508-acad8a8a9cf8,49,Timimoun,49,wilaya,,TRUE,TRUE,Berriche,,,,,,,,,2
+50d15975-0d39-4c57-969f-7e9d2ada74e3,50,Oued Sly,50000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Bir Chouhada,,,,,,,,,1
+09995504-3bb4-4929-8551-3be9ed34c8a3,51,Ouled Abbes,51000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Dhalaa,,,,,,,,,2
+0f2dab00-094c-412c-a7d0-ebd0268d3d3c,51,Ouled Djellal,51,wilaya,,TRUE,TRUE,El Amiria,,,,,,,,,2
+910e38a2-6552-4a8c-b12a-bfce6ba8e607,52,Ouled Ben Abdelkader,52000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,El Belala,,,,,,,,,1
+ba12c65c-de9e-4f30-a449-6ba0b27dd7d7,52,Beni Abbes,52,wilaya,,TRUE,TRUE,El Djazia,,,,,,,,,1
+6ba259fb-c054-4ac5-8b21-ac50961db13c,53,Ouled Fares,53000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,El Fedjoudj Boughrara Sa,,,,,,,,,3
+7c752560-8412-4e11-8c75-ed7cd9c22be2,53,In Salah,53,wilaya,,TRUE,FALSE,El Harmilia,,,,,,,,,1
+397a4ba3-4713-44f8-88c5-71653b3e8e33,54,Oum Drou,54000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Fkirina,,,,,,,,,1
+f30136dc-3012-4ac7-912c-33eab37393a9,54,In Guezzam,54,wilaya,,TRUE,FALSE,Hanchir Toumghani,,,,,,,,,1
+442d8a1c-2e12-4a8a-9c7e-8618aac20280,55,Touggourt,55,wilaya,,TRUE,TRUE,Ksar Sbahi,,,,,,,,,1
+255d3721-0cdb-4f72-8d18-c1d7b552629f,55,Sendjas,55000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Meskiana,,,,,,,,,1
+da7620f2-efbf-44d6-99e4-53f7de29e1ca,56,Sidi Abderrahmane,56000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Oued Nini,,,,,,,,,1
+eabb6505-5eef-479f-b6a3-36ba282d5237,57,El Meghaier,57,wilaya,,TRUE,FALSE,Ouled Gacem,,,,,,,,,1
+8f5cbc9a-59e2-49c4-b0e9-b812ab4fe8c4,57,Sidi Akkacha,57000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Ouled Hamla,,,,,,,,,1
+3d19d427-08f3-492c-a1d0-e7ace3516ed2,58,El Menia,58,wilaya,,TRUE,FALSE,Ouled Zouai,,,,,,,,,1
+103f2081-934f-4a95-8610-511dd1385299,58,Sobha,58000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Oum El Bouaghi,,,,,,,,,1
+289df37c-c3e2-45f4-811d-6308dda00ad3,59,Tadjena,59000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Rahia,,,,,,,,,1
+9ea10c9d-30a5-43aa-ab2c-2f0365399e7d,60,Talassa,60000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Sigus,,,,,,,,,1
+845c89e0-f04a-496f-a87c-8273affa7611,61,Taougrit,61000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Souk Naamane,,,,,,,,,2
+8f556564-064c-4bd8-a720-234fb16251c8,62,Tenes,62000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Zorg,,,,,,,,,3
+95e259c9-f2fe-4569-b741-7e4b5a14896b,63,Zeboudja,63000,commune,981f136a-996f-463e-a536-8e643daab193,TRUE,TRUE,Ain Djasser,,,,,,,,,1
+634e772e-7717-4e57-a495-ef60d5507aa4,64,Aflou,64000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Ain Touta,,,,,,,,,1
+06903f83-151e-44c7-9d32-a27a038f4d36,65,Ain Madhi,65000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Ain Yagout,,,,,,,,,1
+d7964522-52f8-45b9-ac97-2b9346b9de0c,66,Ain Sidi Ali,66000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Arris,,,,,,,,,2
+4d84fa8c-ff4d-46c4-87d9-c4a0d9b7edfa,67,El Beidha,67000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Azil Abedelkader,,,,,,,,,1
+1efa04e0-a97b-4491-a49c-2c9c202b1d2b,68,Benacer Benchohra,68000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Barika,,,,,,,,,1
+7ebd963e-9ba3-4a97-82f2-f0df29b1718d,69,Brida,69000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Batna,,,,,,,,,2
+5390da7e-90e9-40e0-8051-3b2ab64b79af,70,El Assafia,70000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Beni Foudhala El Hakania,,,,,,,,,2
+7ae49d98-85b5-4bac-8be4-9a84254da4d8,71,El Ghicha,71000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Bitam,,,,,,,,,1
+022d2789-04dc-46ab-8dbb-3444e5cfe4ea,72,El Haouaita,72000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Boulhilat,,,,,,,,,1
+23b26c4b-6c06-43cf-a2fc-2fcc6ea0805f,73,Gueltat Sidi Saad,73000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Boumagueur,,,,,,,,,1
+92ad069a-6696-499c-b35a-5915b05a9645,74,Hadj Mechri,74000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Boumia,,,,,,,,,1
+3d051cd5-38c5-4042-b73a-9635ea2126a7,75,Hassi Delaa,75000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Bouzina,,,,,,,,,1
+ac24a80b-4caa-48ef-97ce-9ad54c5cfa32,76,Hassi R'mel,76000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Chemora,,,,,,,,,3
+8e5d56ff-97e6-4297-a350-8c95c4c9cfc1,77,Kheneg,77000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Chir,,,,,,,,,2
+7d745351-6ee4-4a44-8891-56c1109afb53,78,Ksar El Hirane,78000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Djerma,,,,,,,,,3
+5966de94-d813-4e57-aee2-42566cc48be6,79,Laghouat,79000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Djezzar,,,,,,,,,1
+8cc7e2e0-f103-4186-bf51-be00e78af529,80,Oued Morra,80000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,El Hassi,,,,,,,,,1
+f272cc93-9cfe-4763-b58a-a07432fe722c,81,Oued M'zi,81000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,El Madher,,,,,,,,,1
+478c4de4-a1dc-4bc4-b6b5-a651e9514a23,82,Sebgag,82000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Fesdis,,,,,,,,,3
+2403c760-d0fa-454f-abed-b7b0511dfeba,83,Sidi Bouzid,83000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Foum Toub,,,,,,,,,1
+55d77aa1-909b-4dbd-99fd-d69316b2651a,84,Sidi Makhlouf,84000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Ghassira,,,,,,,,,1
+832fb1aa-7241-489e-9909-ac97942e339f,85,Tadjemout,85000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Gosbat,,,,,,,,,1
+deb80a97-1251-494e-9ac1-e197152d62a6,86,Tadjrouna,86000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Guigba,,,,,,,,,2
+69f4464d-a157-44d6-8ba8-365af224a844,87,Taouiala,87000,commune,00b5ef4b-ae2e-4b7f-bd26-70c1a376b69b,TRUE,TRUE,Hidoussa,,,,,,,,,1
+f7dc5a01-2ca3-4443-bcda-6d570fe85913,88,Ain Babouche,88000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Ichemoul,,,,,,,,,3
+6e743974-1d6d-44d2-9d65-475debc85350,89,Ain Beida,89000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Inoughissen,,,,,,,,,2
+fc9c30a5-8324-4db1-8562-f0ed366a1277,90,Ain Diss,90000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Kimmel,,,,,,,,,2
+5e20a3f2-23d7-4c6b-add3-06d1c068b1e2,91,Ain Fekroun,91000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Ksar Bellezma,,,,,,,,,2
+7d6c04e3-712b-4271-b6a9-9e26d5128c9a,92,Ain Kercha,92000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Larbaa,,,,,,,,,1
+eb3ee5ff-1bdb-4e5f-b54b-4fe0a83b6e9a,93,Ain M'lila,93000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Lazrou,,,,,,,,,3
+7185bafa-8b32-4c56-a3da-9ec78177654e,94,Ain Zitoun,94000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Lemcene,,,,,,,,,2
+f2e399a5-ca3d-4d3a-bf5c-dd4bc9b1da24,95,Behir Chergui,95000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,M Doukal,,,,,,,,,1
+d21d54fa-942e-4e5b-905a-cda21658a5fe,96,Berriche,96000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Maafa,,,,,,,,,2
+368adda5-2a58-4582-942a-d2db72a21820,97,Bir Chouhada,97000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Menaa,,,,,,,,,2
+81947893-494a-4fda-8ff7-7ba1b30e5eb0,98,Dhalaa,98000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Merouana,,,,,,,,,2
+08de6d4e-18da-4874-95af-cbfedec14009,99,El Amiria,99000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,N Gaous,,,,,,,,,2
+e0353951-f88a-44ac-9e72-4e35d6a15dbe,100,El Belala,100000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Oued Chaaba,,,,,,,,,1
+bb5cf597-ca98-4939-ac83-2f0900733f46,101,El Djazia,101000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Oued El Ma,,,,,,,,,2
+0a3e00ec-2cb9-4493-a3a0-c5193115c406,102,El Fedjoudj Boughrara Sa,102000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Oued Taga,,,,,,,,,1
+f63f567c-52fa-436c-835e-4f57cf28f3f7,103,El Harmilia,103000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Ouled Ammar,,,,,,,,,1
+fc6385b7-7681-44be-aeae-8d387d2edb06,104,Fkirina,104000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Ouled Aouf,,,,,,,,,1
+25472508-3030-42ab-a3d0-ddd340650411,105,Hanchir Toumghani,105000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Ouled Fadel,,,,,,,,,1
+add35d14-e74d-4c12-920e-c394d25f66b6,106,Ksar Sbahi,106000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Ouled Sellem,,,,,,,,,1
+fb09fbf1-7a25-430e-8bc7-2dfd9ab17ab1,107,Meskiana,107000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Ouled Si Slimane,,,,,,,,,1
+7bb21ec1-d02a-458c-8cc2-a63a3a817feb,108,Oued Nini,108000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Ouyoun El Assafir,,,,,,,,,3
+cdeffd46-b8ad-42c6-ae12-9014dfcffb0f,109,Ouled Gacem,109000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Rahbat,,,,,,,,,1
+adb87515-9b05-40e1-a0e4-087eb74da1f7,110,Ouled Hamla,110000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Ras El Aioun,,,,,,,,,1
+2b05c952-e28b-410c-8254-e3b8d62a224b,111,Ouled Zouai,111000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Sefiane,,,,,,,,,1
+340d6a99-c51e-4875-bbbe-fd4434aafa80,112,Oum El Bouaghi,112000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Seggana,,,,,,,,,2
+4f9caecf-8879-4a45-baa9-8d3b896b93a4,113,Rahia,113000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Seriana,,,,,,,,,1
+e4203248-90be-48f6-ba97-dd3290521704,114,Sigus,114000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,T Kout,,,,,,,,,1
+ff5a8323-5712-4e80-baef-172238d93daa,115,Souk Naamane,115000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Talkhamt,,,,,,,,,1
+c66489d2-7133-4342-9bf3-9a325e11fa4a,116,Zorg,116000,commune,37c70742-df6b-4019-981a-a16a29a14748,TRUE,TRUE,Taxlent,,,,,,,,,2
+35f9ddc2-97db-402b-b287-af4952c7addc,117,Ain Djasser,117000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Tazoult,,,,,,,,,1
+85b9d2da-987a-476c-8556-e728b7dad412,118,Ain Touta,118000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Teniet El Abed,,,,,,,,,1
+e80f3ce6-376e-48f6-b293-fee67b763955,119,Ain Yagout,119000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Tighanimine,,,,,,,,,1
+0048d3b8-92ea-4322-be54-902fc4bd1c72,120,Arris,120000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Tigharghar,,,,,,,,,1
+d3fb1ccb-33d5-4997-b63f-6e3d18eff211,121,Azil Abedelkader,121000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Tilatou,,,,,,,,,1
+dfc5084e-d106-40ce-8fa0-e9f468ea29f5,122,Barika,122000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Timgad,,,,,,,,,1
+37f5389c-ee2d-4dec-81dc-058d8cc15098,123,Batna,123000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Zanet El Beida,,,,,,,,,1
+d009393b-1744-4131-8583-bd789bc9f67d,124,Beni Foudhala El Hakania,124000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Adekar,,,,,,,,,1
+eb68ab6c-dd69-4cd0-aa0e-ba72ea789ca4,125,Bitam,125000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Ait R'zine,,,,,,,,,1
+ef7a6a53-dd64-42b6-bac3-85d139f37092,126,Boulhilat,126000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Ait-Smail,,,,,,,,,1
+7831b984-a920-4131-82a9-dabf661f4504,127,Boumagueur,127000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Akbou,,,,,,,,,2
+d9008737-2cc3-48a0-b861-af38f05f34ed,128,Boumia,128000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Akfadou,,,,,,,,,1
+fff3127a-494f-4bed-a99f-a7076b7c0a6f,129,Bouzina,129000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Amalou,,,,,,,,,2
+f1a62d37-07d8-499b-8014-e0711d2e193e,130,Chemora,130000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Amizour,,,,,,,,,1
+1f0a58dc-722d-4462-93f5-ad93d5ce937b,131,Chir,131000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Aokas,,,,,,,,,1
+592885b2-7cfe-445d-a4dd-6bcc40075d92,132,Djerma,132000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Barbacha,,,,,,,,,1
+51f42947-0c6b-422c-a5c5-abdbde155cc4,133,Djezzar,133000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Bejaia,,,,,,,,,1
+891d4701-f5c5-4f5a-afc0-bfe2fc3a9ea4,134,El Hassi,134000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Beni Djellil,,,,,,,,,1
+81766aac-bf6b-4312-9b3a-36d1bfc8c370,135,El Madher,135000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Beni K'sila,,,,,,,,,1
+77a6aa13-14f3-4155-875e-c6cde844c304,136,Fesdis,136000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Beni-Mallikeche,,,,,,,,,1
+66ab2668-769b-48b0-8416-c5168458f09e,137,Foum Toub,137000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Benimaouche,,,,,,,,,2
+381ff92a-6b4f-4f8c-8dde-4f3529762592,138,Ghassira,138000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Boudjellil,,,,,,,,,1
+c858d926-c468-48b7-9586-cb0a89613435,139,Gosbat,139000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Bouhamza,,,,,,,,,1
+ed700470-baea-4be8-8300-d0e7a5b6a264,140,Guigba,140000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Boukhelifa,,,,,,,,,1
+40049720-ec07-4ac9-b53d-99bd4ca2f4e7,141,Hidoussa,141000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Chellata,,,,,,,,,3
+4424ea26-451a-4ece-be43-a10cedb06f40,142,Ichemoul,142000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Chemini,,,,,,,,,2
+d8944c3f-5f44-4d4e-81d4-3a7797e7bed7,143,Inoughissen,143000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Darguina,,,,,,,,,2
+2d472b15-e03a-46fe-ad30-3e0910252508,144,Kimmel,144000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Dra El Caid,,,,,,,,,1
+f4a818f0-4785-452c-a835-a2c690665138,145,Ksar Bellezma,145000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Leflaye,,,,,,,,,2
+b1053caa-6b7d-429c-b40e-fec2419928ec,146,Larbaa,146000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,El Kseur,,,,,,,,,50
+4d535fda-4016-4424-be8f-237f68034845,147,Lazrou,147000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Fenaia Il Maten,,,,,,,,,3
+e2b45f68-5320-4314-8651-ddeaa31afdef,148,Lemcene,148000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Feraoun,,,,,,,,,1
+c71870ad-6c77-4411-aae5-ff764e15e7b5,149,M Doukal,149000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Ouzellaguen,,,,,,,,,3
+3b85c669-2964-473a-af3c-b293cb41bc8d,150,Maafa,150000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Ighil-Ali,,,,,,,,,1
+74ff93ef-f07d-4e95-a8b9-0811398467fc,151,Menaa,151000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Ighram,,,,,,,,,1
+7a103eae-df22-4357-8ffa-ab4f5e8016c9,152,Merouana,152000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Kendira,,,,,,,,,1
+c105f0df-f10d-4cb4-ad3a-0820af51f751,153,N Gaous,153000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Kherrata,,,,,,,,,1
+d04454c7-c0c1-4b42-b5a5-411770966d6a,154,Oued Chaaba,154000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,M'cisna,,,,,,,,,1
+be9a4021-9840-4c82-808a-ca07290879c7,155,Oued El Ma,155000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Melbou,,,,,,,,,1
+6dbf77e8-094c-41e6-870f-f24a94e661e8,156,Oued Taga,156000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Oued Ghir,,,,,,,,,30
+fbb0b705-ed9f-461c-a748-bf4a3a2e7a48,157,Ouled Ammar,157000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Seddouk,,,,,,,,,2
+f14c5532-4e25-4a20-b5a8-5b2453d76772,158,Ouled Aouf,158000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Sidi Ayad,,,,,,,,,1
+7f5b4284-c595-40ac-8807-e10b8c2b7743,159,Ouled Fadel,159000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Sidi-Aich,,,,,,,,,50
+0fd19bde-6f66-431e-9cf5-e441e05da35f,160,Ouled Sellem,160000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Smaoun,,,,,,,,,1
+c37ab15c-36eb-4de6-a30f-5dd3ba6deb91,161,Ouled Si Slimane,161000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Souk El Tenine,,,,,,,,,1
+c3c9a43f-0073-4f37-8932-41d7e9b75c45,162,Ouyoun El Assafir,162000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Souk Oufella,,,,,,,,,2
+7c1c3d54-96c3-43de-ab2a-8989dcf4ae2d,163,Rahbat,163000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Tala Hamza,,,,,,,,,2
+db3730bb-e70d-4a1d-ae18-356fefe438fc,164,Ras El Aioun,164000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Tamokra,,,,,,,,,1
+02e6ad51-adb7-4fd7-8541-cddc29487e37,165,Sefiane,165000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Tamridjet,,,,,,,,,30
+93f42882-c1f9-4d23-acf0-e82cd774b99f,166,Seggana,166000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Taourit Ighil,,,,,,,,,1
+5ff5adff-66e3-48eb-87b0-f1fd9f0de6cf,167,Seriana,167000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Taskriout,,,,,,,,,1
+c6075fe7-4c1d-4581-b4c3-2e3792f1672e,168,T Kout,168000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Tazmalt,,,,,,,,,50
+d57aa0ea-f2ad-4ee5-bdf2-c1178121de68,169,Talkhamt,169000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Tibane,,,,,,,,,1
+2d0a598a-48f5-4d33-9339-742931bbfa20,170,Taxlent,170000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Tichy,,,,,,,,,2
+c142c6af-63de-49d2-9987-d07385502b29,171,Tazoult,171000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Tifra,,,,,,,,,1
+ef5a2b18-fb3c-4688-9093-7192fac5bf58,172,Teniet El Abed,172000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Timezrit,,,,,,,,,1
+d53f0c25-7d36-46d7-a80e-10ac6a8860af,173,Tighanimine,173000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Tinebdar,,,,,,,,,1
+7f95e48e-6007-4ede-86b1-8d62d5f4f290,174,Tigharghar,174000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Tizi-N'berber,,,,,,,,,1
+c49c6245-e54a-4832-92d4-1c180fc5ff25,175,Tilatou,175000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Toudja,,,,,,,,,1
+61ec30d0-6282-4414-ad32-ef3ce6930e02,176,Timgad,176000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Ain Naga,,,,,,,,,2
+e29317dc-5276-449f-953b-85b5dceeb0e7,177,Zanet El Beida,177000,commune,a8c05822-e30a-4d5a-bcb3-3b3bb23c079b,TRUE,TRUE,Ain Zaatout,,,,,,,,,1
+4e5bb389-73a6-4378-a44d-c6e08dc7a1ce,178,Adekar,178000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Besbes,,,,,,,,,1
+e937f2d8-8b7c-41b2-b45d-fed9d81650bd,179,Ait R'zine,179000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Biskra,,,,,,,,,2
+b61da9c9-ece2-43fc-9dba-b3f9ea04a1f9,180,Ait-Smail,180000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Bordj Ben Azzouz,,,,,,,,,3
+5d964794-b12a-4cd2-8793-78d192723e96,181,Akbou,181000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Bouchakroun,,,,,,,,,1
+d043663e-7d13-4d3f-927e-ca28744de574,182,Akfadou,182000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Branis,,,,,,,,,2
+7d3a3c7a-3c1a-4bcc-b3ce-cf8b53df6051,183,Amalou,183000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Chaiba,,,,,,,,,1
+5f44157b-0250-4345-b7d5-a79c9569a74c,184,Amizour,184000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Chetma,,,,,,,,,1
+fe7c7318-bc11-42fe-93a0-224c5a68a393,185,Aokas,185000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Djemorah,,,,,,,,,1
+6c99fce4-8b85-4e4b-a340-6da2cb37aa7d,186,Barbacha,186000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Doucen,,,,,,,,,1
+caa7d1a7-4d2c-4d5e-83f1-fb9f09554544,187,Bejaia,187000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,El Feidh,,,,,,,,,3
+e0a71cbd-38ec-44ab-b994-cde9f638c5dc,188,Beni Djellil,188000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,El Ghrous,,,,,,,,,1
+48a1a613-b521-4702-bc9f-fce586aba992,189,Beni K'sila,189000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,El Hadjab,,,,,,,,,1
+5abfac39-ccdf-4d3e-ad8b-99f09051912e,190,Beni-Mallikeche,190000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,El Haouch,,,,,,,,,
+8392bac4-d3d5-4465-ab49-753a26d505b5,191,Benimaouche,191000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,El Kantara,,,,,,,,,
+5446923c-c7a6-405e-b168-8c06cb860ea6,192,Boudjellil,192000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,El Outaya,,,,,,,,,
+bba025fe-98ce-4cb6-a765-73afa0d419c1,193,Bouhamza,193000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Foughala,,,,,,,,,
+8a7b1e73-ee62-4ea5-b25c-9a1e9b4435a3,194,Boukhelifa,194000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Khenguet Sidi Nadji,,,,,,,,,
+6b65c9cd-86b7-4fd4-a3b5-e770ea8a147f,195,Chellata,195000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Lichana,,,,,,,,,
+6e52d885-ab7d-4bed-9489-e62fc5a2911a,196,Chemini,196000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Lioua,,,,,,,,,
+120a8af5-5749-4804-956a-a5f270168af2,197,Darguina,197000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,M'chouneche,,,,,,,,,
+61ca4682-dd5a-445a-b611-a41940c47221,198,Dra El Caid,198000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Mekhadma,,,,,,,,,
+93cd279e-b1ac-4bf2-ad38-724f3ddaa986,199,Leflaye,199000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Meziraa,,,,,,,,,
+d50f9a0a-7f5a-466f-ba92-0c48c1b85a99,200,El Kseur,200000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,M'lili,,,,,,,,,
+d1dda21a-faa8-4627-8af9-f809fc76edc0,201,Fenaia Il Maten,201000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Ouled Djellal,,,,,,,,,
+ca429526-1714-49f6-ab59-5aaffc25fc29,202,Feraoun,202000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Oumache,,,,,,,,,
+ee54755b-fa20-4bfc-98b5-eb2da1c6e1d0,203,Ouzellaguen,203000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Ourlal,,,,,,,,,
+c08a0789-a464-4910-870a-4b7bb5cf113f,204,Ighil-Ali,204000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Ras El Miad,,,,,,,,,
+f8be9a73-9af7-4dda-b2d3-59d7eeac58ed,205,Ighram,205000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Sidi Khaled,,,,,,,,,
+92b79288-2250-43d2-a225-81204885da94,206,Kendira,206000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Sidi Okba,,,,,,,,,
+6e77e44c-5e48-45d2-836a-ddda11feaae6,207,Kherrata,207000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Tolga,,,,,,,,,
+6733c856-e804-422c-ae0e-45cb070f841f,208,M'cisna,208000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Zeribet El Oued,,,,,,,,,
+7f6a348f-e4ce-41b5-9f5d-03cceb5c4dc6,209,Melbou,209000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Abadla,,,,,,,,,
+40b386f5-c352-473f-abbd-cc0337a743aa,210,Oued Ghir,210000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Bechar,,,,,,,,,
+c052d1d0-f1d0-486d-a7d1-5da923f20b7c,211,Seddouk,211000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Beni-Abbes,,,,,,,,,
+3afe3204-3851-4667-beeb-94482f658fb6,212,Sidi Ayad,212000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Beni-Ikhlef,,,,,,,,,
+16a639ed-ef03-4716-b966-11c2d5d12f6a,213,Sidi-Aich,213000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Beni-Ounif,,,,,,,,,
+69999bdf-a404-4329-ad6e-87f8ca5c433b,214,Smaoun,214000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Boukais,,,,,,,,,
+d37d5514-3da5-458b-b18c-2899d9685a21,215,Souk El Tenine,215000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,El Ouata,,,,,,,,,
+12116dd6-a258-4009-aada-aaf07d1f890b,216,Souk Oufella,216000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Erg-Ferradj,,,,,,,,,
+62a012c8-f3b4-4390-a2af-1edc7d69ad6f,217,Tala Hamza,217000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Igli,,,,,,,,,
+c374198d-4e96-4878-917a-ccb653b06e2f,218,Tamokra,218000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Kenadsa,,,,,,,,,
+388685ff-bbe6-4fff-a869-be80103bfefd,219,Tamridjet,219000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Kerzaz,,,,,,,,,
+3f3a1a6f-cff3-4f78-a2dc-b5b5aa5751da,220,Taourit Ighil,220000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Ksabi,,,,,,,,,
+ea85b215-6276-47d8-b47a-23bcbd896c6a,221,Taskriout,221000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Lahmar,,,,,,,,,
+f725deee-c076-4a42-aba3-16e6f1661793,222,Tazmalt,222000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Machraa-Houari-Boumediene,,,,,,,,,
+c886da60-9c55-4b4c-bf7f-e776b2df417e,223,Tibane,223000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Meridja,,,,,,,,,
+31287f86-0513-4233-94cb-c99d88be5518,224,Tichy,224000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Mogheul,,,,,,,,,
+a732eb12-ac57-4c3b-8a12-106a17cf1b47,225,Tifra,225000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Ouled-Khodeir,,,,,,,,,
+b8c0dd06-b04c-4a18-a397-b97b5921a2de,226,Timezrit,226000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Tabelbala,,,,,,,,,
+51c46222-d00a-417a-b9ef-dfe8391e1c0c,227,Tinebdar,227000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Taghit,,,,,,,,,
+f59e4239-a76d-4387-973c-89f6afd829f4,228,Tizi-N'berber,228000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Tamtert,,,,,,,,,
+44887e63-0534-45f8-b18a-9f77e0356e96,229,Toudja,229000,commune,295585ad-4cf4-4b7e-b276-9bb62d019749,TRUE,TRUE,Timoudi,,,,,,,,,
+72bfc682-3a31-4f11-aa05-c0dbcbded326,230,Ain Naga,230000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Ain Romana,,,,,,,,,
+9491a98a-ebe4-4a86-acab-6eb7eec18816,231,Ain Zaatout,231000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Beni Mered,,,,,,,,,
+9c2d90b7-e126-4d6f-9058-a7d8d4908729,232,Besbes,232000,commune,0f2dab00-094c-412c-a7d0-ebd0268d3d3c,TRUE,TRUE,Beni-Tamou,,,,,,,,,
+b68fb438-5998-491d-9aed-5588cc7f7d1d,233,Biskra,233000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Benkhelil,,,,,,,,,
+73e4a2f8-deae-4bb6-834e-bb9249a49224,234,Bordj Ben Azzouz,234000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Blida,,,,,,,,,
+97e3ef29-f469-4a6c-b626-1c03593a175d,235,Bouchakroun,235000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Bouarfa,,,,,,,,,
+1b0d9b05-d437-474b-b214-47f56f345b38,236,Branis,236000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Boufarik,,,,,,,,,
+b0d3eb9a-bfc9-4aea-bba9-3526dd85b10c,237,Chaiba,237000,commune,0f2dab00-094c-412c-a7d0-ebd0268d3d3c,TRUE,TRUE,Bougara,,,,,,,,,
+e4c02d48-8a04-4127-81e7-c2f8e8909f16,238,Chetma,238000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Bouinan,,,,,,,,,
+141f37d0-f0c8-4de8-9bb4-8800cc74749d,239,Djemorah,239000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Chebli,,,,,,,,,
+8bc9b68b-22b0-48ba-9ed6-59230a7af1d7,240,Doucen,240000,commune,0f2dab00-094c-412c-a7d0-ebd0268d3d3c,TRUE,TRUE,Chiffa,,,,,,,,,
+3937ef8d-963f-4584-8e98-fc911759bef0,241,El Feidh,241000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Chrea,,,,,,,,,
+65d536a7-1276-4681-a6ff-49df423ac44d,242,El Ghrous,242000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Djebabra,,,,,,,,,
+ded1b1c8-10b5-47dc-8a7c-c8b752cdab3e,243,El Hadjab,243000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,El-Affroun,,,,,,,,,
+d2a0ea8e-167b-4e2f-8781-c18dc4a5485f,244,El Haouch,244000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Guerrouaou,,,,,,,,,
+37d0aade-3b27-4ad7-ae08-1b75cbeb6577,245,El Kantara,245000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Hammam Elouane,,,,,,,,,
+7e05fb5d-781b-423a-96fc-c699ffdc4c8c,246,El Outaya,246000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Larbaa,,,,,,,,,
+b82240e6-bb6d-48e0-8f6f-9f609f978946,247,Foughala,247000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Meftah,,,,,,,,,
+9067092f-db70-45b2-8413-2432751e7110,248,Khenguet Sidi Nadji,248000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Mouzaia,,,,,,,,,
+3ff23d85-b5aa-4e22-851d-0a767bfe3638,249,Lichana,249000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Oued  Djer,,,,,,,,,
+820efd36-3218-47c9-9d8c-aedf1d6c01ce,250,Lioua,250000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Oued El Alleug,,,,,,,,,
+f67ae22d-eba3-49b5-95b8-67c2c53e1eb2,251,M'chouneche,251000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Ouled Slama,,,,,,,,,
+875c3baa-1a13-4d85-9bc7-44a004625393,252,Mekhadma,252000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Ouled Yaich,,,,,,,,,
+50f5fd44-e9d6-4de6-acef-80b0117a1082,253,Meziraa,253000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Souhane,,,,,,,,,
+d5276558-ff2b-4146-b6b5-3d50ddaa3580,254,M'lili,254000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Soumaa,,,,,,,,,
+f65f6d03-b3de-4dbb-ad77-c9f0f6a5f041,255,Ouled Djellal,255000,commune,0f2dab00-094c-412c-a7d0-ebd0268d3d3c,TRUE,TRUE,Aghbalou,,,,,,,,,
+15d41e6b-fa6d-4f7e-9076-ee712714226a,256,Oumache,256000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Ahl El Ksar,,,,,,,,,
+de09cf47-bc0e-47ab-94f0-587e5130a675,257,Ourlal,257000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Ain El Hadjar,,,,,,,,,
+aff09f34-2d21-460f-a4e3-b7c7ca08d9f4,258,Ras El Miad,258000,commune,0f2dab00-094c-412c-a7d0-ebd0268d3d3c,TRUE,TRUE,Ain Laloui,,,,,,,,,
+f1828ccf-5f14-4cf4-8158-4d0c02b18af9,259,Sidi Khaled,259000,commune,0f2dab00-094c-412c-a7d0-ebd0268d3d3c,TRUE,TRUE,Ain Turk,,,,,,,,,
+82de2232-2543-45a1-85c3-7e82c81e8ece,260,Sidi Okba,260000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Ain-Bessem,,,,,,,,,
+f48544d0-8d0d-4362-9f2a-fff1f8991e9a,261,Tolga,261000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Ait Laaziz,,,,,,,,,
+f676bc07-7656-4479-858c-e38b29db3f41,262,Zeribet El Oued,262000,commune,796e70df-1102-44da-9582-2da66ead2ba6,TRUE,TRUE,Aomar,,,,,,,,,
+2712e0f6-787d-4ee6-9eae-d843c3888985,263,Abadla,263000,commune,e740c188-2bbc-4206-8999-302b17dc0e4b,TRUE,TRUE,Bechloul,,,,,,,,,
+fbd1d735-fbd9-47f1-a785-dc0fcaf37e5f,264,Bechar,264000,commune,e740c188-2bbc-4206-8999-302b17dc0e4b,TRUE,TRUE,Bir Ghbalou,,,,,,,,,
+e5dccfc2-d778-48a8-9295-0570f16766e4,265,Beni-Abbes,265000,commune,ba12c65c-de9e-4f30-a449-6ba0b27dd7d7,TRUE,TRUE,Bordj Okhriss,,,,,,,,,
+f684e81f-d80b-473e-8f2f-732f44a0eec6,266,Beni-Ikhlef,266000,commune,ba12c65c-de9e-4f30-a449-6ba0b27dd7d7,TRUE,TRUE,Bouderbala,,,,,,,,,
+90ffa0c0-a045-4a93-9b6d-fcc35be02c23,267,Beni-Ounif,267000,commune,e740c188-2bbc-4206-8999-302b17dc0e4b,TRUE,TRUE,Bouira,,,,,,,,,
+740b44fa-b240-45ab-a576-1d6230306633,268,Boukais,268000,commune,e740c188-2bbc-4206-8999-302b17dc0e4b,TRUE,TRUE,Boukram,,,,,,,,,
+063fd029-7155-458c-9981-c61a28f10783,269,El Ouata,269000,commune,ba12c65c-de9e-4f30-a449-6ba0b27dd7d7,TRUE,TRUE,Chorfa,,,,,,,,,
+5211ad4a-a21d-4840-9370-81f1b1ffbd62,270,Erg-Ferradj,270000,commune,e740c188-2bbc-4206-8999-302b17dc0e4b,TRUE,TRUE,Dechmia,,,,,,,,,
+63ca947f-cf7d-48aa-bc99-783ef9152211,271,Igli,271000,commune,ba12c65c-de9e-4f30-a449-6ba0b27dd7d7,TRUE,TRUE,Dirah,,,,,,,,,
+f6d90bf8-dc73-449e-89e0-09149c914122,272,Kenadsa,272000,commune,e740c188-2bbc-4206-8999-302b17dc0e4b,TRUE,TRUE,Djebahia,,,,,,,,,
+7b3826f7-49b6-4cfa-9242-d8634d31b730,273,Kerzaz,273000,commune,ba12c65c-de9e-4f30-a449-6ba0b27dd7d7,TRUE,TRUE,El Adjiba,,,,,,,,,
+2d6789e4-30ad-42ad-8844-a958c7a1d0ec,274,Ksabi,274000,commune,ba12c65c-de9e-4f30-a449-6ba0b27dd7d7,TRUE,TRUE,El Asnam,,,,,,,,,
+0136e51f-f1c3-4d05-baf9-43307d3e6fb6,275,Lahmar,275000,commune,e740c188-2bbc-4206-8999-302b17dc0e4b,TRUE,TRUE,El Hachimia,,,,,,,,,
+17c7eee9-1fe2-44c0-baed-4f42ba02a209,276,Machraa-Houari-Boumediene,276000,commune,e740c188-2bbc-4206-8999-302b17dc0e4b,TRUE,TRUE,El Khabouzia,,,,,,,,,
+810d660f-1ce3-4129-8971-553ddf18c8f1,277,Meridja,277000,commune,e740c188-2bbc-4206-8999-302b17dc0e4b,TRUE,TRUE,El-Hakimia,,,,,,,,,
+c541c47c-b24e-4552-b512-c38b883bc4c3,278,Mogheul,278000,commune,e740c188-2bbc-4206-8999-302b17dc0e4b,TRUE,TRUE,El-Mokrani,,,,,,,,,
+44e629de-7ae6-4125-8ca6-2f7e3f772af2,279,Ouled-Khodeir,279000,commune,ba12c65c-de9e-4f30-a449-6ba0b27dd7d7,TRUE,TRUE,Guerrouma,,,,,,,,,
+c98bb44e-bb3e-4621-a285-008875b47323,280,Tabelbala,280000,commune,ba12c65c-de9e-4f30-a449-6ba0b27dd7d7,TRUE,TRUE,Hadjera Zerga,,,,,,,,,
+7f3f10ef-15f5-4f05-9844-db00999d9c8b,281,Taghit,281000,commune,e740c188-2bbc-4206-8999-302b17dc0e4b,TRUE,TRUE,Haizer,,,,,,,,,
+409a0997-b0d5-4f6c-910d-60bbc064c3ee,282,Tamtert,282000,commune,ba12c65c-de9e-4f30-a449-6ba0b27dd7d7,TRUE,TRUE,Hanif,,,,,,,,,
+f94e277e-ad61-4005-bcd6-c405a376f934,283,Timoudi,283000,commune,ba12c65c-de9e-4f30-a449-6ba0b27dd7d7,TRUE,TRUE,Kadiria,,,,,,,,,
+d36a5648-d4e2-494a-9c23-8d4b9edb3057,284,Ain Romana,284000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Lakhdaria,,,,,,,,,
+5f1db7bb-5d56-4a4e-9357-914be6495358,285,Beni Mered,285000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,M Chedallah,,,,,,,,,
+2c44eee8-ff68-4494-ba68-47164d0e4fdc,286,Beni-Tamou,286000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Maala,,,,,,,,,
+c733fc61-3f6b-4782-9fef-672d18647b0f,287,Benkhelil,287000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Maamora,,,,,,,,,
+d3866552-a62a-46e6-a6b2-8f9eb0c0249d,288,Blida,288000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Mezdour,,,,,,,,,
+83cfe6cf-5379-48e5-b604-c00f3820263d,289,Bouarfa,289000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Oued El Berdi,,,,,,,,,
+860a1bdd-3104-4bae-9317-d7a69e129a85,290,Boufarik,290000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Ouled Rached,,,,,,,,,
+a4246326-eb05-4cc1-b7c3-2ce76949f3e8,291,Bougara,291000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Raouraoua,,,,,,,,,
+6460f5c7-299f-4fa7-bcd3-6c539eba39a8,292,Bouinan,292000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Ridane,,,,,,,,,
+bb2a3701-8620-4a01-a4fe-3715ec8d72df,293,Chebli,293000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Saharidj,,,,,,,,,
+364bd59d-2173-44fd-9ade-44527d4b87ed,294,Chiffa,294000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Souk El Khemis,,,,,,,,,
+2ed440e3-e266-4471-a853-0c3b2b1d27d2,295,Chrea,295000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Sour El Ghozlane,,,,,,,,,
+aed06435-462a-475d-82f5-63bf39d2fafa,296,Djebabra,296000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Taghzout,,,,,,,,,
+7beb4d37-592f-48f9-ad54-a7b2835bc724,297,El-Affroun,297000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Taguedite,,,,,,,,,
+cbdf9adc-a15e-497c-86fe-5c0a8ddaf7fb,298,Guerrouaou,298000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Ath Mansour,,,,,,,,,
+c7c251f6-d64b-4bd0-9227-8b9a1aabcf43,299,Hammam Elouane,299000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Z'barbar (El Isseri ),,,,,,,,,
+eb48a3ef-c0c7-452b-9a48-4b450bab21ca,300,Larbaa,300000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Abelsa,,,,,,,,,
+1d70c1c9-1bed-46c8-977a-bdd64915793f,301,Meftah,301000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Ain Amguel,,,,,,,,,
+ca13ad49-0831-4129-9667-e7fc0163407b,302,Mouzaia,302000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Ain Guezzam,,,,,,,,,
+7e8c6e89-e161-4257-8e90-de24023a247f,303,Oued  Djer,303000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Ain Salah,,,,,,,,,
+ed9c7e3d-c24b-4098-b904-88005082563d,304,Oued El Alleug,304000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Foggaret Ezzoua,,,,,,,,,
+72675e4c-d871-4a8b-8d39-746c8e3d7254,305,Ouled Slama,305000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Idles,,,,,,,,,
+08a1631f-1949-462b-94a6-01f212d869e1,306,Ouled Yaich,306000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Inghar,,,,,,,,,
+6b9536c6-9715-4022-9ad9-e2aa8a181f74,307,Souhane,307000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Tamanrasset,,,,,,,,,
+e2df13dc-1635-4226-a6d1-77e6cd0ab536,308,Soumaa,308000,commune,a7e764cf-e9ca-4c1f-8232-89852d102aec,TRUE,TRUE,Tazrouk,,,,,,,,,
+68f4ae1c-56ba-4072-a85a-6ecb295cdaaa,309,Aghbalou,309000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Tin Zouatine,,,,,,,,,
+6fb99ff8-cebf-4ff4-ab28-8e1e6111ff58,310,Ahl El Ksar,310000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Ain Zerga,,,,,,,,,
+6177ae10-cd9b-4d65-9711-3aa1d263c373,311,Ain El Hadjar,311000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Bedjene,,,,,,,,,
+4d6652b1-5dca-461f-bb20-e12e7a015118,312,Ain Laloui,312000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Bekkaria,,,,,,,,,
+540ed93f-4b1b-47cb-8f11-0535ce439949,313,Ain Turk,313000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Bir Dheheb,,,,,,,,,
+62741818-2e2b-4043-9838-646be5dfae8f,314,Ain-Bessem,314000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Bir Mokkadem,,,,,,,,,
+f2571236-f041-4afc-baa9-b731c9fa65d4,315,Ait Laaziz,315000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Bir-El-Ater,,,,,,,,,
+a738fc1b-86dd-4a70-a005-09ead7f5187e,316,Aomar,316000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Boukhadra,,,,,,,,,
+a4bab5b1-7e6e-479d-b9a7-548a8061b3a6,317,Bechloul,317000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Boulhaf Dyr,,,,,,,,,
+50f27247-b73e-41dc-8892-824c5be993a5,318,Bir Ghbalou,318000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Cheria,,,,,,,,,
+6cb8f239-eb5b-4b21-bb50-90b6c5227326,319,Bordj Okhriss,319000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,El Kouif,,,,,,,,,
+9a9da4d5-e695-49af-b34a-ad0b2f726bfb,320,Bouderbala,320000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,El Malabiod,,,,,,,,,
+200547e7-e8f0-44e0-8953-cd89cbd76ca9,321,Bouira,321000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,El Meridj,,,,,,,,,
+389fa2b8-c411-4e1b-a45e-b60285bf960b,322,Boukram,322000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,El Mezeraa,,,,,,,,,
+8c4751ef-24f0-45db-bf06-3c52e861980f,323,Chorfa,323000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,El Ogla,,,,,,,,,
+f6c725a7-2333-42e5-956b-824ce2477c1d,324,Dechmia,324000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,El Ogla El Malha,,,,,,,,,
+6f78eebb-2011-4ad9-acfa-e9be8d81d17c,325,Dirah,325000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,El-Aouinet,,,,,,,,,
+2d701837-60cf-4a9c-93d2-f0a3ee1ded1e,326,Djebahia,326000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,El-Houidjbet,,,,,,,,,
+0dcf2773-4dc9-468d-aa7a-b98d382a7fcc,327,El Adjiba,327000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Ferkane,,,,,,,,,
+44575b5a-b66b-4929-adf3-df46054bd5ce,328,El Asnam,328000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Guorriguer,,,,,,,,,
+ace40929-9c9f-4c78-92ec-7b323edf11e5,329,El Hachimia,329000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Hammamet,,,,,,,,,
+55af365d-939c-4375-8614-8290997d9252,330,El Khabouzia,330000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Morsott,,,,,,,,,
+4fef306d-6fee-40ad-ae13-47f544907456,331,El-Hakimia,331000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Negrine,,,,,,,,,
+04ef3825-eb71-4fb1-aec6-0851fe9d9439,332,El-Mokrani,332000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Ouenza,,,,,,,,,
+8a6ff68e-d773-4d94-a3e2-5a8082698484,333,Guerrouma,333000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Oum Ali,,,,,,,,,
+9bb00777-c251-4f0d-9ae9-05ca959a14ae,334,Hadjera Zerga,334000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Saf Saf El Ouesra,,,,,,,,,
+0dde4967-ba92-4542-9a1e-fa36c7db26ca,335,Haizer,335000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Stah Guentis,,,,,,,,,
+1f787a6e-baf6-4bbc-b935-a8d9f2b347e3,336,Hanif,336000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Tebessa,,,,,,,,,
+8e001eca-1a69-4183-95bf-4bfb8dcbce46,337,Kadiria,337000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Telidjen,,,,,,,,,
+f8539881-4462-4610-bf40-c54a1dbb3ec4,338,Lakhdaria,338000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Ain Fetah,,,,,,,,,
+f88e2ff0-631e-4109-9309-211b4e5cc745,339,M Chedallah,339000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Ain Fezza,,,,,,,,,
+d5ae8fea-8539-45d1-957a-801fbc8fb68f,340,Maala,340000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Ain Ghoraba,,,,,,,,,
+b0ccd655-88d1-4744-948b-21e4d9d1e59b,341,Maamora,341000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Ain Kebira,,,,,,,,,
+fda6f3b7-057b-4b48-9a6f-8336dbfadb21,342,Mezdour,342000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Ain Nehala,,,,,,,,,
+58f31412-0288-4890-a567-de548f3ec459,343,Oued El Berdi,343000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Ain Tellout,,,,,,,,,
+70a4711f-29e1-4b2b-8300-72d0a83a694a,344,Ouled Rached,344000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Ain Youcef,,,,,,,,,
+39933a9f-e41d-40b9-89a2-832fc0eda6af,345,Raouraoua,345000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Amieur,,,,,,,,,
+deec885e-547e-4681-8d60-488a0f289d8b,346,Ridane,346000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Bab El Assa,,,,,,,,,
+2e13ba5a-cf90-435c-8f58-897eb054fef5,347,Saharidj,347000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Beni Bahdel,,,,,,,,,
+9edc228e-14aa-46ad-ba26-8aa5410c35f4,348,Souk El Khemis,348000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Beni Boussaid,,,,,,,,,
+be896a97-dbc1-41aa-95c7-6242b3b18726,349,Sour El Ghozlane,349000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Beni Khellad,,,,,,,,,
+5354b782-3ae3-4769-89d2-71ef2207402a,350,Taghzout,350000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Beni Mester,,,,,,,,,
+dfeca2e5-e8e4-44c9-a5cb-a6b0dae2865c,351,Taguedite,351000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Beni Ouarsous,,,,,,,,,
+2552fc56-f620-4d00-9673-48bb1739f790,352,Ath Mansour,352000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Beni Smiel,,,,,,,,,
+19fb8bc6-24f1-45c4-b0e6-d78f2062d585,353,Z'barbar (El Isseri ),353000,commune,a1f0229c-4f34-40aa-9238-fadde6757cba,TRUE,TRUE,Beni Snous,,,,,,,,,
+f57f2bb0-bdcc-45cb-a609-9b6a9eddfa8a,354,Abelsa,354000,commune,38560f06-e049-4fd2-9664-a655e552b517,TRUE,TRUE,Bensekrane,,,,,,,,,
+2623cfcb-78da-43bc-9733-0953b1c2a896,355,Ain Amguel,355000,commune,38560f06-e049-4fd2-9664-a655e552b517,TRUE,TRUE,Bouhlou,,,,,,,,,
+5d7f6ee0-fd28-4b04-92b2-c6012b66e737,356,Ain Guezzam,356000,commune,f30136dc-3012-4ac7-912c-33eab37393a9,TRUE,FALSE,Bouihi,,,,,,,,,
+81622af1-2248-4042-a054-b9059b38572a,357,Ain Salah,357000,commune,7c752560-8412-4e11-8c75-ed7cd9c22be2,TRUE,FALSE,Chetouane,,,,,,,,,
+e08d1a13-40c5-42ad-8902-be8d4c016a3e,358,Foggaret Ezzoua,358000,commune,7c752560-8412-4e11-8c75-ed7cd9c22be2,TRUE,FALSE,Dar Yaghmoracen,,,,,,,,,
+70380bfe-f435-437b-a623-b0a53cfaecb4,359,Idles,359000,commune,38560f06-e049-4fd2-9664-a655e552b517,TRUE,TRUE,Djebala,,,,,,,,,
+c19f1edd-c294-4323-a3f6-5983c285bf4f,360,Inghar,360000,commune,7c752560-8412-4e11-8c75-ed7cd9c22be2,TRUE,FALSE,El Aricha,,,,,,,,,
+1ef7801a-95bf-442f-8530-5481d6c1b96e,361,Tamanrasset,361000,commune,38560f06-e049-4fd2-9664-a655e552b517,TRUE,TRUE,Azail,,,,,,,,,
+48e266da-4e42-48b0-b8ea-87aae5fecd53,362,Tazrouk,362000,commune,38560f06-e049-4fd2-9664-a655e552b517,TRUE,TRUE,El Fehoul,,,,,,,,,
+3d6a326d-f46d-4a24-b3b6-937df621e0bd,363,Tin Zouatine,363000,commune,f30136dc-3012-4ac7-912c-33eab37393a9,TRUE,FALSE,El Gor,,,,,,,,,
+0bcf48b9-02f4-4ebc-aa3c-f6a4e504e1da,364,Ain Zerga,364000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Fellaoucene,,,,,,,,,
+262d2d99-8285-4b1f-9ab2-5b835178040e,365,Bedjene,365000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Ghazaouet,,,,,,,,,
+c52f77a5-1af3-4ef2-830d-00eac292308a,366,Bekkaria,366000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Hammam Boughrara,,,,,,,,,
+afa5f187-ef1a-46d6-bf36-275dab96dcef,367,Bir Dheheb,367000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Hennaya,,,,,,,,,
+4dee2a3b-66c5-486f-b1a3-8686b35cfa81,368,Bir Mokkadem,368000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Honnaine,,,,,,,,,
+95ef0717-3a3f-4d9f-a6e7-f693dd1b4a7e,369,Bir-El-Ater,369000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Maghnia,,,,,,,,,
+b61b992a-88a4-43e7-95e8-54c20cf5ede9,370,Boukhadra,370000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Mansourah,,,,,,,,,
+bfa2968c-f257-42c3-a765-b309864dc3ed,371,Boulhaf Dyr,371000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Marsa Ben M'hidi,,,,,,,,,
+19f1ba69-9fcb-415c-8aef-d0ee77bb3424,372,Cheria,372000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,M'sirda Fouaga,,,,,,,,,
+bf9c3595-3479-45b0-87f4-ef69761b314f,373,El Kouif,373000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Nedroma,,,,,,,,,
+669ad8bb-28ae-4597-9055-fa91aad5061c,374,El Malabiod,374000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Oued Lakhdar,,,,,,,,,
+4a3d7cfe-4b9f-4209-96e0-8280018227df,375,El Meridj,375000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Ouled Mimoun,,,,,,,,,
+9471af94-f9f7-4a5c-919f-b497b53f1d5a,376,El Mezeraa,376000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Ouled Riyah,,,,,,,,,
+0d643bd0-070e-4f57-bc90-afbec2053c48,377,El Ogla,377000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Remchi,,,,,,,,,
+3e1a6f65-385e-4b7c-ae88-0ba3e6fbef22,378,El Ogla El Malha,378000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Sabra,,,,,,,,,
+5fe11740-cc14-4987-b44e-9ea860851bda,379,El-Aouinet,379000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Sebbaa Chioukh,,,,,,,,,
+467eb646-4dcc-4d00-976c-5c2af2d674c3,380,El-Houidjbet,380000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Sebdou,,,,,,,,,
+91ac38fd-147e-42e0-b5ce-dedf226e7c0d,381,Ferkane,381000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Sidi Abdelli,,,,,,,,,
+47d7ef41-31b0-4760-9d6c-36ddf618ae02,382,Guorriguer,382000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Sidi Djillali,,,,,,,,,
+1a538787-1f22-4637-a458-30f844ee2309,383,Hammamet,383000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Sidi Medjahed,,,,,,,,,
+ee305435-78c5-4f82-966e-681ec7645494,384,Morsott,384000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Souahlia,,,,,,,,,
+df2486d2-53d6-4489-aeee-00cdee010751,385,Negrine,385000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Souani,,,,,,,,,
+b86dc46b-a9b2-4da8-8336-5c17047a7834,386,Ouenza,386000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Souk Tleta,,,,,,,,,
+a05cb28c-98eb-47e6-b0c3-5ee7f3f7d34e,387,Oum Ali,387000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Terny Beni Hediel,,,,,,,,,
+20d34425-f650-4b04-8eb9-7c017f5eae7c,388,Saf Saf El Ouesra,388000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Tianet,,,,,,,,,
+6d5f9bc8-08a7-4f86-be3e-c65bac4a369e,389,Stah Guentis,389000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Tlemcen,,,,,,,,,
+e944ad9c-f555-4b6c-a6e2-ca17d95df2cc,390,Tebessa,390000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Zenata,,,,,,,,,
+b4b4fbd3-532f-41ff-ba56-ec447d002d59,391,Telidjen,391000,commune,5afdfab6-e505-4691-abc7-5e8bd79afad5,TRUE,TRUE,Ain Bouchekif,,,,,,,,,
+72832049-1813-4bdf-8664-d8360dd83bc4,392,Ain Fetah,392000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ain Deheb,,,,,,,,,
+e81f5b39-ef03-4ae8-b785-95a31c6dca6b,393,Ain Fezza,393000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ain Dzarit,,,,,,,,,
+a2a6f0e0-649e-419b-866d-568c6be72091,394,Ain Ghoraba,394000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ain El Hadid,,,,,,,,,
+231cad69-894d-46d2-bd63-e2b9b6d791c6,395,Ain Kebira,395000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ain Kermes,,,,,,,,,
+118d58dd-7a97-4426-aba5-d3c82490c754,396,Ain Nehala,396000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Bougara,,,,,,,,,
+23763cea-650f-4966-b67b-35c1c4088f33,397,Ain Tellout,397000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Chehaima,,,,,,,,,
+ad669bf7-20dc-46f1-ad3a-c6f1f4d1f310,398,Ain Youcef,398000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Dahmouni,,,,,,,,,
+aaaee354-2bb6-491e-baa7-4fab5fcf5042,399,Amieur,399000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Djebilet Rosfa,,,,,,,,,
+8d0b6cd9-7712-47d2-9ea4-460246494c32,400,Bab El Assa,400000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Djillali Ben Amar,,,,,,,,,
+c9719809-60c1-4c0f-b376-4552e0ae4c3e,401,Beni Bahdel,401000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Faidja,,,,,,,,,
+3faba91c-8232-44a4-8258-73ba8a998f33,402,Beni Boussaid,402000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Frenda,,,,,,,,,
+9c1ab33e-b0cb-46f8-8ce4-4bedc420f854,403,Beni Khellad,403000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Guertoufa,,,,,,,,,
+676d55cc-8cec-4870-ba4f-926b71d32bcb,404,Beni Mester,404000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Hamadia,,,,,,,,,
+55e7d1b1-96be-471b-afc4-9755e43b4b0b,405,Beni Ouarsous,405000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ksar Chellala,,,,,,,,,
+f7cc97fa-5e95-4185-8851-c9c63852dcb2,406,Beni Smiel,406000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Madna,,,,,,,,,
+727724f2-48bc-4912-96f1-0bc7f1e1739d,407,Beni Snous,407000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Mahdia,,,,,,,,,
+3afc226f-66f8-4202-953e-3f235ec0ca66,408,Bensekrane,408000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Mechraa Safa,,,,,,,,,
+9e23ff32-5416-43ff-af94-49d4bdee49c3,409,Bouhlou,409000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Medrissa,,,,,,,,,
+b7853cd7-a6a6-42ec-bd92-aa83523fdd66,410,Bouihi,410000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Medroussa,,,,,,,,,
+85e5fbe6-e0a9-4fe1-aa62-6271eb83edb7,411,Chetouane,411000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Meghila,,,,,,,,,
+7cdf618f-cf6c-45a4-a6f1-8de2a76a936c,412,Dar Yaghmoracen,412000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Mellakou,,,,,,,,,
+9b4626bc-5327-4098-aa78-b2540696b50c,413,Djebala,413000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Nadorah,,,,,,,,,
+a76cfc96-e3c5-41bd-8154-c82bbb7764fb,414,El Aricha,414000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Naima,,,,,,,,,
+00b6827b-2784-4535-b3fe-c1bda626e69d,415,Azail,415000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Oued Lilli,,,,,,,,,
+47cc8431-1a9e-434a-96b3-4726eda9bca3,416,El Fehoul,416000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Rahouia,,,,,,,,,
+72383385-ec4d-49eb-b65f-b678eced78c9,417,El Gor,417000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Rechaiga,,,,,,,,,
+b1a9b6e3-3400-4f99-b0af-c874f2fd9eac,418,Fellaoucene,418000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Sebaine,,,,,,,,,
+cdf2c1a8-8c72-4b14-8cef-91e95cfaaec4,419,Ghazaouet,419000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Sebt,,,,,,,,,
+fe1ce9bb-cb62-4192-b271-08a05a85f160,420,Hammam Boughrara,420000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Serghine,,,,,,,,,
+64d78abc-f6d4-4250-a909-6fb80ce2dbef,421,Hennaya,421000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Si Abdelghani,,,,,,,,,
+2ff90eb8-ce31-4736-aaa5-580392536620,422,Honnaine,422000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Sidi Abderrahmane,,,,,,,,,
+845792eb-d72d-4e81-8d37-bdc409a1fb9f,423,Maghnia,423000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Sidi Ali Mellal,,,,,,,,,
+cd4baaa2-fd46-4e1d-94b6-50ac300441e1,424,Mansourah,424000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Sidi Bakhti,,,,,,,,,
+94cd30eb-12c8-4212-a195-45399cf476a9,425,Marsa Ben M'hidi,425000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Sidi Hosni,,,,,,,,,
+a0634d93-21a0-49d2-886b-cf056a3f1fc3,426,M'sirda Fouaga,426000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Sougueur,,,,,,,,,
+ff611340-215e-48ad-a3d6-2ca830735c27,427,Nedroma,427000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Tagdempt,,,,,,,,,
+5dd55656-caf1-4e4a-bd04-f9eb28b80c2f,428,Oued Lakhdar,428000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Takhemaret,,,,,,,,,
+f9451d90-f1ef-4a3a-b76c-1160e35c7806,429,Ouled Mimoun,429000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Tiaret,,,,,,,,,
+9316140e-a2f8-4ae8-a514-a5b078a0e1f6,430,Ouled Riyah,430000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Tidda,,,,,,,,,
+6373e97b-79e5-4ae3-8ee5-1b8606d32fdd,431,Remchi,431000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Tousnina,,,,,,,,,
+5175315a-6f30-46df-a40f-45deeaa3a6b4,432,Sabra,432000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Zmalet El Emir Abdelkade,,,,,,,,,
+e97b2cfa-aca0-4cd6-9591-64973609bc80,433,Sebbaa Chioukh,433000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Abi-Youcef,,,,,,,,,
+99d574ec-238a-4269-bfa8-57f909ee1987,434,Sebdou,434000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Aghribs,,,,,,,,,
+7abae998-0d79-4281-907a-e63c2ea3f691,435,Sidi Abdelli,435000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Agouni-Gueghrane,,,,,,,,,
+179403b8-2702-49f6-8640-0852ce1af57c,436,Sidi Djillali,436000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ain-El-Hammam,,,,,,,,,
+449c49e3-9ab6-4378-b9e0-8809d7d6f4f3,437,Sidi Medjahed,437000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ain-Zaouia,,,,,,,,,
+0bf6176f-5cf1-461a-908b-cb6393b919a2,438,Souahlia,438000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ait Aggouacha,,,,,,,,,
+6f0232e6-042a-4e73-9717-04b990a60943,439,Souani,439000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ait Bouaddou,,,,,,,,,
+9de82afe-5066-42ea-80d8-7835e05c5a40,440,Souk Tleta,440000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ait Boumahdi,,,,,,,,,
+de91b71d-1a6f-486d-b1d4-37a399367667,441,Terny Beni Hediel,441000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ait Khellili,,,,,,,,,
+a1042aeb-7ff5-4e2b-a331-f5b2a5b18f42,442,Tianet,442000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ait Yahia Moussa,,,,,,,,,
+626c17f7-faef-4efb-ac92-65246033892d,443,Tlemcen,443000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ait-Aissa-Mimoun,,,,,,,,,
+a3d97c75-1ce9-44c6-b210-fa6381ce2665,444,Zenata,444000,commune,53c9e062-9c4e-4c77-8b71-55eabf887f83,TRUE,TRUE,Ait-Chafaa,,,,,,,,,
+a44b0253-516a-475a-bf92-aa8733539408,445,Ain Bouchekif,445000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Ait-Mahmoud,,,,,,,,,
+bfcbe612-d129-423d-bccb-aaab5bb0bb41,446,Ain Deheb,446000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Ait-Oumalou,,,,,,,,,
+f80a61f4-ca7a-4a6d-ba47-1e83bcc24bf6,447,Ain Dzarit,447000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Ait-Toudert,,,,,,,,,
+4485e241-5fc0-49c6-9ba5-ba91efc07c08,448,Ain El Hadid,448000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Ait-Yahia,,,,,,,,,
+4bd7b96d-d3c9-47e7-86df-b605de327ea2,449,Ain Kermes,449000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Akbil,,,,,,,,,
+1d28d57d-9620-4af0-bbb7-d6112c47e28d,450,Bougara,450000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Akerrou,,,,,,,,,
+fccfdd88-5468-4176-adfa-b801446b75fe,451,Chehaima,451000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Assi-Youcef,,,,,,,,,
+028b82e7-3502-41ab-afd1-5fa382ae24bf,452,Dahmouni,452000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Azazga,,,,,,,,,
+c6762f65-270f-4b64-a128-e406851cd7e8,453,Djebilet Rosfa,453000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Azeffoun,,,,,,,,,
+fc702495-c277-4821-815b-64b9240e77fa,454,Djillali Ben Amar,454000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Beni Zmenzer,,,,,,,,,
+8b68923d-13f0-4795-a484-9ea0471554fa,455,Faidja,455000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Beni-Aissi,,,,,,,,,
+3b0b9eb3-e566-475d-8480-032ea0031a02,456,Frenda,456000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Beni-Douala,,,,,,,,,
+e349a9f3-f027-4e61-9daa-1e3ee54ae624,457,Guertoufa,457000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Beni-Yenni,,,,,,,,,
+c39f7417-70b5-40c4-ba71-e14366eda6a4,458,Hamadia,458000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Beni-Zikki,,,,,,,,,
+9911e2ac-a631-4b58-a76b-2365a661b179,459,Ksar Chellala,459000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Boghni,,,,,,,,,
+132998e9-2217-4bad-bf37-fcb5251551ba,460,Madna,460000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Boudjima,,,,,,,,,
+660dcf93-5d29-4c58-a60f-5cb32f4a7e03,461,Mahdia,461000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Bounouh,,,,,,,,,
+1ca9760f-89ca-4422-9357-d59fc5fcc0e6,462,Mechraa Safa,462000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Bouzeguene,,,,,,,,,
+3486bf04-59b9-4807-b597-22ad410eb506,463,Medrissa,463000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Draa-Ben-Khedda,,,,,,,,,
+48fb2f23-3c17-4e32-a10e-65db5163f596,464,Medroussa,464000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Draa-El-Mizan,,,,,,,,,
+18884efd-5e0e-43ec-a176-186a43ac0bac,465,Meghila,465000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Freha,,,,,,,,,
+090962c1-7e2d-4699-ac42-4151e0c825e1,466,Mellakou,466000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Frikat,,,,,,,,,
+b8a1bdf8-8fbc-425a-a3a1-34667223214e,467,Nadorah,467000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Iboudrarene,,,,,,,,,
+92fcf433-4cce-4089-b56e-199baed95410,468,Naima,468000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Idjeur,,,,,,,,,
+53983d69-ad8c-4192-8ad9-cb59bac05ff1,469,Oued Lilli,469000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Iferhounene,,,,,,,,,
+1aa6599c-2559-414f-9aa4-7e1e8bbb6492,470,Rahouia,470000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Ifigha,,,,,,,,,
+5e783153-802b-4874-83e6-c2be9b260dbb,471,Rechaiga,471000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Iflissen,,,,,,,,,
+518b3d6f-eb9d-4ece-879e-514411980b0c,472,Sebaine,472000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Illilten,,,,,,,,,
+68ad083b-f385-42ee-97f0-0be88a4320d0,473,Sebt,473000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Illoula Oumalou,,,,,,,,,
+19bdc5ba-0da7-4914-bc6c-500d4a41a2a2,474,Serghine,474000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Imsouhal,,,,,,,,,
+9d08107b-90b2-4d01-ad92-12aa24d5d0a8,475,Si Abdelghani,475000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Irdjen,,,,,,,,,
+e8c44e7f-7b16-4e6b-912a-337ef13dcdf9,476,Sidi Abderrahmane,476000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Larbaa Nath Irathen,,,,,,,,,
+e8a3f02c-b4d2-4bab-beca-2a126566e198,477,Sidi Ali Mellal,477000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Maatkas,,,,,,,,,
+73d5e864-f9c4-4ac8-9779-ccbb0be3abff,478,Sidi Bakhti,478000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Makouda,,,,,,,,,
+26d8fc17-ae8d-4449-80c4-bdb72cffef54,479,Sidi Hosni,479000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Mechtras,,,,,,,,,
+4e77a3e0-a17c-44d3-851c-795f44aaea4d,480,Sougueur,480000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Mekla,,,,,,,,,
+5038ef48-50c7-4392-9d55-613b482c1b33,481,Tagdempt,481000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Mizrana,,,,,,,,,
+97ad1714-de49-4f22-92a4-cb154d6a5dd5,482,Takhemaret,482000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,M'kira,,,,,,,,,
+12959b60-f371-4c4b-9d97-152018576232,483,Tiaret,483000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Ouacif,,,,,,,,,
+64157c35-1b1f-46db-a822-3c8953181553,484,Tidda,484000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Ouadhias,,,,,,,,,
+55a107ec-8b82-490e-b18c-25c6a14ba1b4,485,Tousnina,485000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Ouaguenoun,,,,,,,,,
+d005c810-2230-4d71-bebd-027a7d2978aa,486,Zmalet El Emir Abdelkade,486000,commune,ada5bb27-ffe5-4977-a917-3105c2b3d9c6,TRUE,TRUE,Sidi Namane,,,,,,,,,
+f8f75c19-3d2e-4961-af94-9b8413f23095,487,Abi-Youcef,487000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Souama,,,,,,,,,
+8c25e353-23ff-40d4-a4e5-52bb0df1b3d2,488,Aghribs,488000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Souk-El-Tenine,,,,,,,,,
+3d9458cb-118b-448c-b3f2-3c70fb8a4c3f,489,Agouni-Gueghrane,489000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Tadmait,,,,,,,,,
+4611bc0b-338d-493b-8338-db81a3d0fc6e,490,Ain-El-Hammam,490000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Tigzirt,,,,,,,,,
+57b880a6-de08-46a0-96da-f9963578a61a,491,Ain-Zaouia,491000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Timizart,,,,,,,,,
+537b51dc-9292-451b-b046-1d3ee5b4d657,492,Ait Aggouacha,492000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Tirmitine,,,,,,,,,
+ddcdc30d-9429-44c1-bcd2-91ee1c6eaf4c,493,Ait Bouaddou,493000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Tizi N'tleta,,,,,,,,,
+3b5d32d3-c3fe-4cad-92b5-ba99aeff7c4f,494,Ait Boumahdi,494000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Tizi-Gheniff,,,,,,,,,
+95d346cd-4c52-4792-bcce-1db80d4567a1,495,Ait Khellili,495000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Tizi-Ouzou,,,,,,,,,
+7e5cc9b2-0006-4420-8c95-2e33536898bb,496,Ait Yahia Moussa,496000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Tizi-Rached,,,,,,,,,
+e88c9247-4afa-493e-9d87-6d6623ac028f,497,Ait-Aissa-Mimoun,497000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Yakourene,,,,,,,,,
+198ac4a1-6bb6-4f24-81ed-78a3bc4ca7ea,498,Ait-Chafaa,498000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Yatafene,,,,,,,,,
+4b1ed109-6313-4930-807e-9597196bb3b9,499,Ait-Mahmoud,499000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Zekri,,,,,,,,,
+39d1f955-48bd-412b-96c5-53cf85dcd596,500,Ait-Oumalou,500000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Ain Benian,,,,,,,,,
+45e8bc48-003a-41a4-9b45-2167ac0974f2,501,Ait-Toudert,501000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Ain Taya,,,,,,,,,
+5a77e57a-5af7-4a13-bcdf-f420c1dae435,502,Ait-Yahia,502000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Alger Centre,,,,,,,,,
+d870a80d-f349-4dfd-b3bf-5c4e467e4858,503,Akbil,503000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Bab El Oued,,,,,,,,,
+5d481060-ce3b-40b2-aec9-4295f5150fab,504,Akerrou,504000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Bab Ezzouar,,,,,,,,,
+44fb5617-6c97-4f32-ace5-b52fcf6916c8,505,Assi-Youcef,505000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Baba Hassen,,,,,,,,,
+8c5c394a-d951-4a3f-bcb7-720aff5144bd,506,Azazga,506000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Bachedjerah,,,,,,,,,
+4156ca4f-91bd-4450-9d23-51f9d966dd34,507,Azeffoun,507000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Baraki,,,,,,,,,
+35990b21-d309-4408-a4b5-b60dea82be89,508,Beni Zmenzer,508000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Ben Aknoun,,,,,,,,,
+13661d09-57fd-43bc-bdc5-84114aa210b6,509,Beni-Aissi,509000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Beni Messous,,,,,,,,,
+6a85ad11-875d-4efa-bb61-89404be8d926,510,Beni-Douala,510000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Bir Mourad Rais,,,,,,,,,
+4de10b07-a2cb-494a-9db2-d876e47eb16d,511,Beni-Yenni,511000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Birkhadem,,,,,,,,,
+348c29bd-fb06-4f75-8160-dcef2489d303,512,Beni-Zikki,512000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Bir Touta,,,,,,,,,
+c7d8326f-74ec-4932-bb39-2bcbacacaab8,513,Boghni,513000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Bologhine Ibnou Ziri,,,,,,,,,
+261f0c52-8653-48b6-b453-13e32be09a11,514,Boudjima,514000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Bordj El Bahri,,,,,,,,,
+00c30f68-86f6-45f7-8976-f7f5a179f885,515,Bounouh,515000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Bordj El Kiffan,,,,,,,,,
+5cff1f32-d20d-493e-ac77-702951cd3c99,516,Bouzeguene,516000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Bourouba,,,,,,,,,
+31b8958a-22cb-4285-a073-945a575cad8f,517,Draa-Ben-Khedda,517000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Bouzareah,,,,,,,,,
+dd3af9bb-e7ec-4462-abd2-2e645a1fe216,518,Draa-El-Mizan,518000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Casbah,,,,,,,,,
+1b08a5b2-aaa6-4f5b-838e-761a88c97680,519,Freha,519000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Cheraga,,,,,,,,,
+83b4c392-17dc-4728-a98a-6a5165eee88b,520,Frikat,520000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Dar El Beida,,,,,,,,,
+12542af1-fc1c-454e-af26-2d7cdb2eadc7,521,Iboudrarene,521000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Dely Ibrahim,,,,,,,,,
+24582ba6-5772-4f5b-ac5b-d358f6764071,522,Idjeur,522000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Djasr Kasentina,,,,,,,,,
+8df159d0-b06a-4e4e-af5e-3440125561e8,523,Iferhounene,523000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Douira,,,,,,,,,
+86ea600f-d841-4a83-8d23-f97310aca00a,524,Ifigha,524000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Draria,,,,,,,,,
+76ba6b08-0faa-463d-a126-908abfde147a,525,Iflissen,525000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,El Achour,,,,,,,,,
+1615bb64-592e-4a88-bb31-406bfcb29637,526,Illilten,526000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,El Biar,,,,,,,,,
+dacf107e-3542-4ee4-8587-76aea25ded28,527,Illoula Oumalou,527000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,El Harrach,,,,,,,,,
+e823458c-8b96-4762-aaec-c301963191c8,528,Imsouhal,528000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,El Madania,,,,,,,,,
+8243b33f-4b71-40a2-a512-ac0fa638aab1,529,Irdjen,529000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,El Magharia,,,,,,,,,
+af9aba9c-a1f7-4ce1-80b1-880fb518709c,530,Larbaa Nath Irathen,530000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,El Marsa,,,,,,,,,
+7db9d3c3-dfa1-4264-8156-1083c9d03c44,531,Maatkas,531000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,El Mouradia,,,,,,,,,
+d028ce6f-d080-46d4-b352-a3601b00d490,532,Makouda,532000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Hammamet,,,,,,,,,
+abc65fa8-e4dd-4c2f-81d5-da79abcf5f40,533,Mechtras,533000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Herraoua,,,,,,,,,
+81e41522-61c0-4140-912c-59a8c5206091,534,Mekla,534000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Hussein Dey,,,,,,,,,
+705abddd-59e6-4358-a75f-15958619e7c9,535,Mizrana,535000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Hydra,,,,,,,,,
+0b39c2a9-4d50-4246-81c1-349cc112932d,536,M'kira,536000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Khraissia,,,,,,,,,
+8f8e35a8-bdb3-4cdb-b9dd-c0755078665e,537,Ouacif,537000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Kouba,,,,,,,,,
+b45401a2-ff02-4772-b3a2-01f71fe5634f,538,Ouadhias,538000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Les Eucalyptus,,,,,,,,,
+2dafda2c-fe5a-4c0a-9033-08775296efa5,539,Ouaguenoun,539000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Maalma,,,,,,,,,
+31a80903-36d8-420e-bffd-22fdc6372ade,540,Sidi Namane,540000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Mohamed Belouzdad,,,,,,,,,
+bfb70cb7-9cd7-4f69-85a2-d9dde4ef7f3e,541,Souama,541000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Mohammadia,,,,,,,,,
+5a1e32a3-6e11-4c88-be7c-b967f1e55dff,542,Souk-El-Tenine,542000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Oued Koriche,,,,,,,,,
+d850517d-2bb2-4bae-be3f-dd408e1a8220,543,Tadmait,543000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Oued Smar,,,,,,,,,
+768860b3-ea69-47ec-a04e-033c6c1aa953,544,Tigzirt,544000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Ouled Chebel,,,,,,,,,
+7411f919-15e2-48d1-b3c0-a53af1a3fab1,545,Timizart,545000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Ouled Fayet,,,,,,,,,
+5dd5c4fb-ea2f-4dec-88af-2969ee4de49e,546,Tirmitine,546000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Rahmania,,,,,,,,,
+a048d32a-84ab-4e16-a8f4-094f6c33e977,547,Tizi N'tleta,547000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Rais Hamidou,,,,,,,,,
+645bebb6-849e-4727-9f39-a97af106e845,548,Tizi-Gheniff,548000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Reghaia,,,,,,,,,
+66d8b00b-2172-42ae-8c7f-f993ac9c819e,549,Tizi-Ouzou,549000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Rouiba,,,,,,,,,
+0c7acb35-fa5c-484c-98bd-a2e8554846db,550,Tizi-Rached,550000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Sehaoula,,,,,,,,,
+45505e84-2261-43c8-8009-13ee28c56ff3,551,Yakourene,551000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Sidi M'hamed,,,,,,,,,
+73d1afc4-d901-4f5e-9ec9-5e0e596d47c8,552,Yatafene,552000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Sidi Moussa,,,,,,,,,
+871e6983-baef-4135-876a-ad7d975c246b,553,Zekri,553000,commune,5bef8e95-fad8-4a15-95f0-8d6f5c80f69e,TRUE,TRUE,Souidania,,,,,,,,,
+6bc1447c-ebef-4806-8c16-bd5f3ebbedc8,554,Ain Benian,554000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Staoueli,,,,,,,,,
+844298a3-9355-459a-a12c-3e95e0d6abd6,555,Ain Taya,555000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Tessala El Merdja,,,,,,,,,
+8c97a133-681b-4da4-8466-2f6110557fa2,556,Alger Centre,556000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Zeralda,,,,,,,,,
+efd8d844-f39d-45eb-bf12-58bfb64c52e5,557,Bab El Oued,557000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Ain Chouhada,,,,,,,,,
+398eca7c-75bf-409e-ba27-9d93e21b0cf3,558,Bab Ezzouar,558000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Ain El Ibel,,,,,,,,,
+99423e96-2073-4513-9a71-221cad6ca182,559,Baba Hassen,559000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Ain Fekka,,,,,,,,,
+d75877e4-1e21-4525-b5f4-3ed551d67c3e,560,Bachedjerah,560000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Ain Maabed,,,,,,,,,
+192e4026-0e46-43e0-9685-02122af81f80,561,Baraki,561000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Ain Oussera,,,,,,,,,
+e999d03d-9cc6-46ef-a4e1-f75c92a1315e,562,Ben Aknoun,562000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Amourah,,,,,,,,,
+47bb6b7e-05a8-4e13-9c64-3e43cb1a5dcb,563,Beni Messous,563000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Benhar,,,,,,,,,
+195a5cf5-dd2b-4bca-80e5-e5dd3f9fb3f3,564,Bir Mourad Rais,564000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Benyagoub,,,,,,,,,
+85fa42cc-3d00-4984-8da9-b192351a8ee1,565,Birkhadem,565000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Birine,,,,,,,,,
+17b37af7-497c-49b1-bf39-5e4630d266ce,566,Bir Touta,566000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Bouira Lahdab,,,,,,,,,
+6e658712-a791-4e73-8468-d8b8ca73c1d7,567,Bologhine Ibnou Ziri,567000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Charef,,,,,,,,,
+7a925e67-4508-49ad-adca-40496cd95cc8,568,Bordj El Bahri,568000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Dar Chioukh,,,,,,,,,
+d8be2c16-186e-4d85-bd70-9676b18b61e2,569,Bordj El Kiffan,569000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Deldoul,,,,,,,,,
+3bcc7209-e42e-4178-ba39-d763aa9807d1,570,Bourouba,570000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Djelfa,,,,,,,,,
+51285c76-9c0e-4314-b5da-6f023e113543,571,Bouzareah,571000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Douis,,,,,,,,,
+bab87ee4-353a-4098-99c3-9a572945f682,572,Casbah,572000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,El Guedid,,,,,,,,,
+50a7b05d-dad7-4d8a-9424-2ba0ee796eee,573,Cheraga,573000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,El Idrissia,,,,,,,,,
+5bcbb04a-6ecc-4644-9adc-11154333976d,574,Dar El Beida,574000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,El Khemis,,,,,,,,,
+05540a76-bb99-4bb6-8d72-5bf763625ea3,575,Dely Ibrahim,575000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Faidh El Botma,,,,,,,,,
+9726f197-b080-4d72-9f07-b27ec16f0f78,576,Djasr Kasentina,576000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Guernini,,,,,,,,,
+8fdb99d2-d678-4d93-9074-36540c89e8b8,577,Douira,577000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Guettara,,,,,,,,,
+960c775f-793f-4457-9588-aea1718a3853,578,Draria,578000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Had Sahary,,,,,,,,,
+d769a6b7-3691-4c1e-b062-6d7e33a9d2f2,579,El Achour,579000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Hassi Bahbah,,,,,,,,,
+a9ac4059-259e-4b0b-bb7c-6927583df361,580,El Biar,580000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Hassi El Euch,,,,,,,,,
+99f0bcae-ba98-4a6a-adc7-695de1e077f8,581,El Harrach,581000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Hassi Fedoul,,,,,,,,,
+609795e8-6203-41d3-a585-a036c1fed07b,582,El Madania,582000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Messaad,,,,,,,,,
+a321dd4d-5867-465e-83cb-4c89db65c7d9,583,El Magharia,583000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,M'liliha,,,,,,,,,
+87c4bc1f-5736-418f-8fe5-7d75ddcebd1c,584,El Marsa,584000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Moudjebara,,,,,,,,,
+bdcaad23-4736-400e-997c-5b23537147b0,585,El Mouradia,585000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Oum Laadham,,,,,,,,,
+1f041748-5109-4a31-8d3a-6fedad1d9c7d,586,Hammamet,586000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Sed Rahal,,,,,,,,,
+adaabd18-c76c-4b41-bcd0-40de6e9beee7,587,Herraoua,587000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Selmana,,,,,,,,,
+43027cb3-b424-46e7-841b-cf2908783fde,588,Hussein Dey,588000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Sidi Baizid,,,,,,,,,
+54ce3f0f-f3e4-4374-acf1-4c3e490cd794,589,Hydra,589000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Sidi Laadjel,,,,,,,,,
+303afb7a-d02e-459d-96f5-9aff719b7f19,590,Khraissia,590000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Taadmit,,,,,,,,,
+b8dab885-69ce-4651-b04f-eb3b33f15792,591,Kouba,591000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Zaafrane,,,,,,,,,
+68a7377a-1fa3-427a-b136-f5c1842cffc2,592,Les Eucalyptus,592000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Zaccar,,,,,,,,,
+8e66a587-82ea-47a8-8400-92f2458ada94,593,Maalma,593000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Bordj T'har,,,,,,,,,
+43e2fb24-4e8c-4f41-991f-5b34a848bcb2,594,Mohamed Belouzdad,594000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Boudria Beniyadjis,,,,,,,,,
+1adde934-fc18-48a1-805f-728569f44e18,595,Mohammadia,595000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Bouraoui Belhadef,,,,,,,,,
+2c0d14de-f01b-4652-8c8a-7fc31f58d7b0,596,Oued Koriche,596000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Boussif Ouled Askeur,,,,,,,,,
+c857f256-2d10-4278-8d9c-1560a8fef68e,597,Oued Smar,597000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Chahna,,,,,,,,,
+72eb3395-7595-49e0-86aa-836fd234eb37,598,Ouled Chebel,598000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Chekfa,,,,,,,,,
+16749b16-884c-4562-8c69-87186c0c4792,599,Ouled Fayet,599000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Djemaa Beni Habibi,,,,,,,,,
+1a1af3e3-f3b4-4e48-bb4f-340958baa407,600,Rahmania,600000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Djimla,,,,,,,,,
+22c19663-7cf5-4547-9d53-e197e898ccf3,601,Rais Hamidou,601000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,El Ancer,,,,,,,,,
+ff17d058-ac0d-4d6f-bfcf-7d38ba1124dd,602,Reghaia,602000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,El Aouana,,,,,,,,,
+f55ea1df-b887-4af5-84d8-5840e1835894,603,Rouiba,603000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,El Kennar Nouchfi,,,,,,,,,
+af44d58b-5f59-4538-84ee-6f5574d40d30,604,Sehaoula,604000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,El Milia,,,,,,,,,
+0b93d266-f7d8-4e87-98dc-9ea01cf8ed9c,605,Sidi M'hamed,605000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Emir Abdelkader,,,,,,,,,
+33dc9591-6563-4842-ae19-1f0867b02c61,606,Sidi Moussa,606000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Erraguene Souissi,,,,,,,,,
+93b352eb-a63c-4239-8eb6-624a5f371d14,607,Souidania,607000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Ghebala,,,,,,,,,
+a2f3a538-1294-470f-9bd2-7be31d049269,608,Staoueli,608000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Jijel,,,,,,,,,
+75896e17-87b6-415c-a965-038e6f9c3809,609,Tessala El Merdja,609000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Kaous,,,,,,,,,
+832d63fd-5509-4f3b-b1c5-8e4d2898f36f,610,Zeralda,610000,commune,d134c182-7dac-4655-9d9b-bbdb62aa2ec4,TRUE,TRUE,Khiri Oued Adjoul,,,,,,,,,
+3057fed3-e947-454e-857f-3d092b57f890,611,Ain Chouhada,611000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Oudjana,,,,,,,,,
+4773dfb9-f709-4eda-901a-425342948842,612,Ain El Ibel,612000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ouled Rabah,,,,,,,,,
+b64649a7-28a2-44ac-affd-b0535e2ea9c4,613,Ain Fekka,613000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ouled Yahia Khadrouch,,,,,,,,,
+53603004-e032-4d37-8298-d7c2edc58939,614,Ain Maabed,614000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Selma Benziada,,,,,,,,,
+7a8642bf-567f-4a9c-a356-caaf5b13db89,615,Ain Oussera,615000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Settara,,,,,,,,,
+35cee308-14f6-41f7-83fd-d768b8109b00,616,Amourah,616000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Sidi Abdelaziz,,,,,,,,,
+71403d4c-8957-45b2-82a5-26cfbf5d085c,617,Benhar,617000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Sidi Marouf,,,,,,,,,
+92763540-78dc-4772-b328-5db76d2fbbf7,618,Benyagoub,618000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Taher,,,,,,,,,
+1f8d405c-3b15-43f3-a3a5-c71b10ed1cfb,619,Birine,619000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Texenna,,,,,,,,,
+1e26af75-5696-4663-8594-810717e4459c,620,Bouira Lahdab,620000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ziama Mansouriah,,,,,,,,,
+87242bb1-1459-4133-ae4a-03283cb317b8,621,Charef,621000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ain Abessa,,,,,,,,,
+f9d26ad9-3dd2-4617-9f35-165c2bb47c96,622,Dar Chioukh,622000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ain Arnat,,,,,,,,,
+04f01a73-4fc0-4188-b97c-10374fddae87,623,Deldoul,623000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ain Azel,,,,,,,,,
+71e815a4-6f1d-4bc7-815c-5a45cc4153d1,624,Djelfa,624000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ain El Kebira,,,,,,,,,
+d8fa63ab-b187-4100-afd7-2db5da97cf70,625,Douis,625000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ain Lahdjar,,,,,,,,,
+cd4613ca-5197-464d-98ff-405797099356,626,El Guedid,626000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ain Oulmene,,,,,,,,,
+1c009513-e4d7-4de3-a109-8bea76104f94,627,El Idrissia,627000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ain-Legradj,,,,,,,,,
+7bf2a1f0-5ff3-4097-b479-8da59132def9,628,El Khemis,628000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ain-Roua,,,,,,,,,
+5bf79468-e223-4f5d-ab31-e3c4490eaae7,629,Faidh El Botma,629000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ain-Sebt,,,,,,,,,
+232fdd71-1259-456d-a157-d0914d52d52d,630,Guernini,630000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ait Naoual Mezada,,,,,,,,,
+dd3d6284-e3d6-4fe4-b58d-6e47db32cffc,631,Guettara,631000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Ait-Tizi,,,,,,,,,
+b3b91d2e-14b2-4745-ae3a-4f1fd019d1a9,632,Had Sahary,632000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Amoucha,,,,,,,,,
+28ff9434-3b0f-441f-8e2c-7caeaec19d27,633,Hassi Bahbah,633000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Babor,,,,,,,,,
+a2da2244-979f-445f-905b-409a04587ae5,634,Hassi El Euch,634000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Bazer-Sakra,,,,,,,,,
+fbe3edc5-8cd6-4fbe-9c54-596817cf3dc5,635,Hassi Fedoul,635000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Beidha Bordj,,,,,,,,,
+4342da4b-3869-4c4c-ba51-e6483eba778d,636,Messaad,636000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Bellaa,,,,,,,,,
+8536796f-1371-4cb5-9656-c618c1df05ea,637,M'liliha,637000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Beni Chebana,,,,,,,,,
+bc348d89-60c2-4cef-ae8e-1de738e2eff4,638,Moudjebara,638000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Beni Fouda,,,,,,,,,
+1e2981c0-d88e-4266-a1c8-b8eb5ceb3db9,639,Oum Laadham,639000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Beni Ourtilane,,,,,,,,,
+bd302611-b078-4d60-b26d-87b3d32cf68a,640,Sed Rahal,640000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Beni Oussine,,,,,,,,,
+1b487f47-f977-48fd-804b-405825775980,641,Selmana,641000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Beni-Aziz,,,,,,,,,
+f6eb05c0-4d69-4139-9ce8-55e0f7585bc9,642,Sidi Baizid,642000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Beni-Mouhli,,,,,,,,,
+8d976991-64f7-4114-9814-cb1fb82c9326,643,Sidi Laadjel,643000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Bir Haddada,,,,,,,,,
+869d81c5-fe4a-424c-8539-6180246b3326,644,Taadmit,644000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Bir-El-Arch,,,,,,,,,
+86545337-257d-4723-b269-2830ec064d49,645,Zaafrane,645000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Bouandas,,,,,,,,,
+749cf9aa-5332-4e89-95e2-0db8b7b9a870,646,Zaccar,646000,commune,9ee8eac2-77e5-4d70-ac49-bde455d06bee,TRUE,TRUE,Bougaa,,,,,,,,,
+87f4da58-1c60-412a-a8eb-2da51170620e,647,Bordj T'har,647000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Bousselam,,,,,,,,,
+9291deba-296b-451b-967e-9ea180b872bc,648,Boudria Beniyadjis,648000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Boutaleb,,,,,,,,,
+b0c0af5b-d447-4fec-abf0-21212fe13619,649,Bouraoui Belhadef,649000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Dehamcha,,,,,,,,,
+47cfac95-2963-4187-851b-d3df78c733d6,650,Boussif Ouled Askeur,650000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Djemila,,,,,,,,,
+ef7cbc72-a2a2-4e01-b06e-19924e7fe889,651,Chahna,651000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Draa-Kebila,,,,,,,,,
+4dd40022-50e1-481a-a5e9-abaf0fd99cb8,652,Chekfa,652000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,El Eulma,,,,,,,,,
+f1ba7ff4-2835-4851-ba40-090876e812a6,653,Djemaa Beni Habibi,653000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,El Ouricia,,,,,,,,,
+6e6eddae-ea10-4706-895e-8f33f2195630,654,Djimla,654000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,El-Ouldja,,,,,,,,,
+f92a0b30-e913-4a19-9a78-5a572c54689b,655,El Ancer,655000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Guellal,,,,,,,,,
+088a5fd1-d278-49e9-a604-70a38cadd871,656,El Aouana,656000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Guelta Zerka,,,,,,,,,
+efd56215-c5be-4856-b27f-547f5807a350,657,El Kennar Nouchfi,657000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Guenzet,,,,,,,,,
+de818328-8722-46ac-a74a-631a7e8ebc81,658,El Milia,658000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Guidjel,,,,,,,,,
+8d67a81d-250d-43fa-ae22-09effc6b5506,659,Emir Abdelkader,659000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Hamam Soukhna,,,,,,,,,
+f76479b1-6bbb-4b5f-8bde-89e607b9b5e8,660,Erraguene Souissi,660000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Hamma,,,,,,,,,
+5e9e1418-773b-44a9-b726-fa99aaa3d3e4,661,Ghebala,661000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Hammam Guergour,,,,,,,,,
+265156d8-3b41-4323-b627-43143e351c96,662,Jijel,662000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Harbil,,,,,,,,,
+8923fe53-621a-4764-a818-c58134a17d3d,663,Kaous,663000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Kasr El Abtal,,,,,,,,,
+02024e1d-3abd-4251-985d-ee77bf69aafd,664,Khiri Oued Adjoul,664000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Maaouia,,,,,,,,,
+f20b0192-cdf8-4a3e-a0b9-863cfb3bb21a,665,Oudjana,665000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Maouaklane,,,,,,,,,
+81803f7a-e41b-4068-959f-f301f21b4b15,666,Ouled Rabah,666000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Mezloug,,,,,,,,,
+3407c4e0-d66d-43d0-98e2-0d4709e2f011,667,Ouled Yahia Khadrouch,667000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Oued El Bared,,,,,,,,,
+91ce57fd-4b7b-4f06-8983-6d48b7b35360,668,Selma Benziada,668000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Ouled Addouane,,,,,,,,,
+2911dae3-34e6-45bd-8694-1e0b6c75ace9,669,Settara,669000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Ouled Sabor,,,,,,,,,
+0b9ad6a5-32a6-4ade-aeed-d9ac1cdb68cc,670,Sidi Abdelaziz,670000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Ouled Si Ahmed,,,,,,,,,
+10724d00-e01b-4be8-b348-4b4f18578cf4,671,Sidi Marouf,671000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Ouled Tebben,,,,,,,,,
+e1dd5ed6-4a25-4cce-80e9-70a1fa705cfd,672,Taher,672000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Rosfa,,,,,,,,,
+7b4853e6-5aa9-4b97-8491-60543c5869a8,673,Texenna,673000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Salah Bey,,,,,,,,,
+292a00d3-c29a-4ce6-8bb8-c04ea8a64503,674,Ziama Mansouriah,674000,commune,dc851e52-55b2-4beb-a7f1-79d4e73e9458,TRUE,TRUE,Serdj-El-Ghoul,,,,,,,,,
+f31c850b-539f-4c9b-b60c-2bb7988dc881,675,Ain Abessa,675000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Setif,,,,,,,,,
+95fbe866-c39b-4fe8-91db-765cfa9743ef,676,Ain Arnat,676000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Tachouda,,,,,,,,,
+3c81659f-7f97-424b-9a22-c3d24919faed,677,Ain Azel,677000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Tala-Ifacene,,,,,,,,,
+d93ca4a9-6328-4df9-85e8-641e8db40404,678,Ain El Kebira,678000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Taya,,,,,,,,,
+689c7f30-8f15-4bfd-9c5d-0e9c0d941718,679,Ain Lahdjar,679000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Tella,,,,,,,,,
+1878ed8c-8413-4b5b-beaa-6b1ce8614fa9,680,Ain Oulmene,680000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Tizi N'bechar,,,,,,,,,
+3b6bbfc7-37f3-41f2-aee4-3bd21d58fb78,681,Ain-Legradj,681000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ain El Hadjar,,,,,,,,,
+3894cd05-25ad-47bc-acde-92d0e02c7096,682,Ain-Roua,682000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ain Sekhouna,,,,,,,,,
+3d2228d3-caa7-4d46-a80e-9184e3b018d4,683,Ain-Sebt,683000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ain Soltane,,,,,,,,,
+b96f958e-75f1-4b61-a39f-c1229b5ff28b,684,Ait Naoual Mezada,684000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Doui Thabet,,,,,,,,,
+a2f84770-7b41-40ee-9ff6-95afce2440eb,685,Ait-Tizi,685000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,El Hassasna,,,,,,,,,
+002796c1-5802-4d02-af32-e57a459fcfcb,686,Amoucha,686000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Hounet,,,,,,,,,
+f94acef9-eab6-45ae-9293-ce56ec8ecf91,687,Babor,687000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Maamora,,,,,,,,,
+f423f52d-5292-47a2-bd27-a07a887c87b0,688,Bazer-Sakra,688000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Moulay Larbi,,,,,,,,,
+7d30b19d-0729-4654-893a-0e7c48090337,689,Beidha Bordj,689000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ouled Brahim,,,,,,,,,
+8290409c-c582-4742-9531-2ac5e3d39c0c,690,Bellaa,690000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ouled Khaled,,,,,,,,,
+787a6ba4-3bc4-404c-8c00-497f205aae47,691,Beni Chebana,691000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Saida,,,,,,,,,
+a57b2e14-6dbf-40de-847d-87cc3313fd2e,692,Beni Fouda,692000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Sidi Ahmed,,,,,,,,,
+91c6ebdc-5325-4a97-ad94-376f7457c259,693,Beni Ourtilane,693000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Sidi Amar,,,,,,,,,
+9aacd4f4-2eda-4c20-a2e8-e5ccf53d7f07,694,Beni Oussine,694000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Sidi Boubekeur,,,,,,,,,
+8f0cca7b-83b9-4a43-ad30-ac37db490cad,695,Beni-Aziz,695000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Tircine,,,,,,,,,
+47b839a7-cfca-4f4d-b1fd-a95a19ec0f6e,696,Beni-Mouhli,696000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Youb,,,,,,,,,
+ad57a8d0-8146-48a1-80aa-42c137a24726,697,Bir Haddada,697000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ain Bouziane,,,,,,,,,
+bf289b27-80d3-4f8c-b3b2-e678a41e4dff,698,Bir-El-Arch,698000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ain Charchar,,,,,,,,,
+ff3fe168-e701-49de-bb2f-1e5104290f6a,699,Bouandas,699000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ain Kechra,,,,,,,,,
+190c52f1-7192-472c-be68-f45bd42be39b,700,Bougaa,700000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ain Zouit,,,,,,,,,
+6dd6b8d3-d63f-44d6-a850-1eaef98cef3f,701,Bousselam,701000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Azzaba,,,,,,,,,
+ab5e5e18-0c85-4ff6-b9c9-5f7a7ee45c3f,702,Boutaleb,702000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Bekkouche Lakhdar,,,,,,,,,
+ccdf19c6-f59b-4555-9628-7ab0f790c22f,703,Dehamcha,703000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ben Azzouz,,,,,,,,,
+ee5a5f8a-de86-4fa1-9563-060ed7629f6c,704,Djemila,704000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Beni Bechir,,,,,,,,,
+b8accc2b-720f-48ba-953d-6eb2f885ed97,705,Draa-Kebila,705000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Beni Oulbane,,,,,,,,,
+62762808-0c86-4c6a-a605-146a6d124fa3,706,El Eulma,706000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Beni Zid,,,,,,,,,
+5613c0de-d9b8-4aa0-90d6-60fe0b2ebca9,707,El Ouricia,707000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Bin El Ouiden,,,,,,,,,
+54ee3066-5f7e-4405-8c7b-dd4042c2e879,708,El-Ouldja,708000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Bouchetata,,,,,,,,,
+9c7e3529-ff92-45ba-8307-89358ad8813c,709,Guellal,709000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Cheraia,,,,,,,,,
+188fa54f-232b-45e1-afe6-b2e279678953,710,Guelta Zerka,710000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Collo,,,,,,,,,
+ce7c712c-5f80-49d3-b28f-0ee349b1896e,711,Guenzet,711000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Djendel Saadi Mohamed,,,,,,,,,
+fb670c62-4163-4f88-8ef0-85950c882044,712,Guidjel,712000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,El Arrouch,,,,,,,,,
+cb8a5b03-8374-404e-b4e4-bb68b7089475,713,Hamam Soukhna,713000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,El Ghedir,,,,,,,,,
+b37607fc-145c-4785-af30-84051549eafc,714,Hamma,714000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,El Hadaiek,,,,,,,,,
+25bf3c19-c40d-41ef-8831-a83095a6dbf8,715,Hammam Guergour,715000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,El Marsa,,,,,,,,,
+4c964c5f-5942-4035-a08a-2a9ed997bbac,716,Harbil,716000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Emjez Edchich,,,,,,,,,
+84841b36-efff-4231-a70c-742dca3d77ec,717,Kasr El Abtal,717000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Es Sebt,,,,,,,,,
+88b53a42-bac4-4731-b08f-949913077a9f,718,Maaouia,718000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Filfila,,,,,,,,,
+a8a57322-9a21-4994-a097-d3620e7dd932,719,Maouaklane,719000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Hammadi Krouma,,,,,,,,,
+cad05bf4-a243-47f6-ac28-f5c514919c45,720,Mezloug,720000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Kanoua,,,,,,,,,
+0facbea3-3f6e-44e9-a6c2-bccec1446c13,721,Oued El Bared,721000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Kerkara,,,,,,,,,
+11800d0d-a577-4558-8ab9-da0df4af05c2,722,Ouled Addouane,722000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Khenag Maoune,,,,,,,,,
+1d3501f9-9630-4899-8dbf-4938050d71d9,723,Ouled Sabor,723000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Oued Zhour,,,,,,,,,
+eff027a0-1038-4cbe-943d-adba33a055fa,724,Ouled Si Ahmed,724000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ouldja Boulbalout,,,,,,,,,
+a1ab01af-1445-4f6a-ab86-b33652ee8c65,725,Ouled Tebben,725000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ouled Attia,,,,,,,,,
+3149fecc-b7de-458a-8fff-101b6c7f0253,726,Rosfa,726000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ouled Habbaba,,,,,,,,,
+f2c4947d-1f3d-425d-a809-170c93cc7f73,727,Salah Bey,727000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Oum Toub,,,,,,,,,
+933558ce-1bf6-4c4b-a4f1-558daa5e5e7b,728,Serdj-El-Ghoul,728000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Ramdane Djamel,,,,,,,,,
+4ecfb321-0c02-4391-b35f-c59672ebb364,729,Setif,729000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Salah Bouchaour,,,,,,,,,
+67dcf4c1-c67d-4d0b-87e8-9d152336492e,730,Tachouda,730000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Sidi Mezghiche,,,,,,,,,
+5771b298-50c8-4745-8700-95c10cf12ff8,731,Tala-Ifacene,731000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Skikda,,,,,,,,,
+a97100d1-1642-434c-b0ed-837c3fcdc22f,732,Taya,732000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Tamalous,,,,,,,,,
+934b69b4-31bd-4477-bd6a-b9d19487ad83,733,Tella,733000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Zerdezas,,,,,,,,,
+c8a0c710-e237-4d55-92b8-42c623c7f590,734,Tizi N'bechar,734000,commune,56ee938d-7887-408e-8731-364d07ad3594,TRUE,TRUE,Zitouna,,,,,,,,,
+3a7118e8-aabe-4096-a2d8-eba3ace094c9,735,Ain El Hadjar,735000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Ain El Berd,,,,,,,,,
+a64793dc-d307-4ec8-892d-4cfcfb0577ba,736,Ain Sekhouna,736000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Ain Kada,,,,,,,,,
+a259e199-36cd-4a9b-a897-a5f55e2669dc,737,Ain Soltane,737000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Ain Thrid,,,,,,,,,
+55c66eb9-1026-4ad7-a9a8-379dec3d7b8e,738,Doui Thabet,738000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Ain Tindamine,,,,,,,,,
+0844f12a-8ed8-44e1-bbaf-6431a122b6de,739,El Hassasna,739000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Ain- Adden,,,,,,,,,
+996a492d-9061-4029-819c-793a4f2ad893,740,Hounet,740000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Amarnas,,,,,,,,,
+afd38330-2c00-4626-a59d-a8e9ee0a8aff,741,Maamora,741000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Bedrabine El Mokrani,,,,,,,,,
+06ca5444-fa0f-4c9c-b3a9-b2dd70e8a741,742,Moulay Larbi,742000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Belarbi,,,,,,,,,
+b6ac24eb-201c-458c-82e1-406be2481040,743,Ouled Brahim,743000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Ben Badis,,,,,,,,,
+cc176402-3c0f-48d9-ac56-05a1ac4cc29d,744,Ouled Khaled,744000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Benachiba Chelia,,,,,,,,,
+96f2733c-a1ac-40d7-9c64-21258d5ec29a,745,Saida,745000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Bir El Hammam,,,,,,,,,
+206f1ef8-3a63-447d-952b-79606b8ce8f3,746,Sidi Ahmed,746000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Boudjebaa El Bordj,,,,,,,,,
+0efdcba3-2805-4470-9250-d059171c734e,747,Sidi Amar,747000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Boukhanefis,,,,,,,,,
+7f88c99d-0931-4035-85a4-8e24719c3c13,748,Sidi Boubekeur,748000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Chetouane Belaila,,,,,,,,,
+72602a74-4048-4f80-8998-0d076838d511,749,Tircine,749000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,Dhaya,,,,,,,,,
+90268069-6658-4ea6-b835-f416ba0598f3,750,Youb,750000,commune,27b2042a-77f8-4c91-b62d-60934fa0daca,TRUE,TRUE,El Hacaiba,,,,,,,,,
+63147735-5b19-47cc-bb11-fcc7901fee5b,751,Ain Bouziane,751000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Hassi Dahou,,,,,,,,,
+671285e3-ef51-4461-b9c8-5488b0a03d76,752,Ain Charchar,752000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Hassi Zahana,,,,,,,,,
+bfac032f-3d69-4a13-a72f-c08b2341cf18,753,Ain Kechra,753000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Lamtar,,,,,,,,,
+0af3cfef-0eab-455b-8d78-fec491d2fbb0,754,Ain Zouit,754000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Makedra,,,,,,,,,
+f40a6d43-72cf-4267-9ba9-2f97f516912d,755,Azzaba,755000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Marhoum,,,,,,,,,
+0d320ee3-668a-4381-9e3e-951c6897559d,756,Bekkouche Lakhdar,756000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,M'cid,,,,,,,,,
+84e2a703-650d-48f0-9bdc-24e24dfa2768,757,Ben Azzouz,757000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Merine,,,,,,,,,
+3a91c3a5-64c8-4b7f-a3c5-e908d3842c34,758,Beni Bechir,758000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Mezaourou,,,,,,,,,
+619dc5e7-b9f8-4699-ac1b-f49b65f2823a,759,Beni Oulbane,759000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Mostefa  Ben Brahim,,,,,,,,,
+99c40c2f-7d02-46bd-8c6a-6deb96b35b64,760,Beni Zid,760000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Moulay Slissen,,,,,,,,,
+917e1bd2-8a6e-4101-ba51-1a73f99000dd,761,Bin El Ouiden,761000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Oued Sebaa,,,,,,,,,
+13da1b6a-c236-48f7-bb99-85850b8c81a6,762,Bouchetata,762000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Oued Sefioun,,,,,,,,,
+061959ca-19d6-4614-baa7-30ee9216fbb6,763,Cheraia,763000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Oued Taourira,,,,,,,,,
+e1070a72-47ba-4186-8f07-88fd9aa7908c,764,Collo,764000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Ras El Ma,,,,,,,,,
+4c4c527d-d8ba-47ba-9aec-b7bec4915f33,765,Djendel Saadi Mohamed,765000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Redjem Demouche,,,,,,,,,
+b21a500f-0e04-438d-9b53-dffe503b9d59,766,El Arrouch,766000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Sehala Thaoura,,,,,,,,,
+96f6219b-12a5-474f-9749-88180b7c9a63,767,El Ghedir,767000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Sfisef,,,,,,,,,
+f6fef8a6-efa7-4b3b-be07-c70254927d1e,768,El Hadaiek,768000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Sidi Ali Benyoub,,,,,,,,,
+458a294f-daa0-491f-bc75-2004d73d05f8,769,El Marsa,769000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Sidi Ali Boussidi,,,,,,,,,
+21e0f67b-f07f-436d-a5e7-585af462f4ce,770,Emjez Edchich,770000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Sidi Bel-Abbes,,,,,,,,,
+c596a9be-fe92-4b95-abea-d1f03e28592f,771,Es Sebt,771000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Sidi Brahim,,,,,,,,,
+8054834e-3493-4b09-a8e3-88ba923c9031,772,Filfila,772000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Sidi Chaib,,,,,,,,,
+5b514acd-953b-4f4c-999c-9e0204ce6962,773,Hammadi Krouma,773000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Sidi Dahou Zairs,,,,,,,,,
+722b62e2-b7c5-4cae-9270-223ae456f1b0,774,Kanoua,774000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Sidi Hamadouche,,,,,,,,,
+f8964976-1762-4c14-973a-7ef4d96561d8,775,Kerkara,775000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Sidi Khaled,,,,,,,,,
+a70c1243-e045-405b-bea3-dec063698ae6,776,Khenag Maoune,776000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Sidi Lahcene,,,,,,,,,
+6ebd2305-9a65-4ec1-b344-9af619fbd73d,777,Oued Zhour,777000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Sidi Yacoub,,,,,,,,,
+4efb789b-8ac5-4c37-8c97-45ab5b84dc75,778,Ouldja Boulbalout,778000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Tabia,,,,,,,,,
+4c18de3c-eeac-4058-a414-b9d4a6997d80,779,Ouled Attia,779000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Taoudmout,,,,,,,,,
+5dfeeeda-efea-435f-a885-972f02f87b39,780,Ouled Habbaba,780000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Tefessour,,,,,,,,,
+26efec94-57a7-40db-a03a-29c073709da7,781,Oum Toub,781000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Teghalimet,,,,,,,,,
+297db5bc-5fde-49f7-b013-91bd7991e18b,782,Ramdane Djamel,782000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Telagh,,,,,,,,,
+ef2b40ae-3441-4f59-a5a9-0068b735357f,783,Salah Bouchaour,783000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Tenira,,,,,,,,,
+d825ef68-1836-48aa-9f97-ad4dd62c5da2,784,Sidi Mezghiche,784000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Tessala,,,,,,,,,
+60904459-b12f-4981-be5c-cb411be40939,785,Skikda,785000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Tilmouni,,,,,,,,,
+0a423fd0-5c79-4b21-b07c-bbf24ab4d541,786,Tamalous,786000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Zerouala,,,,,,,,,
+fff5c219-f3e4-4e3f-94db-ba685e74e463,787,Zerdezas,787000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Ain El Berda,,,,,,,,,
+3df10e9a-d38c-4acc-b21a-8f6cea1dacc9,788,Zitouna,788000,commune,a9df7e26-1086-4319-8a93-19969c99c89b,TRUE,TRUE,Annaba,,,,,,,,,
+b4d64f15-ce5d-42e5-86a6-344943b8b108,789,Ain El Berd,789000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Berrahal,,,,,,,,,
+1de681a9-3669-45fd-abf2-d7ac85308267,790,Ain Kada,790000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Chetaibi,,,,,,,,,
+a35311fd-7f73-416c-b5df-af873ab4d846,791,Ain Thrid,791000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Cheurfa,,,,,,,,,
+c65b8aa4-2f01-464d-b45c-33f80ee6ceb0,792,Ain Tindamine,792000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,El Bouni,,,,,,,,,
+c72836ec-db3a-47e5-a6de-1a93ac4f317c,793,Ain- Adden,793000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,El Eulma,,,,,,,,,
+74c4be87-39f3-402f-94f8-854eb4e523fb,794,Amarnas,794000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,El Hadjar,,,,,,,,,
+3d97e17f-ccbf-4612-a0ef-d86cb8da55ad,795,Bedrabine El Mokrani,795000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Oued El Aneb,,,,,,,,,
+2e91ef13-668f-4ddc-a340-ad0acc8c6073,796,Belarbi,796000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Seraidi,,,,,,,,,
+de46b03f-4ad9-42b2-ba1d-65527280e37b,797,Ben Badis,797000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Sidi Amar,,,,,,,,,
+b10c6623-265c-47e9-97fb-179264287ef8,798,Benachiba Chelia,798000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Treat,,,,,,,,,
+691d19f9-dc00-408f-bea4-bd225ed36863,799,Bir El Hammam,799000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Ain Ben Beida,,,,,,,,,
+a063d287-c851-4194-9907-77b5898a8d46,800,Boudjebaa El Bordj,800000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Ain Larbi,,,,,,,,,
+3f9435b3-0236-4490-a88f-94f3396944e3,801,Boukhanefis,801000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Ain Makhlouf,,,,,,,,,
+607c8e1a-eaab-4b5b-9374-80d3dfb3788f,802,Chetouane Belaila,802000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Ain Regada,,,,,,,,,
+d06b64cf-074b-4b56-a815-4c1aefe50405,803,Dhaya,803000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Ain Sandel,,,,,,,,,
+d56c0ed9-9d7b-4af4-a4bc-559110ceaac9,804,El Hacaiba,804000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Belkheir,,,,,,,,,
+6afc0e70-eecb-450d-b176-840d8184811a,805,Hassi Dahou,805000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Bendjarah,,,,,,,,,
+964b010d-d335-445f-b19f-83b8ac0db1d9,806,Hassi Zahana,806000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Beni Mezline,,,,,,,,,
+e08538d7-e689-420e-bca6-aedc77f6772c,807,Lamtar,807000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Bordj Sabath,,,,,,,,,
+6cb97171-1d52-4bc1-9592-2512e06ebb2b,808,Makedra,808000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Bou Hachana,,,,,,,,,
+b8a1f16d-e9f6-445b-9aa7-d1f98d41789e,809,Marhoum,809000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Bou Hamdane,,,,,,,,,
+1bd77432-e9fe-4c47-8dad-7d67c4eb8153,810,M'cid,810000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Bouati Mahmoud,,,,,,,,,
+dee0488b-89fe-49a9-867d-af90327c8ad4,811,Merine,811000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Bouchegouf,,,,,,,,,
+4cf191fb-5d1e-4406-aff7-826db8bd84fc,812,Mezaourou,812000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Boumahra Ahmed,,,,,,,,,
+d9b58473-2eef-405f-b7bc-40d1904d2b39,813,Mostefa  Ben Brahim,813000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Dahouara,,,,,,,,,
+8a8ec89e-c6b0-456d-b5d0-15d07fa07b13,814,Moulay Slissen,814000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Djeballah Khemissi,,,,,,,,,
+73dfac5e-9483-4642-946c-cc5e93173100,815,Oued Sebaa,815000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,El Fedjoudj,,,,,,,,,
+1fda230b-05eb-46c7-abe0-df8b95f1ef7a,816,Oued Sefioun,816000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Guelaat Bou Sbaa,,,,,,,,,
+7f7b2d2b-e29c-46a1-a3bd-846c6bd16c18,817,Oued Taourira,817000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Guelma,,,,,,,,,
+248216bf-0dfa-40f9-853b-d5b4bcce170a,818,Ras El Ma,818000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Hammam Debagh,,,,,,,,,
+db893977-166b-4470-83f1-06ee99ecf6a8,819,Redjem Demouche,819000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Hammam N'bail,,,,,,,,,
+44bdc58a-c6de-462c-9f37-682a440baa52,820,Sehala Thaoura,820000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Heliopolis,,,,,,,,,
+22321bce-7543-424c-905a-b21d4cac18f1,821,Sfisef,821000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Nechmaya,,,,,,,,,
+83aa3a72-3d4d-44b9-a857-75a5d667d596,822,Sidi Ali Benyoub,822000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Khezaras,,,,,,,,,
+55d30e29-7401-4c37-84b4-81c2a9e27d0d,823,Sidi Ali Boussidi,823000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Medjez Amar,,,,,,,,,
+25a2fad5-86bf-49a0-a589-4c17bf45eed5,824,Sidi Bel-Abbes,824000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Medjez Sfa,,,,,,,,,
+23f9ac66-62a9-4f76-b500-afe1440f6536,825,Sidi Brahim,825000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Houari Boumedienne,,,,,,,,,
+0d1ee09d-45cf-4164-9171-f348e5a3a223,826,Sidi Chaib,826000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Oued Cheham,,,,,,,,,
+6de3865a-93c9-40a9-96f2-0df93b4b6fa2,827,Sidi Dahou Zairs,827000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Oued Ferragha,,,,,,,,,
+fbec9e98-4b5b-4c42-902d-56000172a82c,828,Sidi Hamadouche,828000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Oued Zenati,,,,,,,,,
+c35c9ad8-a1d0-4046-8024-bebfcd9539be,829,Sidi Khaled,829000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Ras El Agba,,,,,,,,,
+432dfe75-39d7-45d5-9a45-a21638326576,830,Sidi Lahcene,830000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Roknia,,,,,,,,,
+c29ca49c-2f09-4b54-8c64-6782e1a95d43,831,Sidi Yacoub,831000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Sellaoua Announa,,,,,,,,,
+7ab99ba1-5288-4305-aade-95193431e0f9,832,Tabia,832000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Tamlouka,,,,,,,,,
+3e3530f9-f5dd-42a0-869b-2bc5d6934efe,833,Taoudmout,833000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Ain Abid,,,,,,,,,
+909f25fa-cd14-4312-a068-414a9e6874bd,834,Tefessour,834000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Ain Smara,,,,,,,,,
+6bc57e11-05f5-475a-8f0a-1dd931fec662,835,Teghalimet,835000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Ben Badis,,,,,,,,,
+a1f569cf-df70-40e4-a601-e2f5e2797959,836,Telagh,836000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Beni Hamidane,,,,,,,,,
+46d04806-79bd-443c-9abe-90abd07cfa8b,837,Tenira,837000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Constantine,,,,,,,,,
+270e25c3-3aa5-45ef-8356-15ded7b5b90f,838,Tessala,838000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Didouche Mourad,,,,,,,,,
+d9dc7c74-c916-4c0b-b9fe-f68ab8b17ecf,839,Tilmouni,839000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,El Khroub,,,,,,,,,
+3f45e21a-d169-42e1-ae59-4b54edfb9cb4,840,Zerouala,840000,commune,2cec2b2a-cc37-480a-9183-59fdfdb65cd4,TRUE,TRUE,Hamma Bouziane,,,,,,,,,
+87513f21-5aa8-4854-a657-28ae9b91bd12,841,Ain El Berda,841000,commune,3fd318e8-7c24-480c-a106-21f6c842583d,TRUE,TRUE,Ibn Ziad,,,,,,,,,
+2502606d-9da3-4a23-b502-5ef9ebc584eb,842,Annaba,842000,commune,3fd318e8-7c24-480c-a106-21f6c842583d,TRUE,TRUE,Messaoud Boudjeriou,,,,,,,,,
+da871166-80f7-4b9b-bd3a-e75ede3206e7,843,Berrahal,843000,commune,3fd318e8-7c24-480c-a106-21f6c842583d,TRUE,TRUE,Ouled Rahmoun,,,,,,,,,
+7aea0a2e-41c0-4ca6-811c-bf58461aea5f,844,Chetaibi,844000,commune,3fd318e8-7c24-480c-a106-21f6c842583d,TRUE,TRUE,Zighoud Youcef,,,,,,,,,
+a0de1145-79bb-49a2-9744-0c218ce2c119,845,Cheurfa,845000,commune,3fd318e8-7c24-480c-a106-21f6c842583d,TRUE,TRUE,Ain Boucif,,,,,,,,,
+d8bf8ec0-8441-43d7-a7bd-df09f6821aed,846,El Bouni,846000,commune,3fd318e8-7c24-480c-a106-21f6c842583d,TRUE,TRUE,Ain Ouksir,,,,,,,,,
+199ae70d-f5cd-4776-8ee8-5d672fb87e34,847,El Eulma,847000,commune,3fd318e8-7c24-480c-a106-21f6c842583d,TRUE,TRUE,Aissaouia,,,,,,,,,
+d3100549-3387-4593-99f0-bf03f3dab100,848,El Hadjar,848000,commune,3fd318e8-7c24-480c-a106-21f6c842583d,TRUE,TRUE,Aziz,,,,,,,,,
+ee4dd723-e34c-4cea-9862-f01c2f447d11,849,Oued El Aneb,849000,commune,3fd318e8-7c24-480c-a106-21f6c842583d,TRUE,TRUE,Baata,,,,,,,,,
+e3121eae-bebc-471c-8a44-84b675bb42e7,850,Seraidi,850000,commune,3fd318e8-7c24-480c-a106-21f6c842583d,TRUE,TRUE,Ben Chicao,,,,,,,,,
+90f3fc73-6fb5-49d6-87dd-bd49a7187276,851,Sidi Amar,851000,commune,3fd318e8-7c24-480c-a106-21f6c842583d,TRUE,TRUE,Beni Slimane,,,,,,,,,
+8befd98f-f6b0-4c3f-b4ce-faf437ade43e,852,Treat,852000,commune,3fd318e8-7c24-480c-a106-21f6c842583d,TRUE,TRUE,Berrouaghia,,,,,,,,,
+caf8d454-8af1-4e2b-8c59-1c582881162b,853,Ain Ben Beida,853000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Bir Ben Laabed,,,,,,,,,
+d618bfb2-a729-4e4f-916d-59ca0cf8cd5f,854,Ain Larbi,854000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Boghar,,,,,,,,,
+4378455f-0fd8-4a04-832b-e1814aa1c997,855,Ain Makhlouf,855000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Bouaiche,,,,,,,,,
+52de75f8-11b8-423c-87b8-651e12aa8a08,856,Ain Regada,856000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Bouaichoune,,,,,,,,,
+a29f68d7-9eb9-4b36-b86f-4abf68b835b3,857,Ain Sandel,857000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Bouchrahil,,,,,,,,,
+b40e66dd-4e3a-4730-ac1e-cb5a6ba479ee,858,Belkheir,858000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Boughzoul,,,,,,,,,
+ed28ed37-f1ba-4fd7-8bda-c727ca0a3a2e,859,Bendjarah,859000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Bouskene,,,,,,,,,
+9c563dc8-2186-4100-9b6f-c11fe352423a,860,Beni Mezline,860000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Chabounia,,,,,,,,,
+b933243e-175f-49ac-8920-dd18e06246a2,861,Bordj Sabath,861000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Chelalet El Adhaoura,,,,,,,,,
+960e5228-6484-4cef-922c-9642621a7198,862,Bou Hachana,862000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Cheniguel,,,,,,,,,
+d1c77b7e-c919-4d01-97de-1cbe362e5838,863,Bou Hamdane,863000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Derrag,,,,,,,,,
+0c136fee-f675-4f5e-b765-e305d80ce793,864,Bouati Mahmoud,864000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Djouab,,,,,,,,,
+a7c8020c-516e-4d2d-b3ce-0992b8bb2ee2,865,Bouchegouf,865000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Draa Esmar,,,,,,,,,
+ec0528c2-4ee1-431f-a19a-f019c3ab45be,866,Boumahra Ahmed,866000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,El Azizia,,,,,,,,,
+2846d70f-0e26-4d91-8c3f-72ff403dcc6f,867,Dahouara,867000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,El Guelbelkebir,,,,,,,,,
+7b98a54a-0575-46e8-87cf-7549f68b11e3,868,Djeballah Khemissi,868000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,El Hamdania,,,,,,,,,
+30e09463-a8ca-43e3-940a-002d4739d2c2,869,El Fedjoudj,869000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,El Haoudane,,,,,,,,,
+57d3e4c2-dd1b-489c-b37d-e91c8f6397a4,870,Guelaat Bou Sbaa,870000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,El Omaria,,,,,,,,,
+97529486-399a-4020-834e-510eb0b4b905,871,Guelma,871000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,El Ouinet,,,,,,,,,
+2e7970e4-81cc-43d9-a50f-c0221eabae6f,872,Hammam Debagh,872000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Hannacha,,,,,,,,,
+ec389b6c-d1eb-474b-8e09-7d43ddec877f,873,Hammam N'bail,873000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Kef Lakhdar,,,,,,,,,
+8a8bcb77-a597-499c-a1f0-9665e7b11d82,874,Heliopolis,874000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Khams Djouamaa,,,,,,,,,
+754947d8-a885-4236-a9af-f92d75f6244e,875,Nechmaya,875000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Ksar El Boukhari,,,,,,,,,
+e88b288f-7968-4ace-a598-12cc305533f8,876,Khezaras,876000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Maghraoua,,,,,,,,,
+f0835646-e309-4d8b-8294-b0bffe0d7611,877,Medjez Amar,877000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Medea,,,,,,,,,
+e909699a-56f2-4eb6-9879-2b82e593123c,878,Medjez Sfa,878000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Medjebar,,,,,,,,,
+bdc0d559-c0dc-4cab-b743-a3c3e35d6197,879,Houari Boumedienne,879000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Mezerana,,,,,,,,,
+b7eb9a21-ee38-41e1-9976-5d1aad94ebdf,880,Oued Cheham,880000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,M'fatha,,,,,,,,,
+692c830c-5e8e-4ad8-b887-caf34f8e317b,881,Oued Ferragha,881000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Mihoub,,,,,,,,,
+154fc8ef-f45e-444b-9bef-43176c591627,882,Oued Zenati,882000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Ouamri,,,,,,,,,
+ecc61d05-ec6c-4601-aec8-5a19b2f74a24,883,Ras El Agba,883000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Oued Harbil,,,,,,,,,
+678af5ad-00cf-4504-b1c2-775ef5faf3bf,884,Roknia,884000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Ouled Antar,,,,,,,,,
+fbe48dc5-dfc7-472b-a176-bf75e2c6f8d4,885,Sellaoua Announa,885000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Ouled Bouachra,,,,,,,,,
+a4eb840c-93cd-4672-8a28-4c5c1076fba1,886,Tamlouka,886000,commune,2d1e61ff-e2af-4b4d-a592-0a6436c5fffd,TRUE,TRUE,Ouled Brahim,,,,,,,,,
+58050f9a-284e-4fca-b5f5-8234617bc7e2,887,Ain Abid,887000,commune,e9a1e9cf-8475-4768-94cc-0888d094ff47,TRUE,TRUE,Ouled Deid,,,,,,,,,
+692fa553-6835-476a-bd84-63777da38fcf,888,Ain Smara,888000,commune,e9a1e9cf-8475-4768-94cc-0888d094ff47,TRUE,TRUE,Ouled Emaaraf,,,,,,,,,
+83839eca-d473-4f51-bb69-0ac8fef0a700,889,Ben Badis,889000,commune,e9a1e9cf-8475-4768-94cc-0888d094ff47,TRUE,TRUE,Ouled Hellal,,,,,,,,,
+bbe82c4e-e72b-4fc6-a604-7962c4757f6f,890,Beni Hamidane,890000,commune,e9a1e9cf-8475-4768-94cc-0888d094ff47,TRUE,TRUE,Oum El Djellil,,,,,,,,,
+62ad6630-4eb8-4c51-85b7-8802b562ddc3,891,Constantine,891000,commune,e9a1e9cf-8475-4768-94cc-0888d094ff47,TRUE,TRUE,Ouzera,,,,,,,,,
+69c44c53-2bb7-44fd-a074-97a500a28511,892,Didouche Mourad,892000,commune,e9a1e9cf-8475-4768-94cc-0888d094ff47,TRUE,TRUE,Rebaia,,,,,,,,,
+07eb43c2-c141-48cd-8334-661717d8d3f0,893,El Khroub,893000,commune,e9a1e9cf-8475-4768-94cc-0888d094ff47,TRUE,TRUE,Saneg,,,,,,,,,
+52dc3a6b-19be-4510-8544-0b947c7d331e,894,Hamma Bouziane,894000,commune,e9a1e9cf-8475-4768-94cc-0888d094ff47,TRUE,TRUE,Sedraya,,,,,,,,,
+58bbb055-1dd1-4641-b951-60a464d91b04,895,Ibn Ziad,895000,commune,e9a1e9cf-8475-4768-94cc-0888d094ff47,TRUE,TRUE,,,,,,,,,,
+eb4514a0-c692-4fd8-922e-488a61f29b2f,896,Messaoud Boudjeriou,896000,commune,e9a1e9cf-8475-4768-94cc-0888d094ff47,TRUE,TRUE,,,,,,,,,,
+fddb0a7e-fe60-4841-a072-22a10b417835,897,Ouled Rahmoun,897000,commune,e9a1e9cf-8475-4768-94cc-0888d094ff47,TRUE,TRUE,,,,,,,,,,
+f7841a41-1023-46fe-a2ed-eb54b3a6504c,898,Zighoud Youcef,898000,commune,e9a1e9cf-8475-4768-94cc-0888d094ff47,TRUE,TRUE,,,,,,,,,,
+d88005df-fe0f-4154-b21e-11e1e3f32849,899,Ain Boucif,899000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+20bad11c-3a4e-42c0-86e0-21afd28b249c,900,Ain Ouksir,900000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+87a11673-1a2f-4e3b-b68c-629af666c902,901,Aissaouia,901000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+aa40d2ed-389e-46ae-8f5c-3cff16050b83,902,Aziz,902000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+477cb38f-87be-49bf-af01-28558c00fbdb,903,Baata,903000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+2a96d9a8-636d-469d-bf40-5b25def92e85,904,Ben Chicao,904000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+583bea30-3523-4cff-b28c-90159a2997b7,905,Beni Slimane,905000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+ad23d863-371f-417b-ad15-e6de05ec4baa,906,Berrouaghia,906000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+33bebd53-98e3-4b36-aa08-8f085769ff46,907,Bir Ben Laabed,907000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+db211bee-0fcc-4859-9ab7-e7414ccf1087,908,Boghar,908000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+b934deeb-113d-4fb4-8103-5051638438a9,909,Bouaiche,909000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+21d05e88-26b9-4173-8ecb-90f8a85639ec,910,Bouaichoune,910000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+b344cd56-8e98-4a08-bd27-5e07f75622d2,911,Bouchrahil,911000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+22c14da8-339f-4558-a046-a69b0746385e,912,Boughzoul,912000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+5f1f8833-5efc-471c-b13b-a196cf7cf14e,913,Bouskene,913000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+821b0ca9-527d-47ce-b99f-6975b4f2c6aa,914,Chabounia,914000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+bbcb5320-3659-45a6-b535-09c7eb687032,915,Chelalet El Adhaoura,915000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+b0ec9cb3-a770-40fd-ad73-e350a1001a5f,916,Cheniguel,916000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+d9390689-a991-4e90-ac14-6a0f6a390826,917,Derrag,917000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+466d9c40-d4e9-46b6-971b-c8eff8465009,918,Djouab,918000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+ca9efdac-2188-4581-ac92-178e61dbda2e,919,Draa Esmar,919000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+d5967b7f-fd4f-4bd1-ac56-1ff388e091c8,920,El Azizia,920000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+e1491ba7-4a69-4274-821a-1142942850c4,921,El Guelbelkebir,921000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+9b9ecf3b-602f-4042-ab8c-928933df288f,922,El Hamdania,922000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+cab14803-1fba-4247-aa5b-8891f6f30579,923,El Haoudane,923000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+ac866a30-1f1a-41ac-8999-b424df633f83,924,El Omaria,924000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+9ce34166-3bc2-46e9-b756-4e4473c5329a,925,El Ouinet,925000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+b1f8ab59-e8a5-450c-ad24-ee08b133aff4,926,Hannacha,926000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+ba400a41-0151-4bf5-805d-2cdd799f9ad0,927,Kef Lakhdar,927000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+5fe58113-73bd-4455-ac49-8d8f7431e4a6,928,Khams Djouamaa,928000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+915b57fd-cce7-4dca-9d6e-cb95ff21f605,929,Ksar El Boukhari,929000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+6d0da3a2-e09b-4071-82c2-c3e4685b6bd8,930,Maghraoua,930000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+60f4499d-cead-453c-bc3a-5b19201d2627,931,Medea,931000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+0ed5585e-ff85-4561-8244-e301a7e1fe76,932,Medjebar,932000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+6aa738f6-d8aa-4fad-8541-d0338010bd69,933,Mezerana,933000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+94fac03b-9e48-43e1-bd6c-ddcbb53579c6,934,M'fatha,934000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+5a4bcb0c-3b2f-41c6-965e-993ab0b60cf4,935,Mihoub,935000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+c489a319-b08a-4c96-b60b-3da8e236de3f,936,Ouamri,936000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+532590d7-2d73-4a38-90d1-2c6261da6402,937,Oued Harbil,937000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+f4af6720-a110-44e4-87a2-b4c3d98ad8ff,938,Ouled Antar,938000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+4f956de9-1995-4cda-ac65-8fe3ccfaaa11,939,Ouled Bouachra,939000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+b544e218-b0d6-49b4-b24a-9863cb32b930,940,Ouled Brahim,940000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+fe3dfd0d-c990-448d-b0eb-586d1a1c45c7,941,Ouled Deid,941000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+93d03b52-1316-4c79-be8f-3c9129e9a047,942,Ouled Emaaraf,942000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+d642c3a5-4733-4aa8-a254-a00ba1908e11,943,Ouled Hellal,943000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+913a628e-e9bf-43a9-a16e-30ef447b0074,944,Oum El Djellil,944000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+c4224090-4d03-49b3-9fc1-6af7ce639448,945,Ouzera,945000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+22104b79-cb2b-4a39-9436-3fbbfbc43f1b,946,Rebaia,946000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+10b059f5-b0a1-4332-a5f5-79a90105b268,947,Saneg,947000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
+6fc51630-b618-465f-a7be-646a82c3c349,948,Sedraya,948000,commune,0e0f2d43-6d78-47dd-8bb7-0f2771cb97ff,TRUE,TRUE,,,,,,,,,,
