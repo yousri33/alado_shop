@@ -136,6 +136,23 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
           }}>
             <span>🌐</span> عرض الموقع
           </Link>
+          <button 
+            onClick={async () => {
+              if (confirm("هل تريد تسجيل الخروج؟")) {
+                await fetch("/api/admin/logout", { method: "POST" });
+                window.location.href = "/admin/login";
+              }
+            }}
+            style={{
+              display: "flex", alignItems: "center", gap: "8px",
+              padding: "9px 12px", borderRadius: "10px",
+              color: "rgba(239, 68, 68, 0.7)", background: "none", border: "none",
+              fontSize: "0.85rem", fontWeight: 700, cursor: "pointer",
+              textAlign: "right", width: "100%"
+            }}
+          >
+            <span>🛑</span> تسجيل الخروج
+          </button>
         </div>
       </aside>
 
