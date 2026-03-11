@@ -4,11 +4,13 @@ import type { NextRequest } from 'next/server';
 export function middleware(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
+  const sessionId = process.env.ADMIN_SESSION_ID || 'alado_khaled_session_secure_v1';
+
   // Protect /admin routes (except /admin/login)
   if (pathname.startsWith('/admin') && pathname !== '/admin/login') {
     const session = request.cookies.get('admin_session');
 
-    if (!session || session.value !== 'alado_khaled_session_secure_v1') {
+    if (!session || session.value !== sessionId) {
       const loginUrl = new URL('/admin/login', request.url);
       return NextResponse.redirect(loginUrl);
     }
@@ -18,7 +20,7 @@ export function middleware(request: NextRequest) {
   if (pathname.startsWith('/api/admin') && pathname !== '/api/admin/login') {
     const session = request.cookies.get('admin_session');
 
-    if (!session || session.value !== 'alado_khaled_session_secure_v1') {
+    if (!session || session.value !== sessionId) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
   }

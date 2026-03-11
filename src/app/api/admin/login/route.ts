@@ -5,13 +5,14 @@ export async function POST(req: Request) {
   try {
     const { username, password } = await req.json();
 
-    // Use credentials provided by the user
-    if (username === "khaled" && password === "alado") {
+    const adminUser = process.env.ADMIN_USERNAME;
+    const adminPass = process.env.ADMIN_PASSWORD;
+    const sessionId = process.env.ADMIN_SESSION_ID || "alado_khaled_session_secure_v1";
+
+    if (username === adminUser && password === adminPass) {
       const cookieStore = await cookies();
       
-      // Setting a simple session cookie
-      // In a real production app, we would use a signed JWT
-      cookieStore.set("admin_session", "alado_khaled_session_secure_v1", {
+      cookieStore.set("admin_session", sessionId, {
         httpOnly: true,
         secure: process.env.NODE_SETTING === "production",
         sameSite: "lax",
