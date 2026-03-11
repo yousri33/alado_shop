@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   const { pathname } = request.nextUrl;
 
   const sessionId = process.env.ADMIN_SESSION_ID || 'alado_khaled_session_secure_v1';
@@ -30,5 +30,5 @@ export function middleware(request: NextRequest) {
 
 // Ensure the middleware runs for all admin paths
 export const config = {
-  matcher: ['/admin/:path*'],
+  matcher: ['/admin/:path*', '/api/admin/:path*'],
 };
