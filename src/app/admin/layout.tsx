@@ -39,6 +39,11 @@ export default function AdminLayout({ children }: { children: React.ReactNode })
   const pathname = usePathname();
   const { title, icon } = getPageMeta(pathname);
 
+  // Skip layout for login page
+  if (pathname === "/admin/login") {
+    return <>{children}</>;
+  }
+
   return (
     <div style={{ display: "flex", minHeight: "100vh", background: "#f5f5f0" }}>
 
