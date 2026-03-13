@@ -4,6 +4,7 @@ import { useState, useRef, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { toast } from "sonner";
 import { getCommunesByWilayaId } from "algeria-locations";
+import { track } from "@vercel/analytics";
 
 interface ProductVariant {
   id: string;
@@ -162,6 +163,15 @@ export function OrderForm({ product }: { product: Product }) {
       });
       const data = await res.json();
       if (!res.ok) throw new Error(data.error || 'خطأ في الإرسال');
+      
+      // Track conversion in Vercel Analytics
+      track('Order Created', {
+        product: product.name_ar,
+        total: totalPrice,
+        quantity: totalQuantity,
+        wilaya: wilaya?.name || 'Unknown'
+      });
+
       router.push(`/order-success?id=${data.id}`);
     } catch (err) {
       toast.error(err instanceof Error ? err.message : 'حدث خطأ. حاول مجدداً.');
