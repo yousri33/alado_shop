@@ -50,5 +50,25 @@ export async function POST(req: NextRequest) {
     return NextResponse.json({ error: error.message }, { status: 500 });
   }
 
+  // --- Webhook Integration ---
+  try {
+    // We don't await this to avoid delaying the response to the user,
+    // or we can await it if we want to ensure n8n receives it.
+    // Usually for webhooks like "sheet-upload", a quick async fire is fine.
+    fetch("https://n8n.srv1231456.hstgr.cloud/webhook/sheet-upload", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        ...body,
+        orderId: order.id,
+        orderNumber,
+        totalPrice,
+        createdAt: new Date().toISOString()
+      }),
+    }).catch(err => console.error("Webhook trigger failed:", err));
+  } catch (err) {
+    console.error("Webhook processing error:", err);
+  }
+
   return NextResponse.json({ id: order.id, orderNumber }, { status: 201 });
 }

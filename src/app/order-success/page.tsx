@@ -23,7 +23,8 @@ export default async function OrderSuccessPage({
 
   const phone = order?.phone || "—";
   const productName = (order?.product as { name_ar: string } | null)?.name_ar || "المنتج";
-  const totalPrice = (order?.product_price || 0) + (order?.delivery_price || 0);
+  const subtotal = (order?.unit_price || 0) * (order?.quantity || 1);
+  const totalPrice = order?.total_price || (subtotal + (order?.delivery_price || 0));
   const wilaya = order?.wilaya_name || order?.wilaya_id || "—";
   const deliveryType = order?.delivery_type === "home" ? "توصيل للمنزل 🏠" : "نقطة استلام 🏢";
   const orderId = order?.id?.slice(0, 8).toUpperCase() || id?.slice(0, 8).toUpperCase();
@@ -86,15 +87,16 @@ export default async function OrderSuccessPage({
           <div style={{ display: "flex", flexDirection: "column", gap: "0.9rem" }}>
             {[
               ["📦 المنتج", productName],
+              ["🔢 الكمية", order?.quantity || 1],
               ["📞 الهاتف", phone],
               ["📍 الولاية والبلدية", `${typeof wilaya === "number" ? `الولاية ${wilaya}` : wilaya}${order?.commune_name ? `، ${order.commune_name}` : ''}`],
               ["🚚 التوصيل", deliveryType],
-              ["💰 سعر المنتج", `${(order?.product_price || 0).toLocaleString()} DZD`],
+              ["💰 سعر المنتج", `${subtotal.toLocaleString()} DZD`],
               ["🚚 رسوم التوصيل", `+${(order?.delivery_price || 0).toLocaleString()} DZD`],
             ].map(([label, value]) => (
               <div key={label} style={{ display: "flex", justifyContent: "space-between", alignItems: "center", fontSize: "0.95rem" }}>
                 <span style={{ fontWeight: 700, color: "var(--black)" }}>{label}</span>
-                <span className={label.includes("الهاتف") ? "font-latin" : ""} style={{ color: "var(--text-muted)" }}>{value}</span>
+                <span className={label.includes("الهاتف") || typeof value === 'number' ? "font-latin" : ""} style={{ color: "var(--text-muted)" }}>{value}</span>
               </div>
             ))}
             <div style={{ paddingTop: "1rem", borderTop: "2px solid var(--border)", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
@@ -104,6 +106,7 @@ export default async function OrderSuccessPage({
               </span>
             </div>
           </div>
+
         </div>
 
         {/* Info box */}

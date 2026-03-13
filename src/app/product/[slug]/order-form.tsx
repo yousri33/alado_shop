@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useRef, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { toast } from "sonner";
 import { getCommunesByWilayaId } from "algeria-locations";
@@ -75,8 +75,25 @@ const STEPS = [
 
 export function OrderForm({ product }: { product: Product }) {
   const router = useRouter();
+  const formRef = useRef<HTMLDivElement>(null);
   const [step, setStep] = useState(1);
+  const [isFormVisible, setIsFormVisible] = useState(true);
   const variants = product.product_variants || [];
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        setIsFormVisible(entry.isIntersecting);
+      },
+      { threshold: 0.1 }
+    );
+
+    if (formRef.current) {
+      observer.observe(formRef.current);
+    }
+
+    return () => observer.disconnect();
+  }, []);
   
   // Track quantity per variant ID
   const [items, setItems] = useState<Record<string, number>>({});
@@ -155,6 +172,7 @@ export function OrderForm({ product }: { product: Product }) {
   return (
     <div
       id="order-form"
+      ref={formRef}
       style={{
         background: 'white',
         borderRadius: 'var(--radius-lg)',
@@ -258,7 +276,7 @@ export function OrderForm({ product }: { product: Product }) {
                 required
               />
               <p style={{ fontSize: '0.8rem', color: 'var(--text-muted)', marginTop: '8px', display: 'flex', alignItems: 'center', gap: '6px' }}>
-                <span style={{ fontSize: '1.1rem' }}>�️</span> رقمك في أمان، سنستخدمه فقط لتأكيد الطلب
+                <span style={{ fontSize: '1.1rem' }}>📱</span> رقمك في أمان، سنستخدمه فقط لتأكيد الطلب
               </p>
             </div>
 
@@ -646,6 +664,103 @@ export function OrderForm({ product }: { product: Product }) {
           </div>
         )}
       </form>
+
+      {/* ── DYNAMIC MOBILE STICKY BAR ── */}
+      <div 
+        className="mobile-sticky-bar"
+        style={{
+          position: 'fixed',
+          bottom: '20px',
+          left: '20px',
+          right: '20px',
+          zIndex: 1000,
+          background: 'rgba(26, 26, 26, 0.95)',
+          backdropFilter: 'blur(10px)',
+          WebkitBackdropFilter: 'blur(10px)',
+          borderRadius: '22px',
+          padding: '0.75rem 1rem',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'space-between',
+          gap: '12px',
+          border: '1px solid rgba(255, 255, 255, 0.1)',
+          boxShadow: '0 10px 30px rgba(0,0,0,0.2)',
+          transition: 'all 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
+          opacity: isFormVisible ? 0 : 1,
+          transform: isFormVisible ? 'translateY(100px)' : 'translateY(0)',
+          pointerEvents: isFormVisible ? 'none' : 'auto',
+          maxWidth: '500px',
+          margin: '0 auto'
+        }}
+      >
+        <div style={{ flex: 1 }}>
+          <div style={{ 
+            fontSize: '0.65rem', 
+            fontWeight: 800, 
+            color: 'rgba(255,255,255,0.5)', 
+            marginBottom: '1px',
+            textTransform: 'uppercase'
+          }}>
+            اطلب الآن بـ
+          </div>
+          <div style={{ display: 'flex', alignItems: 'baseline', gap: '4px' }}>
+            <span style={{ 
+              fontFamily: 'var(--font-latin)', 
+              fontWeight: 900, 
+              fontSize: '1.2rem',
+              color: 'var(--gold)',
+            }}>
+              {totalPrice.toLocaleString()}
+            </span>
+            <span style={{ 
+              fontSize: '0.7rem', 
+              fontWeight: 800, 
+              color: 'white',
+              fontFamily: 'var(--font-latin)',
+              opacity: 0.8
+            }}>
+              DZD
+            </span>
+          </div>
+        </div>
+
+        <a 
+          href="#order-form" 
+          className="btn-gold glow-on-hover"
+          style={{ 
+            textDecoration: 'none', 
+            fontSize: '0.85rem', 
+            borderRadius: '14px', 
+            padding: '0 1.25rem', 
+            height: '46px', 
+            flexShrink: 0,
+            background: 'var(--gold)',
+            color: 'var(--black)',
+            fontWeight: 900,
+            boxShadow: '0 4px 12px rgba(245,197,24,0.3)',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '6px'
+          }}
+        >
+          <span>إتمام الطلب</span>
+          <span style={{ fontSize: '1.1rem' }}>🛒</span>
+        </a>
+
+        <style>{`
+          @media (min-width: 900px) {
+            .mobile-sticky-bar { display: none !important; }
+          }
+          @keyframes glow-pulse {
+            0% { box-shadow: 0 4px 12px rgba(245,197,24,0.3); }
+            50% { box-shadow: 0 4px 20px rgba(245,197,24,0.6); }
+            100% { box-shadow: 0 4px 12px rgba(245,197,24,0.3); }
+          }
+          .glow-on-hover:hover {
+            animation: glow-pulse 1.5s infinite;
+          }
+        `}</style>
+      </div>
     </div>
   );
 }

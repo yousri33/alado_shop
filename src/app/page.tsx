@@ -139,8 +139,8 @@ export default async function Home() {
               </Link>
             </div>
 
-            {/* Stats row */}
-            <div className="animate-fade-up delay-400" style={{
+                {/* Stats row */}
+            <div className="animate-fade-up delay-400 mobile-hide" style={{
               display: "inline-flex", background: "white", borderRadius: "var(--radius)",
               border: "1px solid var(--border)", boxShadow: "var(--shadow-sm)", overflow: "hidden",
             }}>
@@ -159,10 +159,10 @@ export default async function Home() {
           {/* ── Hero image ── */}
           <div className="animate-slide-in delay-200" style={{ display: "flex", justifyContent: "center" }}>
             <div style={{ position: "relative" }}>
-              <div className="animate-spin-slow" style={{ position: "absolute", inset: "-32px", borderRadius: "50%", border: "2px dashed rgba(245,197,24,0.28)" }} />
+              <div className="animate-spin-slow mobile-hide" style={{ position: "absolute", inset: "-32px", borderRadius: "50%", border: "2px dashed rgba(245,197,24,0.28)" }} />
               <div style={{ position: "absolute", inset: "-12px", borderRadius: "50%", border: "4px solid rgba(245,197,24,0.1)" }} />
               <div className="animate-float" style={{
-                width: "360px", height: "360px", borderRadius: "50%", overflow: "hidden",
+                width: "clamp(260px, 80vw, 360px)", height: "clamp(260px, 80vw, 360px)", borderRadius: "50%", overflow: "hidden",
                 background: "white", position: "relative",
                 boxShadow: "0 28px 80px rgba(0,0,0,0.14), 0 0 0 10px rgba(245,197,24,0.08)",
               }}>
@@ -212,13 +212,13 @@ export default async function Home() {
 
       {/* ═══ GUARANTEE STRIP ═══ */}
       <div style={{ background: "var(--black)", borderTop: "3px solid var(--gold)" }}>
-        <div style={{ maxWidth: "1280px", margin: "0 auto", padding: "0 1.5rem", display: "grid", gridTemplateColumns: "repeat(3, 1fr)" }}>
+        <div className="guarantee-grid" style={{ maxWidth: "1280px", margin: "0 auto", padding: "0" }}>
           {[
             ["🚚", "توصيل سريع", "Livraison rapide 3–7 jours"],
             ["💵", "الدفع عند الاستلام", "Paiement à la livraison"],
             ["🔄", "ضمان الاستبدال", "Garantie échange"],
           ].map(([icon, ar, fr], i) => (
-            <div key={ar} style={{
+            <div key={ar} className="guarantee-item" style={{
               display: "flex", alignItems: "center", gap: "1rem",
               padding: "1.5rem 2rem",
               borderLeft: i > 0 ? "1px solid rgba(255,255,255,0.08)" : "none",
@@ -285,7 +285,7 @@ export default async function Home() {
             <h3 style={{ color: "var(--text-muted)", fontSize: "1.15rem", fontWeight: 700 }}>لا توجد منتجات حالياً</h3>
           </div>
         ) : (
-          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: "1.75rem" }}>
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(clamp(150px, 45vw, 260px), 1fr))", gap: "clamp(1rem, 3vw, 1.75rem)" }}>
             {displayProducts.map((product, idx) => {
               const images = product.product_images as { image_url: string; is_primary: boolean }[];
               const primaryImage = images?.find(img => img.is_primary)?.image_url || images?.[0]?.image_url;

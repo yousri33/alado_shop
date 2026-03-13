@@ -98,7 +98,6 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
           @media (min-width: 900px) {
             .product-layout { display: grid !important; grid-template-columns: 1fr 400px; gap: 3rem; align-items: start; }
             .form-sticky { position: sticky !important; top: 80px; }
-            .mobile-order-btn { display: none !important; }
             .mobile-form-container { display: none !important; }
           }
           @media (max-width: 899px) {
@@ -179,22 +178,6 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
 
         </div>
       </div>
-
-      {/* ── MOBILE STICKY ORDER BUTTON (shows at bottom when scrolled past form) ── */}
-      <div className="mobile-order-btn" style={{
-        position: "fixed", bottom: 0, left: 0, right: 0, zIndex: 200,
-        background: "white", borderTop: "2px solid var(--border)",
-        padding: "0.875rem 1rem", display: "flex", gap: "0.75rem", alignItems: "center",
-      }}>
-        <div style={{ flex: 1 }}>
-          <div style={{ fontSize: "0.75rem", color: "var(--text-muted)", fontWeight: 600 }}>السعر الكلي مع التوصيل</div>
-          <div className="font-latin" style={{ fontWeight: 900, fontSize: "1.2rem" }}>{(product.price).toLocaleString()}+ DZD</div>
-        </div>
-        <a href="#order-form" className="btn-gold" style={{ textDecoration: "none", fontSize: "1rem", borderRadius: "12px", padding: "0 1.5rem", height: "50px", flexShrink: 0 }}>
-          اطلب الآن 🛒
-        </a>
-      </div>
-
     </main>
   );
 }
