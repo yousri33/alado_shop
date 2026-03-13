@@ -13,6 +13,7 @@
     "@google/generative-ai": "^0.24.1",
     "@hookform/resolvers": "^5.2.2",
     "@supabase/supabase-js": "^2.99.1",
+    "@vercel/analytics": "^2.0.1",
     "algeria-locations": "^1.0.6",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
